@@ -226,6 +226,9 @@ body.editing #main:focus{outline:none}
 <div class="box box-explain">
 <p>ก่อนนำไปใช้จริงควรตรวจสอบกับแนวทางเวชปฏิบัติของราชวิทยาลัยสูติฯ และ แนวทางเวชปฏิบัติของโรงพยาบาล/สสจ. (Local Guidelines) ด้วย</p>
 </div>
+<div class="box box-explain" style="border-left-color:#b4442f;background:#fbf3f1">
+<p><strong>Disclaimer / คำชี้แจง:</strong> This pocket book is <strong>intended for internal use only</strong> and is <strong>not authorized for commercial distribution</strong>. While every effort has been made to ensure accuracy, <strong>the completeness of the information cannot be guaranteed</strong>. If you have any questions, please feel free to reach out.</p>
+</div>
 <h1 id="sec2">Part 1 - Obstetrics</h1>
 <h2 id="sec3"><span class="hn">1.1</span> Goals of Antenatal Care (ANC)</h2>
 <div class="box box-key">
@@ -3851,6 +3854,151 @@ document.querySelectorAll('h1[id],h2[id]').forEach(function(h){obs.observe(h);})
   end.innerHTML='<h3>ให้ข้อเสนอแนะภาพรวม (Overall feedback)</h3><p>สแกน QR หรือแตะปุ่มเพื่อเปิดแบบฟอร์ม Google Form</p><div class="qrbox"><img alt="QR แบบฟอร์มข้อเสนอแนะ" src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=4&data='+encodeURIComponent(FORM_VIEW)+'"></div><div><a class="fblink" id="fbOpenForm" href="'+FORM_VIEW+'" target="_blank" rel="noopener">เปิดแบบฟอร์มข้อเสนอแนะ</a></div><details class="fbembed"><summary>หรือกรอกแบบฟอร์มในหน้านี้</summary><div class="fbframe"><iframe src="'+FORM_EMBED+'" frameborder="0" marginheight="0" marginwidth="0" loading="lazy">กำลังโหลด…</iframe></div></details>';
   main.appendChild(end);
   if(/[?&]fbtest=1/.test(location.search)){window.__fb={cur:cur,openDlg:openDlg,sendFb:sendFb,openMenuAt:openMenuAt};}
+})();
+</script>
+<script>
+(function(){
+  var main=document.getElementById('main'); if(!main) return;
+  ['navStyle','navTab','navPanel','navBackdrop'].forEach(function(id){var e=document.getElementById(id);if(e)e.remove();});
+
+  var st=document.createElement('style'); st.id='navStyle';
+  st.textContent=
+   '#navTab{position:fixed;right:0;top:50%;transform:translateY(-50%);z-index:75;background:#12426E;color:#fff;border:none;border-radius:12px 0 0 12px;padding:14px 7px;cursor:pointer;font-family:"Segoe UI",Tahoma,"Leelawadee UI","Sarabun",Arial,sans-serif;font-weight:700;font-size:13px;box-shadow:-2px 2px 12px rgba(0,0,0,.22);writing-mode:vertical-rl;letter-spacing:1px}'
+   +'#navTab:hover{background:#1b568c}#navTab .ic{writing-mode:horizontal-tb;display:block;text-align:center;margin-bottom:7px;font-size:16px}'
+   +'body.editing #navTab{display:none}'
+   +'#navBackdrop{position:fixed;inset:0;background:rgba(20,30,45,.4);z-index:78;opacity:0;pointer-events:none;transition:opacity .2s}#navBackdrop.show{opacity:1;pointer-events:auto}'
+   +'#navPanel{position:fixed;top:0;right:0;height:100%;width:372px;max-width:92vw;background:#fff;z-index:80;box-shadow:-6px 0 26px rgba(0,0,0,.22);transform:translateX(103%);transition:transform .22s ease;display:flex;flex-direction:column;font-family:"Segoe UI",Tahoma,"Leelawadee UI","Sarabun",Arial,sans-serif}'
+   +'#navPanel.show{transform:translateX(0)}'
+   +'#navPanel .nv-hd{display:flex;align-items:center;gap:8px;padding:14px 16px;border-bottom:1px solid #e7edf3;background:#f8fbff}'
+   +'#navPanel .nv-ti{font-weight:800;color:#12426E;font-size:16px}#navPanel .nv-sub{font-size:11px;color:#6b8199;font-weight:600;margin-top:1px}'
+   +'#navPanel .nv-x{margin-left:auto;background:none;border:none;font-size:24px;line-height:1;color:#8aa0b6;cursor:pointer}'
+   +'#navPanel .nv-bd{padding:12px 14px;overflow:auto;flex:1}'
+   +'#navQ{width:100%;box-sizing:border-box;border:1px solid #ccd6e0;border-radius:9px;padding:10px 12px;font-size:14.5px;font-family:inherit}'
+   +'#navQ:focus{outline:none;border-color:#2E74B5;box-shadow:0 0 0 3px rgba(46,116,181,.15)}'
+   +'#navHint{font-size:12px;color:#7a8da0;margin:8px 2px 4px}'
+   +'#navResults{display:flex;flex-direction:column;gap:8px;margin-top:6px}'
+   +'.nv-item{text-align:left;display:block;width:100%;background:#f7fafe;border:1px solid #e3ebf3;border-radius:9px;padding:9px 11px;cursor:pointer;font-family:inherit}'
+   +'.nv-item:hover{background:#eef4fb;border-color:#c3d5e8}'
+   +'.nv-item .nv-t{font-size:13.5px;font-weight:700;color:#173a5e;line-height:1.35}'
+   +'.nv-item .nv-p{font-size:11.5px;color:#2E74B5;margin-top:2px;font-weight:600}'
+   +'.nv-item .nv-sn{font-size:12px;color:#5c6b7a;margin-top:4px;line-height:1.45}'
+   +'.nv-item .nv-sn b,.nv-item .nv-t b{background:#fde68a;color:#7a4f00;border-radius:2px;padding:0 1px}'
+   +'.nv-chip{border:1px solid #cfe0f0;background:#eef5fc;color:#2E74B5;border-radius:16px;padding:5px 12px;font-size:12.5px;cursor:pointer;font-family:inherit;font-weight:600}'
+   +'.nv-chip:hover{background:#dcecfb}'
+   +'@keyframes navflash{0%,100%{background:transparent}18%{background:#fff3bf}}'
+   +'.nav-hit{animation:navflash 2.2s ease}'
+   +'#main h1,#main h2,#main h3{scroll-margin-top:16px}'
+   +'@media print{#navTab,#navPanel,#navBackdrop{display:none!important}}';
+  document.head.appendChild(st);
+
+  var tab=document.createElement('button'); tab.id='navTab'; tab.type='button'; tab.setAttribute('aria-label','ค้นหาหัวข้อ Ask the guide');
+  tab.innerHTML='<span class="ic" aria-hidden="true">🔎</span>ถาม Ask';
+  var bd=document.createElement('div'); bd.id='navBackdrop';
+  var panel=document.createElement('div'); panel.id='navPanel'; panel.setAttribute('role','dialog'); panel.setAttribute('aria-label','ถามหาหัวข้อ Ask the guide');
+  panel.innerHTML='<div class="nv-hd"><div><div class="nv-ti">ถามหาหัวข้อ</div><div class="nv-sub">Ask the guide · พาไปยังหัวข้อที่เกี่ยวข้อง</div></div><button class="nv-x" id="navClose" type="button" aria-label="ปิด">×</button></div><div class="nv-bd"><input id="navQ" type="search" placeholder="เช่น เบาหวาน, PPH, induction, ครรภ์เป็นพิษ" aria-label="พิมพ์คำค้น"><div id="navHint"></div><div id="navResults"></div></div>';
+  document.body.appendChild(bd); document.body.appendChild(panel); document.body.appendChild(tab);
+
+  var q=panel.querySelector('#navQ'), results=panel.querySelector('#navResults'), hint=panel.querySelector('#navHint');
+
+  var SYN={
+    'เบาหวาน':'gdm gestational diabetes ogtt gct glucose','น้ำตาล':'gdm glucose diabetes',
+    'ครรภ์เป็นพิษ':'preeclampsia eclampsia pih hypertension','ความดัน':'preeclampsia pih hypertension',
+    'ตกเลือด':'postpartum hemorrhage pph bleeding atony','คุมกำเนิด':'contraception contraceptive iud implant pills',
+    'ยาคุม':'contraception oral pills','ชักนำ':'induction of labor','เร่งคลอด':'induction augmentation oxytocin',
+    'สายสะดือ':'prolapsed cord','ฝากครรภ์':'antenatal care anc','อายุครรภ์':'gestational age dating ultrasound',
+    'ปากมดลูก':'cervix cervical pap smear ascus','มะเร็งปากมดลูก':'cervical cancer pap',
+    'ท้องนอกมดลูก':'ectopic pregnancy','ตั้งครรภ์นอกมดลูก':'ectopic pregnancy','แท้ง':'abortion miscarriage',
+    'เลือดออก':'bleeding hemorrhage','ปวดท้องน้อย':'pelvic pain','ประจำเดือน':'menstruation menstrual amenorrhea',
+    'รกเกาะต่ำ':'placenta previa','รกลอกตัว':'abruptio placentae abruption','ติดเชื้อ':'infection sepsis'
+  };
+
+  var sections=[];
+  (function(){
+    var cur=null, curPart='';
+    Array.prototype.forEach.call(main.children, function(el){
+      if(el.id==='fbEnd' || (el.closest && el.closest('#fbEnd'))) return;
+      var tag=el.tagName;
+      if(tag==='H1'||tag==='H2'||tag==='H3'){
+        var clone=el.cloneNode(true); var fb=clone.querySelector('.fb-topic-btn'); if(fb) fb.remove();
+        var title=clone.textContent.replace(/\s+/g,' ').trim();
+        if(tag==='H1') curPart=title;
+        if(el.id){ cur={id:el.id, title:title, part:(tag==='H1'?'':curPart), text:''}; sections.push(cur); }
+        else { cur=null; }
+      } else if(cur){ cur.text += ' ' + (el.textContent||''); }
+    });
+    sections.forEach(function(s){ s.text=s.text.replace(/\s+/g,' ').trim().slice(0,4000); s.tl=s.title.toLowerCase(); s.hay=(s.title+' '+s.text).toLowerCase(); });
+  })();
+
+  function esc(s){return String(s).replace(/[&<>]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;'}[c];});}
+  function rquote(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
+  function expand(terms){
+    var extra=[];
+    terms.forEach(function(t){ if(!t)return; for(var k in SYN){ var kl=k.toLowerCase(); if(t.indexOf(kl)>=0||kl.indexOf(t)>=0){ extra=extra.concat(SYN[k].toLowerCase().split(' ')); } } });
+    return terms.concat(extra);
+  }
+  function snippet(s,terms){
+    var txt=s.text; if(!txt) return '';
+    var low=txt.toLowerCase(), pos=-1;
+    for(var i=0;i<terms.length;i++){ var t=terms[i]; if(t&&t.length>1){ var p=low.indexOf(t); if(p>=0 && (pos<0||p<pos)) pos=p; } }
+    var start=pos<0?0:Math.max(0,pos-35); var frag=txt.slice(start,start+150);
+    if(start>0) frag='…'+frag; if(start+150<txt.length) frag=frag+'…';
+    frag=esc(frag);
+    terms.forEach(function(t){ if(!t||t.length<2)return; try{ frag=frag.replace(new RegExp('('+rquote(t)+')','ig'),'<b>$1</b>'); }catch(e){} });
+    return frag;
+  }
+  function search(query){
+    query=query.trim().toLowerCase(); if(!query) return {list:[],terms:[]};
+    var terms=query.split(/\s+/).filter(Boolean);
+    var all=expand(terms);
+    var out=[];
+    sections.forEach(function(s){
+      var sc=0;
+      all.forEach(function(t){ if(!t)return; if(s.tl.indexOf(t)>=0)sc+=6; else if(s.hay.indexOf(t)>=0)sc+=2; });
+      if(s.tl.indexOf(query)>=0)sc+=5; else if(s.hay.indexOf(query)>=0)sc+=3;
+      if(sc>0) out.push({s:s,sc:sc});
+    });
+    out.sort(function(a,b){return b.sc-a.sc;});
+    return {list:out.slice(0,12).map(function(o){return o.s;}), terms:all};
+  }
+  function render(list,terms){
+    results.innerHTML='';
+    if(!list.length){ results.innerHTML='<div style="font-size:13px;color:#8093a6;padding:6px 2px">ไม่พบหัวข้อที่ตรงกัน ลองคำอื่น เช่น PPH, GDM, คุมกำเนิด</div>'; return; }
+    list.forEach(function(s){
+      var b=document.createElement('button'); b.type='button'; b.className='nv-item';
+      var sn=snippet(s,terms);
+      b.innerHTML='<div class="nv-t">'+esc(s.title)+'</div>'+(s.part?('<div class="nv-p">'+esc(s.part)+'</div>'):'')+(sn?('<div class="nv-sn">'+sn+'</div>'):'');
+      b.onclick=function(){ goTo(s.id); };
+      results.appendChild(b);
+    });
+  }
+  function chips(){
+    var ex=['PPH','GDM','induction','CTG','ครรภ์เป็นพิษ','คุมกำเนิด'];
+    results.innerHTML='<div style="font-size:12px;color:#7a8da0;margin:2px 2px 8px">ลองค้นหา</div>';
+    var wrap=document.createElement('div'); wrap.style.cssText='display:flex;flex-wrap:wrap;gap:7px';
+    ex.forEach(function(x){ var c=document.createElement('button'); c.type='button'; c.className='nv-chip'; c.textContent=x; c.onclick=function(){ q.value=x; run(); q.focus(); }; wrap.appendChild(c); });
+    results.appendChild(wrap);
+  }
+  var lastHit=null;
+  function goTo(id){
+    var el=document.getElementById(id); if(!el) return;
+    close();
+    setTimeout(function(){ try{el.scrollIntoView({behavior:'smooth',block:'start'});}catch(e){el.scrollIntoView();} if(lastHit)lastHit.classList.remove('nav-hit'); void el.offsetWidth; el.classList.add('nav-hit'); lastHit=el; setTimeout(function(){el.classList.remove('nav-hit');},2300); }, 210);
+  }
+  var timer=null;
+  function run(){
+    var v=q.value;
+    if(!v.trim()){ hint.textContent='พิมพ์อาการ หัวข้อ หรือคำย่อ แล้วแตะผลลัพธ์เพื่อไปยังส่วนนั้น'; chips(); return; }
+    var r=search(v);
+    hint.textContent=r.list.length+' ผลลัพธ์';
+    render(r.list, r.terms);
+  }
+  q.addEventListener('input',function(){ if(timer)clearTimeout(timer); timer=setTimeout(run,120); });
+  q.addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); if(timer)clearTimeout(timer); run(); } });
+
+  function openPanel(){ panel.classList.add('show'); bd.classList.add('show'); if(!q.value)run(); setTimeout(function(){try{q.focus();}catch(e){}},220); }
+  function close(){ panel.classList.remove('show'); bd.classList.remove('show'); }
+  tab.onclick=openPanel; panel.querySelector('#navClose').onclick=close; bd.onclick=close;
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&panel.classList.contains('show'))close(); });
 })();
 </script>
 
