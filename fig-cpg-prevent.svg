@@ -1,0 +1,159 @@
+<svg
+ viewBox="0.00 0.00 855.00 376.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 372)">
+<title>prev</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-372 851,-372 851,4 -4,4"/>
+<!-- S -->
+<g id="node1" class="node">
+<title>S</title>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M542.5,-368C542.5,-368 398.5,-368 398.5,-368 392.5,-368 386.5,-362 386.5,-356 386.5,-356 386.5,-344 386.5,-344 386.5,-338 392.5,-332 398.5,-332 398.5,-332 542.5,-332 542.5,-332 548.5,-332 554.5,-338 554.5,-344 554.5,-344 554.5,-356 554.5,-356 554.5,-362 548.5,-368 542.5,-368"/>
+<text text-anchor="middle" x="470.5" y="-346.9" font-family="Sarabun" font-size="12.00">ตั้งครรภ์เดี่ยว (singleton)</text>
+</g>
+<!-- A -->
+<g id="node2" class="node">
+<title>A</title>
+<path fill="#fdeecf" stroke="#d9a441" d="M450.5,-301C450.5,-301 302.5,-301 302.5,-301 296.5,-301 290.5,-295 290.5,-289 290.5,-289 290.5,-277 290.5,-277 290.5,-271 296.5,-265 302.5,-265 302.5,-265 450.5,-265 450.5,-265 456.5,-265 462.5,-271 462.5,-277 462.5,-277 462.5,-289 462.5,-289 462.5,-295 456.5,-301 450.5,-301"/>
+<text text-anchor="middle" x="376.5" y="-279.9" font-family="Sarabun" font-size="12.00">ไม่มีประวัติคลอดก่อนกำหนด</text>
+</g>
+<!-- S&#45;&gt;A -->
+<g id="edge1" class="edge">
+<title>S&#45;&gt;A</title>
+<path fill="none" stroke="#5f6b78" d="M445.8,-331.92C434.02,-323.78 419.81,-313.95 407.33,-305.32"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="408.51,-303.16 401.36,-301.19 405.72,-307.19 408.51,-303.16"/>
+</g>
+<!-- B -->
+<g id="node3" class="node">
+<title>B</title>
+<path fill="#fdeecf" stroke="#d9a441" d="M686.5,-301C686.5,-301 546.5,-301 546.5,-301 540.5,-301 534.5,-295 534.5,-289 534.5,-289 534.5,-277 534.5,-277 534.5,-271 540.5,-265 546.5,-265 546.5,-265 686.5,-265 686.5,-265 692.5,-265 698.5,-271 698.5,-277 698.5,-277 698.5,-289 698.5,-289 698.5,-295 692.5,-301 686.5,-301"/>
+<text text-anchor="middle" x="616.5" y="-279.9" font-family="Sarabun" font-size="12.00">มีประวัติคลอดก่อนกำหนด</text>
+</g>
+<!-- S&#45;&gt;B -->
+<g id="edge2" class="edge">
+<title>S&#45;&gt;B</title>
+<path fill="none" stroke="#5f6b78" d="M508.86,-331.92C528.15,-323.33 551.64,-312.88 571.74,-303.93"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="572.74,-306.16 578.14,-301.08 570.75,-301.69 572.74,-306.16"/>
+</g>
+<!-- US -->
+<g id="node4" class="node">
+<title>US</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M253.5,-227.5C253.5,-227.5 91.5,-227.5 91.5,-227.5 85.5,-227.5 79.5,-221.5 79.5,-215.5 79.5,-215.5 79.5,-197.5 79.5,-197.5 79.5,-191.5 85.5,-185.5 91.5,-185.5 91.5,-185.5 253.5,-185.5 253.5,-185.5 259.5,-185.5 265.5,-191.5 265.5,-197.5 265.5,-197.5 265.5,-215.5 265.5,-215.5 265.5,-221.5 259.5,-227.5 253.5,-227.5"/>
+<text text-anchor="middle" x="172.5" y="-209.9" font-family="Sarabun" font-size="12.00">ตรวจ U/S ทางหน้าท้องดูปากมดลูก*</text>
+<text text-anchor="middle" x="172.5" y="-196.9" font-family="Sarabun" font-size="12.00">ที่ GA 18&#45;24 สัปดาห์</text>
+</g>
+<!-- A&#45;&gt;US -->
+<g id="edge3" class="edge">
+<title>A&#45;&gt;US</title>
+<path fill="none" stroke="#5f6b78" d="M329.7,-264.91C301.37,-254.56 264.92,-241.25 234.25,-230.05"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="234.82,-227.65 227.4,-227.55 233.13,-232.25 234.82,-227.65"/>
+</g>
+<!-- TVCL -->
+<g id="node5" class="node">
+<title>TVCL</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M453.5,-227.5C453.5,-227.5 299.5,-227.5 299.5,-227.5 293.5,-227.5 287.5,-221.5 287.5,-215.5 287.5,-215.5 287.5,-197.5 287.5,-197.5 287.5,-191.5 293.5,-185.5 299.5,-185.5 299.5,-185.5 453.5,-185.5 453.5,-185.5 459.5,-185.5 465.5,-191.5 465.5,-197.5 465.5,-197.5 465.5,-215.5 465.5,-215.5 465.5,-221.5 459.5,-227.5 453.5,-227.5"/>
+<text text-anchor="middle" x="376.5" y="-209.9" font-family="Sarabun" font-size="12.00">วัดความยาวปากมดลูก* (TVCL)</text>
+<text text-anchor="middle" x="376.5" y="-196.9" font-family="Sarabun" font-size="12.00">ที่ GA 18&#45;24 สัปดาห์</text>
+</g>
+<!-- A&#45;&gt;TVCL -->
+<g id="edge4" class="edge">
+<title>A&#45;&gt;TVCL</title>
+<path fill="none" stroke="#5f6b78" d="M376.5,-264.72C376.5,-255.8 376.5,-244.7 376.5,-234.66"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="378.95,-234.59 376.5,-227.59 374.05,-234.59 378.95,-234.59"/>
+</g>
+<!-- PROG100 -->
+<g id="node8" class="node">
+<title>PROG100</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M835,-234C835,-234 500,-234 500,-234 494,-234 488,-228 488,-222 488,-222 488,-191 488,-191 488,-185 494,-179 500,-179 500,-179 835,-179 835,-179 841,-179 847,-185 847,-191 847,-191 847,-222 847,-222 847,-228 841,-234 835,-234"/>
+<text text-anchor="middle" x="667.5" y="-216.4" font-family="Sarabun" font-size="12.00">Micronized progesterone 100&#45;200 มก. เหน็บช่องคลอดก่อนนอน</text>
+<text text-anchor="middle" x="667.5" y="-203.4" font-family="Sarabun" font-size="12.00">วันละครั้ง เริ่ม GA 16&#45;20 จนถึง 36 สัปดาห์</text>
+<text text-anchor="middle" x="667.5" y="-190.4" font-family="Sarabun" font-size="12.00">(เดิม 17&#45;OHPC 250 มก. IM ทุกสัปดาห์ &#45; FDA ยกเลิกแล้ว)</text>
+</g>
+<!-- B&#45;&gt;PROG100 -->
+<g id="edge9" class="edge">
+<title>B&#45;&gt;PROG100</title>
+<path fill="none" stroke="#5f6b78" d="M628.33,-264.72C633.4,-257.32 639.49,-248.42 645.34,-239.87"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="647.41,-241.19 649.34,-234.03 643.36,-238.42 647.41,-241.19"/>
+</g>
+<!-- ROUTINE -->
+<g id="node6" class="node">
+<title>ROUTINE</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M431.5,-128.5C431.5,-128.5 337.5,-128.5 337.5,-128.5 331.5,-128.5 325.5,-122.5 325.5,-116.5 325.5,-116.5 325.5,-104.5 325.5,-104.5 325.5,-98.5 331.5,-92.5 337.5,-92.5 337.5,-92.5 431.5,-92.5 431.5,-92.5 437.5,-92.5 443.5,-98.5 443.5,-104.5 443.5,-104.5 443.5,-116.5 443.5,-116.5 443.5,-122.5 437.5,-128.5 431.5,-128.5"/>
+<text text-anchor="middle" x="384.5" y="-107.4" font-family="Sarabun" font-size="12.00">ฝากครรภ์ตามปกติ</text>
+</g>
+<!-- US&#45;&gt;ROUTINE -->
+<g id="edge5" class="edge">
+<title>US&#45;&gt;ROUTINE</title>
+<path fill="none" stroke="#5f6b78" d="M203.54,-185.49C220.97,-174.85 243.4,-162.12 264.5,-153 285.41,-143.97 291.93,-145.32 313.5,-138 319.95,-135.81 326.69,-133.43 333.34,-131.01"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="334.22,-133.3 339.95,-128.59 332.54,-128.7 334.22,-133.3"/>
+<text text-anchor="middle" x="271" y="-156" font-family="Sarabun" font-size="10.00">ปกติ</text>
+</g>
+<!-- PROG200 -->
+<g id="node7" class="node">
+<title>PROG200</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M291,-138C291,-138 12,-138 12,-138 6,-138 0,-132 0,-126 0,-126 0,-95 0,-95 0,-89 6,-83 12,-83 12,-83 291,-83 291,-83 297,-83 303,-89 303,-95 303,-95 303,-126 303,-126 303,-132 297,-138 291,-138"/>
+<text text-anchor="middle" x="151.5" y="-120.4" font-family="Sarabun" font-size="12.00">Micronized progesterone 200 มก. เหน็บช่องคลอด</text>
+<text text-anchor="middle" x="151.5" y="-107.4" font-family="Sarabun" font-size="12.00">หรือเจล 90 มก. วันละครั้ง ตั้งแต่วินิจฉัยจนถึง GA 36 สัปดาห์</text>
+<text text-anchor="middle" x="151.5" y="-94.4" font-family="Sarabun" font-size="12.00">(ปากมดลูก &lt; 10 มม. การเย็บผูกปากมดลูกอาจมีประโยชน์)</text>
+</g>
+<!-- US&#45;&gt;PROG200 -->
+<g id="edge6" class="edge">
+<title>US&#45;&gt;PROG200</title>
+<path fill="none" stroke="#5f6b78" d="M167.94,-185.1C165.36,-173.53 162.06,-158.75 159.09,-145.48"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="161.4,-144.58 157.48,-138.29 156.62,-145.65 161.4,-144.58"/>
+<text text-anchor="middle" x="179" y="-156" font-family="Sarabun" font-size="10.00">ผิดปกติ**</text>
+</g>
+<!-- TVCL&#45;&gt;ROUTINE -->
+<g id="edge7" class="edge">
+<title>TVCL&#45;&gt;ROUTINE</title>
+<path fill="none" stroke="#5f6b78" d="M378.24,-185.1C379.47,-170.63 381.13,-151.13 382.43,-135.83"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="384.88,-135.89 383.04,-128.71 380,-135.47 384.88,-135.89"/>
+<text text-anchor="middle" x="400" y="-156" font-family="Sarabun" font-size="10.00">≥ 25 มม.</text>
+</g>
+<!-- TVCL&#45;&gt;PROG200 -->
+<g id="edge8" class="edge">
+<title>TVCL&#45;&gt;PROG200</title>
+<path fill="none" stroke="#5f6b78" d="M342.31,-185.27C323.81,-174.81 300.33,-162.33 278.5,-153 268.25,-148.62 257.38,-144.43 246.48,-140.5"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="247.11,-138.12 239.69,-138.09 245.47,-142.74 247.11,-138.12"/>
+<text text-anchor="middle" x="320" y="-156" font-family="Sarabun" font-size="10.00">&lt; 25 มม.</text>
+</g>
+<!-- MON -->
+<g id="node9" class="node">
+<title>MON</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M750,-131.5C750,-131.5 585,-131.5 585,-131.5 579,-131.5 573,-125.5 573,-119.5 573,-119.5 573,-101.5 573,-101.5 573,-95.5 579,-89.5 585,-89.5 585,-89.5 750,-89.5 750,-89.5 756,-89.5 762,-95.5 762,-101.5 762,-101.5 762,-119.5 762,-119.5 762,-125.5 756,-131.5 750,-131.5"/>
+<text text-anchor="middle" x="667.5" y="-113.9" font-family="Sarabun" font-size="12.00">วัดความยาวปากมดลูกทุก 1&#45;4 สัปดาห์</text>
+<text text-anchor="middle" x="667.5" y="-100.9" font-family="Sarabun" font-size="12.00">ในช่วง 16&#45;23+6 สัปดาห์</text>
+</g>
+<!-- PROG100&#45;&gt;MON -->
+<g id="edge10" class="edge">
+<title>PROG100&#45;&gt;MON</title>
+<path fill="none" stroke="#5f6b78" d="M667.5,-178.81C667.5,-166.29 667.5,-151.39 667.5,-138.79"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="669.95,-138.67 667.5,-131.67 665.05,-138.67 669.95,-138.67"/>
+</g>
+<!-- CERC -->
+<g id="node10" class="node">
+<title>CERC</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M647.5,-42C647.5,-42 533.5,-42 533.5,-42 527.5,-42 521.5,-36 521.5,-30 521.5,-30 521.5,-12 521.5,-12 521.5,-6 527.5,0 533.5,0 533.5,0 647.5,0 647.5,0 653.5,0 659.5,-6 659.5,-12 659.5,-12 659.5,-30 659.5,-30 659.5,-36 653.5,-42 647.5,-42"/>
+<text text-anchor="middle" x="590.5" y="-24.4" font-family="Sarabun" font-size="12.00">เย็บผูกปากมดลูก</text>
+<text text-anchor="middle" x="590.5" y="-11.4" font-family="Sarabun" font-size="12.00">และให้โปรเจสเตอโรนต่อ</text>
+</g>
+<!-- MON&#45;&gt;CERC -->
+<g id="edge11" class="edge">
+<title>MON&#45;&gt;CERC</title>
+<path fill="none" stroke="#5f6b78" d="M649.64,-89.21C638.76,-76.84 624.75,-60.92 613.1,-47.68"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="614.73,-45.82 608.26,-42.18 611.05,-49.06 614.73,-45.82"/>
+<text text-anchor="middle" x="648" y="-60" font-family="Sarabun" font-size="10.00">&lt; 25 มม.</text>
+</g>
+<!-- CONT -->
+<g id="node11" class="node">
+<title>CONT</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M793.5,-39C793.5,-39 693.5,-39 693.5,-39 687.5,-39 681.5,-33 681.5,-27 681.5,-27 681.5,-15 681.5,-15 681.5,-9 687.5,-3 693.5,-3 693.5,-3 793.5,-3 793.5,-3 799.5,-3 805.5,-9 805.5,-15 805.5,-15 805.5,-27 805.5,-27 805.5,-33 799.5,-39 793.5,-39"/>
+<text text-anchor="middle" x="743.5" y="-17.9" font-family="Sarabun" font-size="12.00">ให้โปรเจสเตอโรนต่อ</text>
+</g>
+<!-- MON&#45;&gt;CONT -->
+<g id="edge12" class="edge">
+<title>MON&#45;&gt;CONT</title>
+<path fill="none" stroke="#5f6b78" d="M685.13,-89.21C696.64,-75.95 711.69,-58.62 723.62,-44.88"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="725.79,-46.13 728.53,-39.23 722.09,-42.91 725.79,-46.13"/>
+<text text-anchor="middle" x="730" y="-60" font-family="Sarabun" font-size="10.00">≥ 25 มม.</text>
+</g>
+</g>
+</svg>

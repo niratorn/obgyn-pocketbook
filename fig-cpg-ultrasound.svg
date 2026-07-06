@@ -1,0 +1,115 @@
+<svg
+ viewBox="0.00 0.00 711.50 359.23" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 355.23)">
+<title>us</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-355.23 707.5,-355.23 707.5,4 -4,4"/>
+<!-- W -->
+<g id="node1" class="node">
+<title>W</title>
+<ellipse fill="#dfeaf6" stroke="#4f7ab0" cx="341" cy="-320.11" rx="70.92" ry="31.23"/>
+<text text-anchor="middle" x="341" y="-323.71" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">หญิงตั้งครรภ์</text>
+<text text-anchor="middle" x="341" y="-309.71" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(Pregnant woman)</text>
+</g>
+<!-- T1 -->
+<g id="node2" class="node">
+<title>T1</title>
+<path fill="#f7dfe3" stroke="#c07f8b" d="M207.5,-260C207.5,-260 76.5,-260 76.5,-260 70.5,-260 64.5,-254 64.5,-248 64.5,-248 64.5,-228 64.5,-228 64.5,-222 70.5,-216 76.5,-216 76.5,-216 207.5,-216 207.5,-216 213.5,-216 219.5,-222 219.5,-228 219.5,-228 219.5,-248 219.5,-248 219.5,-254 213.5,-260 207.5,-260"/>
+<text text-anchor="middle" x="142" y="-241.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ครั้งแรกที่มาฝากครรภ์ (ไตรมาสแรก)</text>
+<text text-anchor="middle" x="142" y="-227.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">First ANC visit (1st trimester)</text>
+</g>
+<!-- W&#45;&gt;T1 -->
+<g id="edge1" class="edge">
+<title>W&#45;&gt;T1</title>
+<path fill="none" stroke="#5f6b78" d="M289.75,-298.48C262.67,-287.58 229.3,-274.15 201.13,-262.8"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="201.87,-260.46 194.46,-260.12 200.04,-265.01 201.87,-260.46"/>
+</g>
+<!-- T2 -->
+<g id="node3" class="node">
+<title>T2</title>
+<path fill="#fdf3cf" stroke="#cbb15f" d="M385.5,-260C385.5,-260 296.5,-260 296.5,-260 290.5,-260 284.5,-254 284.5,-248 284.5,-248 284.5,-228 284.5,-228 284.5,-222 290.5,-216 296.5,-216 296.5,-216 385.5,-216 385.5,-216 391.5,-216 397.5,-222 397.5,-228 397.5,-228 397.5,-248 397.5,-248 397.5,-254 391.5,-260 385.5,-260"/>
+<text text-anchor="middle" x="341" y="-241.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">อายุครรภ์ 18&#45;22 สัปดาห์</text>
+<text text-anchor="middle" x="341" y="-227.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">GA 18&#45;22 weeks</text>
+</g>
+<!-- W&#45;&gt;T2 -->
+<g id="edge2" class="edge">
+<title>W&#45;&gt;T2</title>
+<path fill="none" stroke="#5f6b78" d="M341,-288.83C341,-281.8 341,-274.34 341,-267.4"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="343.45,-267.11 341,-260.11 338.55,-267.11 343.45,-267.11"/>
+</g>
+<!-- T3 -->
+<g id="node4" class="node">
+<title>T3</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M579.5,-260C579.5,-260 490.5,-260 490.5,-260 484.5,-260 478.5,-254 478.5,-248 478.5,-248 478.5,-228 478.5,-228 478.5,-222 484.5,-216 490.5,-216 490.5,-216 579.5,-216 579.5,-216 585.5,-216 591.5,-222 591.5,-228 591.5,-228 591.5,-248 591.5,-248 591.5,-254 585.5,-260 579.5,-260"/>
+<text text-anchor="middle" x="535" y="-241.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">อายุครรภ์ 34&#45;36 สัปดาห์</text>
+<text text-anchor="middle" x="535" y="-227.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">GA 34&#45;36 weeks</text>
+</g>
+<!-- W&#45;&gt;T3 -->
+<g id="edge3" class="edge">
+<title>W&#45;&gt;T3</title>
+<path fill="none" stroke="#5f6b78" d="M391.46,-298.27C417.86,-287.37 450.29,-273.98 477.64,-262.69"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="478.58,-264.95 484.11,-260.01 476.71,-260.42 478.58,-264.95"/>
+</g>
+<!-- P1 -->
+<g id="node5" class="node">
+<title>P1</title>
+<path fill="#fbeef0" stroke="#c07f8b" d="M200,-187C200,-187 12,-187 12,-187 6,-187 0,-181 0,-175 0,-175 0,-85 0,-85 0,-79 6,-73 12,-73 12,-73 200,-73 200,-73 206,-73 212,-79 212,-85 212,-85 212,-175 212,-175 212,-181 206,-187 200,-187"/>
+<text text-anchor="start" x="14" y="-168.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">เพื่อ (Purpose):</text>
+<text text-anchor="start" x="14" y="-154.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">1.1 ประเมินอายุครรภ์</text>
+<text text-anchor="start" x="14" y="-140.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">1.2 ในโพรงมดลูก / นอกโพรงมดลูก</text>
+<text text-anchor="start" x="14" y="-126.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">1.3 ครรภ์เดี่ยว / ครรภ์แฝด</text>
+<text text-anchor="start" x="14" y="-112.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">1.4 การมีชีวิต + การเต้นหัวใจทารก</text>
+<text text-anchor="start" x="14" y="-98.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">1.5 ตั้งครรภ์ผิดปกติ เช่น Blighted ovum, Molar</text>
+<text text-anchor="start" x="14" y="-84.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">1.6 มดลูก/รังไข่ผิดปกติ เช่น Myoma, Ovarian cyst</text>
+</g>
+<!-- T1&#45;&gt;P1 -->
+<g id="edge4" class="edge">
+<title>T1&#45;&gt;P1</title>
+<path fill="none" stroke="#5f6b78" d="M134.8,-215.8C132.59,-209.29 130.03,-201.76 127.37,-193.93"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="129.69,-193.14 125.12,-187.3 125.05,-194.71 129.69,-193.14"/>
+</g>
+<!-- P2 -->
+<g id="node6" class="node">
+<title>P2</title>
+<path fill="#fdf7e3" stroke="#cbb15f" d="M429,-180C429,-180 253,-180 253,-180 247,-180 241,-174 241,-168 241,-168 241,-92 241,-92 241,-86 247,-80 253,-80 253,-80 429,-80 429,-80 435,-80 441,-86 441,-92 441,-92 441,-168 441,-168 441,-174 435,-180 429,-180"/>
+<text text-anchor="start" x="255" y="-161.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">เพื่อ (Purpose):</text>
+<text text-anchor="start" x="255" y="-147.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">2.1 ประเมิน/ยืนยันอายุครรภ์อีกครั้ง</text>
+<text text-anchor="start" x="255" y="-133.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">2.2 ครรภ์เดี่ยว / ครรภ์แฝด</text>
+<text text-anchor="start" x="255" y="-119.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">2.3 การเต้นหัวใจทารก</text>
+<text text-anchor="start" x="255" y="-105.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">2.4 ความสมบูรณ์/พิการของทารก, ดูเพศ (ถ้าดูได้)</text>
+<text text-anchor="start" x="255" y="-91.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">2.5 ตำแหน่งรกและปริมาณน้ำคร่ำ</text>
+</g>
+<!-- T2&#45;&gt;P2 -->
+<g id="edge5" class="edge">
+<title>T2&#45;&gt;P2</title>
+<path fill="none" stroke="#5f6b78" d="M341,-215.8C341,-207.46 341,-197.44 341,-187.27"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="343.45,-187.22 341,-180.22 338.55,-187.22 343.45,-187.22"/>
+</g>
+<!-- P3 -->
+<g id="node7" class="node">
+<title>P3</title>
+<path fill="#eef7ec" stroke="#69a35a" d="M691.5,-180C691.5,-180 482.5,-180 482.5,-180 476.5,-180 470.5,-174 470.5,-168 470.5,-168 470.5,-92 470.5,-92 470.5,-86 476.5,-80 482.5,-80 482.5,-80 691.5,-80 691.5,-80 697.5,-80 703.5,-86 703.5,-92 703.5,-92 703.5,-168 703.5,-168 703.5,-174 697.5,-180 691.5,-180"/>
+<text text-anchor="start" x="484.5" y="-161.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">เพื่อ (Purpose):</text>
+<text text-anchor="start" x="484.5" y="-147.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">3.1 ตำแหน่งรกและปริมาณน้ำคร่ำ</text>
+<text text-anchor="start" x="484.5" y="-133.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">3.2 คาดคะเนน้ำหนักทารก</text>
+<text text-anchor="start" x="484.5" y="-119.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00"> &#160;&#160;&#45; ≥ 3,800 g ใกล้คลอด เสี่ยงคลอดยาก พิจารณาวิธีคลอด</text>
+<text text-anchor="start" x="484.5" y="-105.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00"> &#160;&#160;&#45; น้ำหนักน้อย พิจารณาทารกโตช้าในครรภ์</text>
+<text text-anchor="start" x="484.5" y="-91.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">3.3 ท่าและส่วนนำของทารก เพื่อประเมินวิธีคลอด</text>
+</g>
+<!-- T3&#45;&gt;P3 -->
+<g id="edge6" class="edge">
+<title>T3&#45;&gt;P3</title>
+<path fill="none" stroke="#5f6b78" d="M545.4,-215.8C549.57,-207.3 554.59,-197.06 559.68,-186.68"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="561.97,-187.58 562.86,-180.22 557.57,-185.42 561.97,-187.58"/>
+</g>
+<!-- N -->
+<g id="node8" class="node">
+<title>N</title>
+<path fill="#fff6bf" stroke="#d9c04a" d="M480,-44C480,-44 202,-44 202,-44 196,-44 190,-38 190,-32 190,-32 190,-12 190,-12 190,-6 196,0 202,0 202,0 480,0 480,0 486,0 492,-6 492,-12 492,-12 492,-32 492,-32 492,-38 486,-44 480,-44"/>
+<text text-anchor="middle" x="341" y="-25.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">หมายเหตุ: หญิงตั้งครรภ์ทุกรายควรได้อัลตราซาวด์อย่างน้อย 3 ครั้ง</text>
+<text text-anchor="middle" x="341" y="-11.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">และควรได้รับการยืนยันอายุครรภ์ (GA) และระบุวันกำหนดคลอด (EDC) ที่ชัดเจน</text>
+</g>
+<!-- P1&#45;&gt;N -->
+<!-- P2&#45;&gt;N -->
+<!-- P3&#45;&gt;N -->
+</g>
+</svg>

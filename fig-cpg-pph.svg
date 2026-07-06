@@ -1,0 +1,120 @@
+<svg
+ viewBox="0.00 0.00 687.00 620.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 616)">
+<title>pph</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-616 683,-616 683,4 -4,4"/>
+<!-- S -->
+<g id="node1" class="node">
+<title>S</title>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M379,-612C379,-612 125,-612 125,-612 119,-612 113,-606 113,-600 113,-600 113,-569 113,-569 113,-563 119,-557 125,-557 125,-557 379,-557 379,-557 385,-557 391,-563 391,-569 391,-569 391,-600 391,-600 391,-606 385,-612 379,-612"/>
+<text text-anchor="middle" x="252" y="-594.4" font-family="Sarabun" font-size="12.00">การป้องกัน</text>
+<text text-anchor="middle" x="252" y="-581.4" font-family="Sarabun" font-size="12.00">• oxytocin 10 ยูนิต IM หรือ IV ช้าๆ</text>
+<text text-anchor="middle" x="252" y="-568.4" font-family="Sarabun" font-size="12.00">• controlled cord traction (ถ้าได้รับการอบรม)</text>
+</g>
+<!-- A -->
+<g id="node2" class="node">
+<title>A</title>
+<path fill="#fdeecf" stroke="#d9a441" d="M363.5,-528C363.5,-528 140.5,-528 140.5,-528 134.5,-528 128.5,-522 128.5,-516 128.5,-516 128.5,-485 128.5,-485 128.5,-479 134.5,-473 140.5,-473 140.5,-473 363.5,-473 363.5,-473 369.5,-473 375.5,-479 375.5,-485 375.5,-485 375.5,-516 375.5,-516 375.5,-522 369.5,-528 363.5,-528"/>
+<text text-anchor="middle" x="252" y="-510.4" font-family="Sarabun" font-size="12.00">เสียเลือด &gt; 500 มล. / ชีพจรเร็ว / ความดันโลหิตตก</text>
+<text text-anchor="middle" x="252" y="-497.4" font-family="Sarabun" font-size="12.00">• เริ่ม resuscitation ทันที</text>
+<text text-anchor="middle" x="252" y="-484.4" font-family="Sarabun" font-size="12.00">• ส่งตรวจเลือด G/M เลือดและส่วนประกอบของเลือด</text>
+</g>
+<!-- S&#45;&gt;A -->
+<g id="edge1" class="edge">
+<title>S&#45;&gt;A</title>
+<path fill="none" stroke="#5f6b78" d="M252,-556.65C252,-549.78 252,-542.31 252,-535.15"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="254.45,-535.13 252,-528.13 249.55,-535.13 254.45,-535.13"/>
+</g>
+<!-- T -->
+<g id="node3" class="node">
+<title>T</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M321.5,-444C321.5,-444 182.5,-444 182.5,-444 176.5,-444 170.5,-438 170.5,-432 170.5,-432 170.5,-420 170.5,-420 170.5,-414 176.5,-408 182.5,-408 182.5,-408 321.5,-408 321.5,-408 327.5,-408 333.5,-414 333.5,-420 333.5,-420 333.5,-432 333.5,-432 333.5,-438 327.5,-444 321.5,-444"/>
+<text text-anchor="middle" x="252" y="-422.9" font-family="Sarabun" font-size="12.00">การรักษาภาวะตกเลือดหลังคลอด</text>
+</g>
+<!-- A&#45;&gt;T -->
+<g id="edge2" class="edge">
+<title>A&#45;&gt;T</title>
+<path fill="none" stroke="#5f6b78" d="M252,-472.92C252,-465.91 252,-458.39 252,-451.5"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="254.45,-451.33 252,-444.33 249.55,-451.33 254.45,-451.33"/>
+</g>
+<!-- R -->
+<g id="node4" class="node">
+<title>R</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M248,-379C248,-379 12,-379 12,-379 6,-379 0,-373 0,-367 0,-367 0,-271 0,-271 0,-265 6,-259 12,-259 12,-259 248,-259 248,-259 254,-259 260,-265 260,-271 260,-271 260,-367 260,-367 260,-373 254,-379 248,-379"/>
+<text text-anchor="middle" x="130" y="-361.4" font-family="Sarabun" font-size="12.00">Resuscitation</text>
+<text text-anchor="middle" x="130" y="-348.4" font-family="Sarabun" font-size="12.00">• ขอความช่วยเหลือ</text>
+<text text-anchor="middle" x="130" y="-335.4" font-family="Sarabun" font-size="12.00">• ประเมิน ABC (ทางเดินหายใจ การหายใจ การไหลเวียน)</text>
+<text text-anchor="middle" x="130" y="-322.4" font-family="Sarabun" font-size="12.00">• ให้ออกซิเจน</text>
+<text text-anchor="middle" x="130" y="-309.4" font-family="Sarabun" font-size="12.00">• ใส่สายสวนปัสสาวะ ติดตามปริมาณปัสสาวะ</text>
+<text text-anchor="middle" x="130" y="-296.4" font-family="Sarabun" font-size="12.00">• เปิดเส้น IV 2 เส้น เข็มเบอร์ 16&#45;18</text>
+<text text-anchor="middle" x="130" y="-283.4" font-family="Sarabun" font-size="12.00">• ให้เลือด/ส่วนประกอบตามข้อบ่งชี้</text>
+<text text-anchor="middle" x="130" y="-270.4" font-family="Sarabun" font-size="12.00">• บันทึกสัญญาณชีพทุก 15 นาที จนคงที่</text>
+</g>
+<!-- T&#45;&gt;R -->
+<g id="edge3" class="edge">
+<title>T&#45;&gt;R</title>
+<path fill="none" stroke="#5f6b78" d="M232.13,-407.9C224.13,-401.02 214.38,-392.62 204.1,-383.78"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="205.59,-381.83 198.69,-379.12 202.4,-385.54 205.59,-381.83"/>
+</g>
+<!-- C -->
+<g id="node5" class="node">
+<title>C</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M455.5,-337C455.5,-337 294.5,-337 294.5,-337 288.5,-337 282.5,-331 282.5,-325 282.5,-325 282.5,-313 282.5,-313 282.5,-307 288.5,-301 294.5,-301 294.5,-301 455.5,-301 455.5,-301 461.5,-301 467.5,-307 467.5,-313 467.5,-313 467.5,-325 467.5,-325 467.5,-331 461.5,-337 455.5,-337"/>
+<text text-anchor="middle" x="375" y="-315.9" font-family="Sarabun" font-size="12.00">หาสาเหตุตาม 4 T approach</text>
+</g>
+<!-- T&#45;&gt;C -->
+<g id="edge4" class="edge">
+<title>T&#45;&gt;C</title>
+<path fill="none" stroke="#5f6b78" d="M272.04,-407.9C293.12,-389.9 326.38,-361.51 349.36,-341.88"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="351.24,-343.5 354.97,-337.1 348.06,-339.78 351.24,-343.5"/>
+</g>
+<!-- TTT -->
+<g id="node6" class="node">
+<title>TTT</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M328,-210.5C328,-210.5 138,-210.5 138,-210.5 132,-210.5 126,-204.5 126,-198.5 126,-198.5 126,-180.5 126,-180.5 126,-174.5 132,-168.5 138,-168.5 138,-168.5 328,-168.5 328,-168.5 334,-168.5 340,-174.5 340,-180.5 340,-180.5 340,-198.5 340,-198.5 340,-204.5 334,-210.5 328,-210.5"/>
+<text text-anchor="middle" x="233" y="-192.9" font-family="Sarabun" font-size="12.00">Tissue, Trauma, Thrombin</text>
+<text text-anchor="middle" x="233" y="-179.9" font-family="Sarabun" font-size="12.00">รักษาตามสาเหตุ</text>
+</g>
+<!-- C&#45;&gt;TTT -->
+<g id="edge5" class="edge">
+<title>C&#45;&gt;TTT</title>
+<path fill="none" stroke="#5f6b78" d="M355.85,-300.8C331.44,-278.88 289.04,-240.81 261,-215.64"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="262.43,-213.64 255.59,-210.78 259.16,-217.28 262.43,-213.64"/>
+</g>
+<!-- AT -->
+<g id="node7" class="node">
+<title>AT</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M661.5,-230C661.5,-230 374.5,-230 374.5,-230 368.5,-230 362.5,-224 362.5,-218 362.5,-218 362.5,-161 362.5,-161 362.5,-155 368.5,-149 374.5,-149 374.5,-149 661.5,-149 661.5,-149 667.5,-149 673.5,-155 673.5,-161 673.5,-161 673.5,-218 673.5,-218 673.5,-224 667.5,-230 661.5,-230"/>
+<text text-anchor="middle" x="518" y="-212.4" font-family="Sarabun" font-size="12.00">มดลูกไม่หดรัดตัว (uterine atony)</text>
+<text text-anchor="middle" x="518" y="-199.4" font-family="Sarabun" font-size="12.00">• oxytocin 20&#45;40 ยูนิต ในสารน้ำ 1 ลิตร 60 หยด/นาที</text>
+<text text-anchor="middle" x="518" y="-186.4" font-family="Sarabun" font-size="12.00">• ถ้าไม่ตอบสนอง ให้ uterotonic drugs ชนิดอื่น</text>
+<text text-anchor="middle" x="518" y="-173.4" font-family="Sarabun" font-size="12.00">• TXA 1 กรัม IV นานกว่า 10 นาที (ถ้าไม่มีข้อห้าม)</text>
+<text text-anchor="middle" x="518" y="-160.4" font-family="Sarabun" font-size="12.00">• นวดคลึงมดลูก</text>
+</g>
+<!-- C&#45;&gt;AT -->
+<g id="edge6" class="edge">
+<title>C&#45;&gt;AT</title>
+<path fill="none" stroke="#5f6b78" d="M394.29,-300.8C413.15,-283.99 442.67,-257.67 468.14,-234.96"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="469.91,-236.66 473.51,-230.17 466.65,-233 469.91,-236.66"/>
+</g>
+<!-- SUR -->
+<g id="node8" class="node">
+<title>SUR</title>
+<path fill="#fbe6e0" stroke="#cf7a5f" d="M667,-120C667,-120 369,-120 369,-120 363,-120 357,-114 357,-108 357,-108 357,-12 357,-12 357,-6 363,0 369,0 369,0 667,0 667,0 673,0 679,-6 679,-12 679,-12 679,-108 679,-108 679,-114 673,-120 667,-120"/>
+<text text-anchor="middle" x="518" y="-102.4" font-family="Sarabun" font-size="12.00">ถ้าเลือดยังออกอยู่ พิจารณาทำ (ใช้หลายวิธีร่วมกันได้)</text>
+<text text-anchor="middle" x="518" y="-89.4" font-family="Sarabun" font-size="12.00">• Bimanual uterine compression</text>
+<text text-anchor="middle" x="518" y="-76.4" font-family="Sarabun" font-size="12.00">• Intrauterine balloon / condom tamponade</text>
+<text text-anchor="middle" x="518" y="-63.4" font-family="Sarabun" font-size="12.00">• Uterine artery embolization</text>
+<text text-anchor="middle" x="518" y="-50.4" font-family="Sarabun" font-size="12.00">• Uterine compression suture</text>
+<text text-anchor="middle" x="518" y="-37.4" font-family="Sarabun" font-size="12.00">• Vessels ligation</text>
+<text text-anchor="middle" x="518" y="-24.4" font-family="Sarabun" font-size="12.00">• Hysterectomy</text>
+<text text-anchor="middle" x="518" y="-11.4" font-family="Sarabun" font-size="12.00">• ถ้ายังมีเลือดออกหลังตัดมดลูก ทำ abdominal packing</text>
+</g>
+<!-- AT&#45;&gt;SUR -->
+<g id="edge7" class="edge">
+<title>AT&#45;&gt;SUR</title>
+<path fill="none" stroke="#5f6b78" d="M518,-148.86C518,-142.06 518,-134.83 518,-127.56"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="520.45,-127.28 518,-120.28 515.55,-127.28 520.45,-127.28"/>
+</g>
+</g>
+</svg>

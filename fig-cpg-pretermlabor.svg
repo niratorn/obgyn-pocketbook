@@ -1,0 +1,109 @@
+<svg
+ viewBox="0.00 0.00 541.50 460.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 456)">
+<title>ptl</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-456 537.5,-456 537.5,4 -4,4"/>
+<!-- S -->
+<g id="node1" class="node">
+<title>S</title>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M370,-452C370,-452 192,-452 192,-452 186,-452 180,-446 180,-440 180,-440 180,-428 180,-428 180,-422 186,-416 192,-416 192,-416 370,-416 370,-416 376,-416 382,-422 382,-428 382,-428 382,-440 382,-440 382,-446 376,-452 370,-452"/>
+<text text-anchor="middle" x="281" y="-430.9" font-family="Sarabun" font-size="12.00">วินิจฉัยการเจ็บครรภ์คลอดก่อนกำหนด</text>
+</g>
+<!-- A -->
+<g id="node2" class="node">
+<title>A</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M414,-385C414,-385 148,-385 148,-385 142,-385 136,-379 136,-373 136,-373 136,-355 136,-355 136,-349 142,-343 148,-343 148,-343 414,-343 414,-343 420,-343 426,-349 426,-355 426,-355 426,-373 426,-373 426,-379 420,-385 414,-385"/>
+<text text-anchor="middle" x="281" y="-367.4" font-family="Sarabun" font-size="12.00">ตรวจหาและแก้ไขสาเหตุ/ปัจจัยของการเจ็บครรภ์คลอดก่อนกำหนด</text>
+<text text-anchor="middle" x="281" y="-354.4" font-family="Sarabun" font-size="12.00">ประเมินสุขภาพมารดาและทารกในครรภ์</text>
+</g>
+<!-- S&#45;&gt;A -->
+<g id="edge1" class="edge">
+<title>S&#45;&gt;A</title>
+<path fill="none" stroke="#5f6b78" d="M281,-415.84C281,-408.73 281,-400.31 281,-392.38"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="283.45,-392.3 281,-385.3 278.55,-392.3 283.45,-392.3"/>
+</g>
+<!-- C1 -->
+<g id="node3" class="node">
+<title>C1</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M230,-276C230,-276 98,-276 98,-276 92,-276 86,-270 86,-264 86,-264 86,-246 86,-246 86,-240 92,-234 98,-234 98,-234 230,-234 230,-234 236,-234 242,-240 242,-246 242,-246 242,-264 242,-264 242,-270 236,-276 230,-276"/>
+<text text-anchor="middle" x="164" y="-258.4" font-family="Sarabun" font-size="12.00">ตรวจหาข้อบ่งห้ามในการยับยั้ง</text>
+<text text-anchor="middle" x="164" y="-245.4" font-family="Sarabun" font-size="12.00">การหดรัดตัวของมดลูก</text>
+</g>
+<!-- A&#45;&gt;C1 -->
+<g id="edge2" class="edge">
+<title>A&#45;&gt;C1</title>
+<path fill="none" stroke="#5f6b78" d="M258.99,-342.87C239.79,-325.31 211.86,-299.77 191.25,-280.92"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="192.73,-278.95 185.91,-276.04 189.42,-282.57 192.73,-278.95"/>
+<text text-anchor="middle" x="281" y="-320" font-family="Sarabun" font-size="10.00">GA 24&#45;33+6 สัปดาห์</text>
+</g>
+<!-- B2 -->
+<g id="node7" class="node">
+<title>B2</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M521.5,-302C521.5,-302 276.5,-302 276.5,-302 270.5,-302 264.5,-296 264.5,-290 264.5,-290 264.5,-220 264.5,-220 264.5,-214 270.5,-208 276.5,-208 276.5,-208 521.5,-208 521.5,-208 527.5,-208 533.5,-214 533.5,-220 533.5,-220 533.5,-290 533.5,-290 533.5,-296 527.5,-302 521.5,-302"/>
+<text text-anchor="middle" x="399" y="-284.4" font-family="Sarabun" font-size="12.00">• ให้ corticosteroids แบบ single course</text>
+<text text-anchor="middle" x="399" y="-271.4" font-family="Sarabun" font-size="12.00"> &#160;(หากไม่เคยได้และมีโอกาสคลอดใน 7 วัน)</text>
+<text text-anchor="middle" x="399" y="-258.4" font-family="Sarabun" font-size="12.00">• ตรวจการหดรัดตัวของมดลูก</text>
+<text text-anchor="middle" x="399" y="-245.4" font-family="Sarabun" font-size="12.00">• เฝ้าระวังสุขภาพของทารกในครรภ์</text>
+<text text-anchor="middle" x="399" y="-232.4" font-family="Sarabun" font-size="12.00">• ให้ยาปฏิชีวนะขณะคลอดเพื่อป้องกัน GBS</text>
+<text text-anchor="middle" x="399" y="-219.4" font-family="Sarabun" font-size="12.00">• ดำเนินการคลอดอย่างปลอดภัย</text>
+</g>
+<!-- A&#45;&gt;B2 -->
+<g id="edge3" class="edge">
+<title>A&#45;&gt;B2</title>
+<path fill="none" stroke="#5f6b78" d="M308.73,-342.86C314.87,-338.14 321.26,-333.02 327,-328 334.46,-321.48 342.11,-314.36 349.51,-307.22"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="351.27,-308.92 354.58,-302.28 347.85,-305.41 351.27,-308.92"/>
+<text text-anchor="middle" x="379" y="-320" font-family="Sarabun" font-size="10.00">GA 34&#45;36+6 สัปดาห์</text>
+</g>
+<!-- T1 -->
+<g id="node4" class="node">
+<title>T1</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M141,-167C141,-167 35,-167 35,-167 29,-167 23,-161 23,-155 23,-155 23,-137 23,-137 23,-131 29,-125 35,-125 35,-125 141,-125 141,-125 147,-125 153,-131 153,-137 153,-137 153,-155 153,-155 153,-161 147,-167 141,-167"/>
+<text text-anchor="middle" x="88" y="-149.4" font-family="Sarabun" font-size="12.00">ให้ยายับยั้ง</text>
+<text text-anchor="middle" x="88" y="-136.4" font-family="Sarabun" font-size="12.00">การหดรัดตัวของมดลูก</text>
+</g>
+<!-- C1&#45;&gt;T1 -->
+<g id="edge4" class="edge">
+<title>C1&#45;&gt;T1</title>
+<path fill="none" stroke="#5f6b78" d="M149.7,-233.87C137.5,-216.69 119.86,-191.85 106.56,-173.13"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="108.28,-171.32 102.23,-167.04 104.29,-174.16 108.28,-171.32"/>
+<text text-anchor="middle" x="134.5" y="-185" font-family="Sarabun" font-size="10.00">ไม่มีข้อห้าม</text>
+</g>
+<!-- T2 -->
+<g id="node5" class="node">
+<title>T2</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M293,-167C293,-167 187,-167 187,-167 181,-167 175,-161 175,-155 175,-155 175,-137 175,-137 175,-131 181,-125 187,-125 187,-125 293,-125 293,-125 299,-125 305,-131 305,-137 305,-137 305,-155 305,-155 305,-161 299,-167 293,-167"/>
+<text text-anchor="middle" x="240" y="-149.4" font-family="Sarabun" font-size="12.00">ไม่ให้ยายับยั้ง</text>
+<text text-anchor="middle" x="240" y="-136.4" font-family="Sarabun" font-size="12.00">การหดรัดตัวของมดลูก</text>
+</g>
+<!-- C1&#45;&gt;T2 -->
+<g id="edge5" class="edge">
+<title>C1&#45;&gt;T2</title>
+<path fill="none" stroke="#5f6b78" d="M178.3,-233.87C190.5,-216.69 208.14,-191.85 221.44,-173.13"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="223.71,-174.16 225.77,-167.04 219.72,-171.32 223.71,-174.16"/>
+<text text-anchor="middle" x="225.5" y="-185" font-family="Sarabun" font-size="10.00">มีข้อห้าม</text>
+</g>
+<!-- B1 -->
+<g id="node6" class="node">
+<title>B1</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M314,-94C314,-94 12,-94 12,-94 6,-94 0,-88 0,-82 0,-82 0,-12 0,-12 0,-6 6,0 12,0 12,0 314,0 314,0 320,0 326,-6 326,-12 326,-12 326,-82 326,-82 326,-88 320,-94 314,-94"/>
+<text text-anchor="middle" x="163" y="-76.4" font-family="Sarabun" font-size="12.00">• ให้ corticosteroids แบบ single course</text>
+<text text-anchor="middle" x="163" y="-63.4" font-family="Sarabun" font-size="12.00">• ตรวจการหดรัดตัวของมดลูก</text>
+<text text-anchor="middle" x="163" y="-50.4" font-family="Sarabun" font-size="12.00">• เฝ้าระวังสุขภาพของทารกในครรภ์</text>
+<text text-anchor="middle" x="163" y="-37.4" font-family="Sarabun" font-size="12.00">• ถ้ายับยั้งการคลอดไม่ได้ ให้ยาปฏิชีวนะป้องกัน GBS</text>
+<text text-anchor="middle" x="163" y="-24.4" font-family="Sarabun" font-size="12.00"> &#160;และ GA &lt; 32 สัปดาห์ ให้ MgSO4 เพื่อ neuroprotection</text>
+<text text-anchor="middle" x="163" y="-11.4" font-family="Sarabun" font-size="12.00">• ดำเนินการคลอดอย่างปลอดภัย</text>
+</g>
+<!-- T1&#45;&gt;B1 -->
+<g id="edge6" class="edge">
+<title>T1&#45;&gt;B1</title>
+<path fill="none" stroke="#5f6b78" d="M103.54,-124.9C109.3,-117.46 116.12,-108.63 123.05,-99.67"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="125.03,-101.11 127.38,-94.07 121.16,-98.11 125.03,-101.11"/>
+</g>
+<!-- T2&#45;&gt;B1 -->
+<g id="edge7" class="edge">
+<title>T2&#45;&gt;B1</title>
+<path fill="none" stroke="#5f6b78" d="M224.05,-124.9C218.14,-117.46 211.13,-108.63 204.01,-99.67"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="205.85,-98.03 199.57,-94.07 202.01,-101.08 205.85,-98.03"/>
+</g>
+</g>
+</svg>

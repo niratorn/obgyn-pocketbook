@@ -1,0 +1,107 @@
+<svg
+ viewBox="0.00 0.00 507.00 647.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 643)">
+<title>ts</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-643 503,-643 503,4 -4,4"/>
+<!-- CHK -->
+<g id="node1" class="node">
+<title>CHK</title>
+<path fill="#f6f2e7" stroke="#c2b283" d="M396.5,-639C396.5,-639 65.5,-639 65.5,-639 59.5,-639 53.5,-633 53.5,-627 53.5,-627 53.5,-583 53.5,-583 53.5,-577 59.5,-571 65.5,-571 65.5,-571 396.5,-571 396.5,-571 402.5,-571 408.5,-577 408.5,-583 408.5,-583 408.5,-627 408.5,-627 408.5,-633 402.5,-639 396.5,-639"/>
+<text text-anchor="middle" x="231" y="-621.4" font-family="Sarabun" font-size="12.00">หลังคลอด</text>
+<text text-anchor="middle" x="231" y="-608.4" font-family="Sarabun" font-size="12.00">• Oxytocin 10 u IM</text>
+<text text-anchor="middle" x="231" y="-595.4" font-family="Sarabun" font-size="12.00">• ใส่ถุงตวงเลือดทุกราย</text>
+<text text-anchor="middle" x="231" y="-582.4" font-family="Sarabun" font-size="12.00">• รายเสี่ยงตกเลือด: เตรียม PPH Box / แจ้งสูติแพทย์ / T/S PRC 2 units</text>
+</g>
+<!-- P1 -->
+<g id="node2" class="node">
+<title>P1</title>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M395.5,-540C395.5,-540 66.5,-540 66.5,-540 60.5,-540 54.5,-534 54.5,-528 54.5,-528 54.5,-516 54.5,-516 54.5,-510 60.5,-504 66.5,-504 66.5,-504 395.5,-504 395.5,-504 401.5,-504 407.5,-510 407.5,-516 407.5,-516 407.5,-528 407.5,-528 407.5,-534 401.5,-540 395.5,-540"/>
+<text text-anchor="middle" x="231" y="-518.9" font-family="Sarabun" font-size="12.00">Postpartum blood loss ≥ 250 ml → ALERT (เริ่มจับเวลา)</text>
+</g>
+<!-- CHK&#45;&gt;P1 -->
+<g id="edge1" class="edge">
+<title>CHK&#45;&gt;P1</title>
+<path fill="none" stroke="#5f6b78" d="M231,-570.59C231,-562.74 231,-554.53 231,-547.18"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="233.45,-547.17 231,-540.17 228.55,-547.17 233.45,-547.17"/>
+</g>
+<!-- E -->
+<g id="node3" class="node">
+<title>E</title>
+<path fill="#fbf4d9" stroke="#d9b96a" d="M450,-473C450,-473 12,-473 12,-473 6,-473 0,-467 0,-461 0,-461 0,-391 0,-391 0,-385 6,-379 12,-379 12,-379 450,-379 450,-379 456,-379 462,-385 462,-391 462,-391 462,-461 462,-461 462,-467 456,-473 450,-473"/>
+<text text-anchor="middle" x="231" y="-455.4" font-family="Sarabun" font-size="12.00">Evaluation and Initial management (≤ 15 นาที)</text>
+<text text-anchor="middle" x="231" y="-442.4" font-family="Sarabun" font-size="12.00">• Uterine massage ประเมิน tone; ตามแพทย์ใช้ทุน</text>
+<text text-anchor="middle" x="231" y="-429.4" font-family="Sarabun" font-size="12.00">• Empty bladder / Foley cath</text>
+<text text-anchor="middle" x="231" y="-416.4" font-family="Sarabun" font-size="12.00">• NSS/RLS 1000 ml + Oxytocin 40 u IV 125 ml/hr</text>
+<text text-anchor="middle" x="231" y="-403.4" font-family="Sarabun" font-size="12.00">• หาสาเหตุ: atony / cervical tear / vaginal laceration / retained placenta</text>
+<text text-anchor="middle" x="231" y="-390.4" font-family="Sarabun" font-size="12.00">• เตรียม O2 mask with bag, PPH Box, ตาม Rescue team และสูติแพทย์</text>
+</g>
+<!-- P1&#45;&gt;E -->
+<g id="edge2" class="edge">
+<title>P1&#45;&gt;E</title>
+<path fill="none" stroke="#5f6b78" d="M231,-503.76C231,-496.97 231,-488.77 231,-480.29"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="233.45,-480.13 231,-473.13 228.55,-480.13 233.45,-480.13"/>
+</g>
+<!-- ALERT2 -->
+<g id="node4" class="node">
+<title>ALERT2</title>
+<path fill="#f6c1c1" stroke="#c0392b" d="M387,-348C387,-348 75,-348 75,-348 69,-348 63,-342 63,-336 63,-336 63,-324 63,-324 63,-318 69,-312 75,-312 75,-312 387,-312 387,-312 393,-312 399,-318 399,-324 399,-324 399,-336 399,-336 399,-342 393,-348 387,-348"/>
+<text text-anchor="middle" x="231" y="-326.9" font-family="Sarabun" font-size="12.00">Active bleed / Blood loss ≥ 500 ml — ประกาศ PPH</text>
+</g>
+<!-- E&#45;&gt;ALERT2 -->
+<g id="edge3" class="edge">
+<title>E&#45;&gt;ALERT2</title>
+<path fill="none" stroke="#5f6b78" d="M231,-378.83C231,-370.78 231,-362.7 231,-355.53"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="233.45,-355.16 231,-348.16 228.55,-355.16 233.45,-355.16"/>
+</g>
+<!-- F -->
+<g id="node5" class="node">
+<title>F</title>
+<path fill="#f6dfe0" stroke="#c07a86" d="M444,-281C444,-281 18,-281 18,-281 12,-281 6,-275 6,-269 6,-269 6,-147 6,-147 6,-141 12,-135 18,-135 18,-135 444,-135 444,-135 450,-135 456,-141 456,-147 456,-147 456,-269 456,-269 456,-275 450,-281 444,-281"/>
+<text text-anchor="middle" x="231" y="-263.4" font-family="Sarabun" font-size="12.00">Further management (15&#45;45 นาที)</text>
+<text text-anchor="middle" x="231" y="-250.4" font-family="Sarabun" font-size="12.00">• CALL FOR HELP (Rescue team + สูติแพทย์) [พว1]</text>
+<text text-anchor="middle" x="231" y="-237.4" font-family="Sarabun" font-size="12.00">• O2 mask with bag 10 LPM [พว2]</text>
+<text text-anchor="middle" x="231" y="-224.4" font-family="Sarabun" font-size="12.00">ใช้ PPH Box + Standing order:</text>
+<text text-anchor="middle" x="231" y="-211.4" font-family="Sarabun" font-size="12.00">• เปิด IV เส้นที่สอง RLS 1000 ml free flow [พว3]</text>
+<text text-anchor="middle" x="231" y="-198.4" font-family="Sarabun" font-size="12.00">• Transamine 1 g + NSS 100 ml IV drip in 15 min [พว2]</text>
+<text text-anchor="middle" x="231" y="-185.4" font-family="Sarabun" font-size="12.00">• Methergine 0.2 mg (ไม่มี HT / ไม่ใช่ HIV) IV slow push</text>
+<text text-anchor="middle" x="231" y="-172.4" font-family="Sarabun" font-size="12.00">• Blood: CBC, BUN, Cr, electrolyte, LFT, PT/PTT/INR [ประสาน LAB ด่วน]</text>
+<text text-anchor="middle" x="231" y="-159.4" font-family="Sarabun" font-size="12.00">• G/M PRC 4 u, FFP 4 u, Platelet SDP 1 u [ประสานคลังเลือด]</text>
+<text text-anchor="middle" x="231" y="-146.4" font-family="Sarabun" font-size="12.00">• พิจารณา 2nd line uterotonic / surgical [ประสานวิสัญญี / ห้องผ่าตัด / จอง ICU] [พว1]</text>
+</g>
+<!-- ALERT2&#45;&gt;F -->
+<g id="edge4" class="edge">
+<title>ALERT2&#45;&gt;F</title>
+<path fill="none" stroke="#5f6b78" d="M231,-311.81C231,-305.16 231,-297.05 231,-288.33"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="233.45,-288.22 231,-281.22 228.55,-288.22 233.45,-288.22"/>
+</g>
+<!-- END -->
+<g id="node6" class="node">
+<title>END</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M165.5,-65C165.5,-65 58.5,-65 58.5,-65 52.5,-65 46.5,-59 46.5,-53 46.5,-53 46.5,-41 46.5,-41 46.5,-35 52.5,-29 58.5,-29 58.5,-29 165.5,-29 165.5,-29 171.5,-29 177.5,-35 177.5,-41 177.5,-41 177.5,-53 177.5,-53 177.5,-59 171.5,-65 165.5,-65"/>
+<text text-anchor="middle" x="112" y="-43.9" font-family="Sarabun" font-size="12.00">หยุดเลือดสำเร็จ</text>
+</g>
+<!-- F&#45;&gt;END -->
+<g id="edge5" class="edge">
+<title>F&#45;&gt;END</title>
+<path fill="none" stroke="#5f6b78" d="M177.07,-134.94C159.76,-111.82 141.82,-87.85 129.17,-70.95"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="130.92,-69.19 124.76,-65.05 127,-72.13 130.92,-69.19"/>
+</g>
+<!-- ROLES -->
+<g id="node7" class="node">
+<title>ROLES</title>
+<path fill="#e6f1fb" stroke="#7d9bc0" d="M487,-94C487,-94 215,-94 215,-94 209,-94 203,-88 203,-82 203,-82 203,-12 203,-12 203,-6 209,0 215,0 215,0 487,0 487,0 493,0 499,-6 499,-12 499,-12 499,-82 499,-82 499,-88 493,-94 487,-94"/>
+<text text-anchor="middle" x="351" y="-76.4" font-family="Sarabun" font-size="12.00">TeamSTEPPS roles</text>
+<text text-anchor="middle" x="351" y="-63.4" font-family="Sarabun" font-size="12.00">• พว1 In charge: ให้ข้อมูลแพทย์ / แบ่งหน้าที่ / ประสานงาน</text>
+<text text-anchor="middle" x="351" y="-50.4" font-family="Sarabun" font-size="12.00">• พว2: Manage IV, V/S, I/O</text>
+<text text-anchor="middle" x="351" y="-37.4" font-family="Sarabun" font-size="12.00">• พว3: ช่วยเหลือแพทย์</text>
+<text text-anchor="middle" x="351" y="-24.4" font-family="Sarabun" font-size="12.00">• ผู้ช่วยพยาบาล: จัดเตรียมอุปกรณ์/เครื่องมือ</text>
+<text text-anchor="middle" x="351" y="-11.4" font-family="Sarabun" font-size="12.00">หมายเหตุ: อาจสลับหน้าที่ พว2 และ พว3 ตามความเหมาะสม</text>
+</g>
+<!-- F&#45;&gt;ROLES -->
+<g id="edge6" class="edge">
+<title>F&#45;&gt;ROLES</title>
+<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M285.38,-134.94C295.8,-121.14 306.45,-107.03 316.05,-94.31"/>
+<text text-anchor="middle" x="317" y="-112" font-family="Sarabun" font-size="10.00">บทบาททีม</text>
+</g>
+</g>
+</svg>

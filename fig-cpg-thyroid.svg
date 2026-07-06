@@ -1,228 +1,228 @@
 <svg
- viewBox="0.00 0.00 971.00 651.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 647)">
+ viewBox="0.00 0.00 1151.00 679.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 675)">
 <title>thy</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-647 967,-647 967,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-675 1147,-675 1147,4 -4,4"/>
 <!-- S -->
 <g id="node1" class="node">
 <title>S</title>
-<path fill="#dfeaf6" stroke="#4f7ab0" d="M556.5,-643C556.5,-643 381.5,-643 381.5,-643 375.5,-643 369.5,-637 369.5,-631 369.5,-631 369.5,-619 369.5,-619 369.5,-613 375.5,-607 381.5,-607 381.5,-607 556.5,-607 556.5,-607 562.5,-607 568.5,-613 568.5,-619 568.5,-619 568.5,-631 568.5,-631 568.5,-637 562.5,-643 556.5,-643"/>
-<text text-anchor="middle" x="469" y="-621.9" font-family="Sarabun" font-size="12.00">คัดกรอง TSH ในทารกแรกเกิด อายุ 48&#45;96 ชม.</text>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M664.5,-671C664.5,-671 453.5,-671 453.5,-671 447.5,-671 441.5,-665 441.5,-659 441.5,-659 441.5,-647 441.5,-647 441.5,-641 447.5,-635 453.5,-635 453.5,-635 664.5,-635 664.5,-635 670.5,-635 676.5,-641 676.5,-647 676.5,-647 676.5,-659 676.5,-659 676.5,-665 670.5,-671 664.5,-671"/>
+<text text-anchor="middle" x="559" y="-649.9" font-family="Sarabun" font-size="12.00">คัดกรอง TSH ในทารกแรกเกิด อายุ 48&#45;96 ชม.</text>
 </g>
 <!-- A -->
 <g id="node2" class="node">
 <title>A</title>
-<path fill="#fdeecf" stroke="#d9a441" d="M540,-576C540,-576 398,-576 398,-576 392,-576 386,-570 386,-564 386,-564 386,-552 386,-552 386,-546 392,-540 398,-540 398,-540 540,-540 540,-540 546,-540 552,-546 552,-552 552,-552 552,-564 552,-564 552,-570 546,-576 540,-576"/>
-<text text-anchor="middle" x="469" y="-554.9" font-family="Sarabun" font-size="12.00">ผลคัดกรอง TSH ≥ 25 มิลลิยูนิต/ลิตร</text>
+<path fill="#fdeecf" stroke="#d9a441" d="M648,-604C648,-604 470,-604 470,-604 464,-604 458,-598 458,-592 458,-592 458,-580 458,-580 458,-574 464,-568 470,-568 470,-568 648,-568 648,-568 654,-568 660,-574 660,-580 660,-580 660,-592 660,-592 660,-598 654,-604 648,-604"/>
+<text text-anchor="middle" x="559" y="-582.9" font-family="Sarabun" font-size="12.00">ผลคัดกรอง TSH ≥ 25 มิลลิยูนิต/ลิตร</text>
 </g>
 <!-- S&#45;&gt;A -->
 <g id="edge1" class="edge">
 <title>S&#45;&gt;A</title>
-<path fill="none" stroke="#5f6b78" d="M469,-606.92C469,-599.81 469,-591.42 469,-583.66"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="471.45,-583.19 469,-576.19 466.55,-583.19 471.45,-583.19"/>
+<path fill="none" stroke="#5f6b78" d="M559,-634.92C559,-627.81 559,-619.42 559,-611.66"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="561.45,-611.19 559,-604.19 556.55,-611.19 561.45,-611.19"/>
 </g>
 <!-- B -->
 <g id="node3" class="node">
 <title>B</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M563,-509C563,-509 375,-509 375,-509 369,-509 363,-503 363,-497 363,-497 363,-470 363,-470 363,-464 369,-458 375,-458 375,-458 563,-458 563,-458 569,-458 575,-464 575,-470 575,-470 575,-497 575,-497 575,-503 569,-509 563,-509"/>
-<text text-anchor="middle" x="469" y="-493.4" font-family="Sarabun" font-size="12.00">เจาะเลือดส่งตรวจ free T4 (หรือ T4) และ TSH</text>
-<text text-anchor="middle" x="469" y="-480.4" font-family="Sarabun" font-size="12.00">ให้ thyroxine 10&#45;15 มคก./กก./วัน</text>
-<text text-anchor="middle" x="469" y="-467.4" font-family="Sarabun" font-size="12.00">(หรือ 50 มคก./วัน ในทารก 3&#45;4.5 กก.)</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M671,-537C671,-537 447,-537 447,-537 441,-537 435,-531 435,-525 435,-525 435,-494 435,-494 435,-488 441,-482 447,-482 447,-482 671,-482 671,-482 677,-482 683,-488 683,-494 683,-494 683,-525 683,-525 683,-531 677,-537 671,-537"/>
+<text text-anchor="middle" x="559" y="-519.4" font-family="Sarabun" font-size="12.00">เจาะเลือดส่งตรวจ free T4 (หรือ T4) และ TSH</text>
+<text text-anchor="middle" x="559" y="-506.4" font-family="Sarabun" font-size="12.00">ให้ thyroxine 10&#45;15 มคก./กก./วัน</text>
+<text text-anchor="middle" x="559" y="-493.4" font-family="Sarabun" font-size="12.00">(หรือ 50 มคก./วัน ในทารก 3&#45;4.5 กก.)</text>
 </g>
 <!-- A&#45;&gt;B -->
 <g id="edge2" class="edge">
 <title>A&#45;&gt;B</title>
-<path fill="none" stroke="#5f6b78" d="M469,-539.82C469,-532.83 469,-524.52 469,-516.49"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="471.45,-516.24 469,-509.24 466.55,-516.24 471.45,-516.24"/>
+<path fill="none" stroke="#5f6b78" d="M559,-567.72C559,-560.74 559,-552.44 559,-544.35"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="561.45,-544.03 559,-537.03 556.55,-544.03 561.45,-544.03"/>
 </g>
 <!-- L1 -->
 <g id="node4" class="node">
 <title>L1</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="341,-417 255,-379 341,-341 427,-379 341,-417"/>
-<text text-anchor="middle" x="341" y="-382.4" font-family="Sarabun" font-size="12.00">free T4/T4</text>
-<text text-anchor="middle" x="341" y="-369.4" font-family="Sarabun" font-size="12.00">และ TSH ปกติ</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="395,-441 273,-399 395,-357 517,-399 395,-441"/>
+<text text-anchor="middle" x="395" y="-402.4" font-family="Sarabun" font-size="12.00">free T4/T4</text>
+<text text-anchor="middle" x="395" y="-389.4" font-family="Sarabun" font-size="12.00">และ TSH ปกติ</text>
 </g>
 <!-- B&#45;&gt;L1 -->
 <g id="edge3" class="edge">
 <title>B&#45;&gt;L1</title>
-<path fill="none" stroke="#5f6b78" d="M438.34,-457.95C419.84,-443.13 396.19,-424.19 376.83,-408.69"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="377.96,-406.46 370.97,-404 374.9,-410.29 377.96,-406.46"/>
-<text text-anchor="middle" x="423.5" y="-435" font-family="Sarabun" font-size="10.00">ปกติ</text>
+<path fill="none" stroke="#5f6b78" d="M518.88,-481.96C495.63,-466.57 466.23,-447.13 441.91,-431.04"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="443.03,-428.84 435.84,-427.02 440.33,-432.93 443.03,-428.84"/>
+<text text-anchor="middle" x="498.5" y="-459" font-family="Sarabun" font-size="10.00">ปกติ</text>
 </g>
 <!-- R1 -->
 <g id="node9" class="node">
 <title>R1</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="603,-417 455,-379 603,-341 751,-379 603,-417"/>
-<text text-anchor="middle" x="603" y="-382.4" font-family="Sarabun" font-size="12.00">free T4/T4 ต่ำหรือปกติ</text>
-<text text-anchor="middle" x="603" y="-369.4" font-family="Sarabun" font-size="12.00">และ TSH สูง</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="729,-441 545,-399 729,-357 913,-399 729,-441"/>
+<text text-anchor="middle" x="729" y="-402.4" font-family="Sarabun" font-size="12.00">free T4/T4 ต่ำหรือปกติ</text>
+<text text-anchor="middle" x="729" y="-389.4" font-family="Sarabun" font-size="12.00">และ TSH สูง</text>
 </g>
 <!-- B&#45;&gt;R1 -->
 <g id="edge8" class="edge">
 <title>B&#45;&gt;R1</title>
-<path fill="none" stroke="#5f6b78" d="M501.1,-457.95C518.92,-444.32 541.31,-427.19 560.57,-412.46"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="562.36,-414.17 566.43,-407.97 559.38,-410.28 562.36,-414.17"/>
-<text text-anchor="middle" x="547" y="-435" font-family="Sarabun" font-size="10.00">TSH สูง</text>
+<path fill="none" stroke="#5f6b78" d="M600.59,-481.96C623.15,-467.56 651.29,-449.59 675.48,-434.16"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="676.95,-436.12 681.54,-430.29 674.32,-431.99 676.95,-436.12"/>
+<text text-anchor="middle" x="654" y="-459" font-family="Sarabun" font-size="10.00">TSH สูง</text>
 </g>
 <!-- L2 -->
 <g id="node5" class="node">
 <title>L2</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M348,-289.5C348,-289.5 268,-289.5 268,-289.5 262,-289.5 256,-283.5 256,-277.5 256,-277.5 256,-265.5 256,-265.5 256,-259.5 262,-253.5 268,-253.5 268,-253.5 348,-253.5 348,-253.5 354,-253.5 360,-259.5 360,-265.5 360,-265.5 360,-277.5 360,-277.5 360,-283.5 354,-289.5 348,-289.5"/>
-<text text-anchor="middle" x="308" y="-268.4" font-family="Sarabun" font-size="12.00">หยุดยา thyroxine</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M420,-303.5C420,-303.5 304,-303.5 304,-303.5 298,-303.5 292,-297.5 292,-291.5 292,-291.5 292,-279.5 292,-279.5 292,-273.5 298,-267.5 304,-267.5 304,-267.5 420,-267.5 420,-267.5 426,-267.5 432,-273.5 432,-279.5 432,-279.5 432,-291.5 432,-291.5 432,-297.5 426,-303.5 420,-303.5"/>
+<text text-anchor="middle" x="362" y="-282.4" font-family="Sarabun" font-size="12.00">หยุดยา thyroxine</text>
 </g>
 <!-- L1&#45;&gt;L2 -->
 <g id="edge4" class="edge">
 <title>L1&#45;&gt;L2</title>
-<path fill="none" stroke="#5f6b78" d="M330.83,-345.49C325.88,-329.67 320.04,-310.99 315.5,-296.49"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="317.82,-295.69 313.39,-289.74 313.14,-297.15 317.82,-295.69"/>
+<path fill="none" stroke="#5f6b78" d="M383.92,-360.56C379.03,-344.03 373.42,-325.09 369.1,-310.5"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="371.43,-309.73 367.1,-303.72 366.73,-311.12 371.43,-309.73"/>
 </g>
 <!-- L3 -->
 <g id="node6" class="node">
 <title>L3</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M257.5,-195.5C257.5,-195.5 90.5,-195.5 90.5,-195.5 84.5,-195.5 78.5,-189.5 78.5,-183.5 78.5,-183.5 78.5,-169.5 78.5,-169.5 78.5,-163.5 84.5,-157.5 90.5,-157.5 90.5,-157.5 257.5,-157.5 257.5,-157.5 263.5,-157.5 269.5,-163.5 269.5,-169.5 269.5,-169.5 269.5,-183.5 269.5,-183.5 269.5,-189.5 263.5,-195.5 257.5,-195.5"/>
-<text text-anchor="middle" x="174" y="-179.9" font-family="Sarabun" font-size="12.00">TSH 6&#45;10 → เจาะเลือด free T4/T4</text>
-<text text-anchor="middle" x="174" y="-166.9" font-family="Sarabun" font-size="12.00">และ TSH ซ้ำใน 1&#45;2 สัปดาห์</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M329.5,-207.5C329.5,-207.5 126.5,-207.5 126.5,-207.5 120.5,-207.5 114.5,-201.5 114.5,-195.5 114.5,-195.5 114.5,-177.5 114.5,-177.5 114.5,-171.5 120.5,-165.5 126.5,-165.5 126.5,-165.5 329.5,-165.5 329.5,-165.5 335.5,-165.5 341.5,-171.5 341.5,-177.5 341.5,-177.5 341.5,-195.5 341.5,-195.5 341.5,-201.5 335.5,-207.5 329.5,-207.5"/>
+<text text-anchor="middle" x="228" y="-189.9" font-family="Sarabun" font-size="12.00">TSH 6&#45;10 → เจาะเลือด free T4/T4</text>
+<text text-anchor="middle" x="228" y="-176.9" font-family="Sarabun" font-size="12.00">และ TSH ซ้ำใน 1&#45;2 สัปดาห์</text>
 </g>
 <!-- L2&#45;&gt;L3 -->
 <g id="edge5" class="edge">
 <title>L2&#45;&gt;L3</title>
-<path fill="none" stroke="#5f6b78" d="M283.42,-253.44C261.69,-238.36 229.84,-216.26 206.1,-199.78"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="207.4,-197.7 200.25,-195.72 204.61,-201.73 207.4,-197.7"/>
+<path fill="none" stroke="#5f6b78" d="M338.35,-267.38C317.16,-252.04 285.82,-229.35 261.95,-212.07"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="263.16,-209.93 256.05,-207.81 260.28,-213.9 263.16,-209.93"/>
 </g>
 <!-- L5a -->
 <g id="node7" class="node">
 <title>L5a</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M216,-113.5C216,-113.5 132,-113.5 132,-113.5 126,-113.5 120,-107.5 120,-101.5 120,-101.5 120,-87.5 120,-87.5 120,-81.5 126,-75.5 132,-75.5 132,-75.5 216,-75.5 216,-75.5 222,-75.5 228,-81.5 228,-87.5 228,-87.5 228,-101.5 228,-101.5 228,-107.5 222,-113.5 216,-113.5"/>
-<text text-anchor="middle" x="174" y="-97.9" font-family="Sarabun" font-size="12.00">TSH &lt; 6</text>
-<text text-anchor="middle" x="174" y="-84.9" font-family="Sarabun" font-size="12.00">ส่งต่อกุมารแพทย์ต่อมไร้ท่อ</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M288,-121.5C288,-121.5 168,-121.5 168,-121.5 162,-121.5 156,-115.5 156,-109.5 156,-109.5 156,-91.5 156,-91.5 156,-85.5 162,-79.5 168,-79.5 168,-79.5 288,-79.5 288,-79.5 294,-79.5 300,-85.5 300,-91.5 300,-91.5 300,-109.5 300,-109.5 300,-115.5 294,-121.5 288,-121.5"/>
+<text text-anchor="middle" x="228" y="-103.9" font-family="Sarabun" font-size="12.00">TSH &lt; 6</text>
+<text text-anchor="middle" x="228" y="-90.9" font-family="Sarabun" font-size="12.00">ส่งต่อกุมารแพทย์ต่อมไร้ท่อ</text>
 </g>
 <!-- L3&#45;&gt;L5a -->
 <g id="edge6" class="edge">
 <title>L3&#45;&gt;L5a</title>
-<path fill="none" stroke="#5f6b78" d="M174,-157.35C174,-146.5 174,-132.57 174,-120.68"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="176.45,-120.58 174,-113.58 171.55,-120.58 176.45,-120.58"/>
+<path fill="none" stroke="#5f6b78" d="M228,-165.17C228,-154.23 228,-140.59 228,-128.75"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="230.45,-128.65 228,-121.65 225.55,-128.65 230.45,-128.65"/>
 </g>
 <!-- L5b -->
 <g id="node8" class="node">
 <title>L5b</title>
-<path fill="#eef0f2" stroke="#8a99a8" d="M86,-113.5C86,-113.5 12,-113.5 12,-113.5 6,-113.5 0,-107.5 0,-101.5 0,-101.5 0,-87.5 0,-87.5 0,-81.5 6,-75.5 12,-75.5 12,-75.5 86,-75.5 86,-75.5 92,-75.5 98,-81.5 98,-87.5 98,-87.5 98,-101.5 98,-101.5 98,-107.5 92,-113.5 86,-113.5"/>
-<text text-anchor="middle" x="49" y="-97.9" font-family="Sarabun" font-size="12.00">TSH &gt; 6</text>
-<text text-anchor="middle" x="49" y="-84.9" font-family="Sarabun" font-size="12.00">หยุดการติดตามผู้ป่วยได้</text>
+<path fill="#eef0f2" stroke="#8a99a8" d="M122,-121.5C122,-121.5 12,-121.5 12,-121.5 6,-121.5 0,-115.5 0,-109.5 0,-109.5 0,-91.5 0,-91.5 0,-85.5 6,-79.5 12,-79.5 12,-79.5 122,-79.5 122,-79.5 128,-79.5 134,-85.5 134,-91.5 134,-91.5 134,-109.5 134,-109.5 134,-115.5 128,-121.5 122,-121.5"/>
+<text text-anchor="middle" x="67" y="-103.9" font-family="Sarabun" font-size="12.00">TSH &gt; 6</text>
+<text text-anchor="middle" x="67" y="-90.9" font-family="Sarabun" font-size="12.00">หยุดการติดตามผู้ป่วยได้</text>
 </g>
 <!-- L3&#45;&gt;L5b -->
 <g id="edge7" class="edge">
 <title>L3&#45;&gt;L5b</title>
-<path fill="none" stroke="#5f6b78" d="M145.64,-157.35C127.1,-145.48 102.78,-129.92 83.17,-117.37"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="84.47,-115.29 77.25,-113.58 81.83,-119.42 84.47,-115.29"/>
+<path fill="none" stroke="#5f6b78" d="M189.44,-165.38C166.12,-153.22 136.3,-137.66 111.92,-124.94"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="112.87,-122.67 105.53,-121.6 110.6,-127.01 112.87,-122.67"/>
 </g>
 <!-- R2 -->
 <g id="node10" class="node">
 <title>R2</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M710,-310C710,-310 502,-310 502,-310 496,-310 490,-304 490,-298 490,-298 490,-245 490,-245 490,-239 496,-233 502,-233 502,-233 710,-233 710,-233 716,-233 722,-239 722,-245 722,-245 722,-298 722,-298 722,-304 716,-310 710,-310"/>
-<text text-anchor="middle" x="606" y="-294.4" font-family="Sarabun" font-size="12.00">ให้ยา thyroxine ต่อ</text>
-<text text-anchor="middle" x="606" y="-281.4" font-family="Sarabun" font-size="12.00">ตรวจ free T4/T4 และ TSH: ที่ 2 และ 4 สัปดาห์,</text>
-<text text-anchor="middle" x="606" y="-268.4" font-family="Sarabun" font-size="12.00">ทุก 1&#45;2 เดือน ใน 6 เดือนแรก,</text>
-<text text-anchor="middle" x="606" y="-255.4" font-family="Sarabun" font-size="12.00">ทุก 2&#45;3 เดือน ช่วงอายุ 6 เดือน &#45; 3 ปี</text>
-<text text-anchor="middle" x="606" y="-242.4" font-family="Sarabun" font-size="12.00">เป้าหมาย: free T4 ช่วงสูงของค่าปกติ, TSH 0.5&#45;5</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M854,-326C854,-326 610,-326 610,-326 604,-326 598,-320 598,-314 598,-314 598,-257 598,-257 598,-251 604,-245 610,-245 610,-245 854,-245 854,-245 860,-245 866,-251 866,-257 866,-257 866,-314 866,-314 866,-320 860,-326 854,-326"/>
+<text text-anchor="middle" x="732" y="-308.4" font-family="Sarabun" font-size="12.00">ให้ยา thyroxine ต่อ</text>
+<text text-anchor="middle" x="732" y="-295.4" font-family="Sarabun" font-size="12.00">ตรวจ free T4/T4 และ TSH: ที่ 2 และ 4 สัปดาห์,</text>
+<text text-anchor="middle" x="732" y="-282.4" font-family="Sarabun" font-size="12.00">ทุก 1&#45;2 เดือน ใน 6 เดือนแรก,</text>
+<text text-anchor="middle" x="732" y="-269.4" font-family="Sarabun" font-size="12.00">ทุก 2&#45;3 เดือน ช่วงอายุ 6 เดือน &#45; 3 ปี</text>
+<text text-anchor="middle" x="732" y="-256.4" font-family="Sarabun" font-size="12.00">เป้าหมาย: free T4 ช่วงสูงของค่าปกติ, TSH 0.5&#45;5</text>
 </g>
 <!-- R1&#45;&gt;R2 -->
 <g id="edge9" class="edge">
 <title>R1&#45;&gt;R2</title>
-<path fill="none" stroke="#5f6b78" d="M604.05,-341.1C604.27,-333.46 604.5,-325.33 604.72,-317.43"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="607.18,-317.34 604.93,-310.27 602.28,-317.2 607.18,-317.34"/>
+<path fill="none" stroke="#5f6b78" d="M730.1,-357.11C730.31,-349.41 730.53,-341.29 730.74,-333.41"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="733.19,-333.33 730.93,-326.26 728.29,-333.2 733.19,-333.33"/>
 </g>
 <!-- R3 -->
 <g id="node11" class="node">
 <title>R3</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M716,-202C716,-202 500,-202 500,-202 494,-202 488,-196 488,-190 488,-190 488,-163 488,-163 488,-157 494,-151 500,-151 500,-151 716,-151 716,-151 722,-151 728,-157 728,-163 728,-163 728,-190 728,-190 728,-196 722,-202 716,-202"/>
-<text text-anchor="middle" x="608" y="-186.4" font-family="Sarabun" font-size="12.00">กลุ่มสงสัย transient / ไม่ทราบสาเหตุ permanent:</text>
-<text text-anchor="middle" x="608" y="-173.4" font-family="Sarabun" font-size="12.00">ให้ยาถึงอายุ 3 ปี แล้วหยุด thyroxine 1 เดือน</text>
-<text text-anchor="middle" x="608" y="-160.4" font-family="Sarabun" font-size="12.00">เจาะเลือด free T4/T4 และ TSH</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M860,-214C860,-214 608,-214 608,-214 602,-214 596,-208 596,-202 596,-202 596,-171 596,-171 596,-165 602,-159 608,-159 608,-159 860,-159 860,-159 866,-159 872,-165 872,-171 872,-171 872,-202 872,-202 872,-208 866,-214 860,-214"/>
+<text text-anchor="middle" x="734" y="-196.4" font-family="Sarabun" font-size="12.00">กลุ่มสงสัย transient / ไม่ทราบสาเหตุ permanent:</text>
+<text text-anchor="middle" x="734" y="-183.4" font-family="Sarabun" font-size="12.00">ให้ยาถึงอายุ 3 ปี แล้วหยุด thyroxine 1 เดือน</text>
+<text text-anchor="middle" x="734" y="-170.4" font-family="Sarabun" font-size="12.00">เจาะเลือด free T4/T4 และ TSH</text>
 </g>
 <!-- R2&#45;&gt;R3 -->
 <g id="edge10" class="edge">
 <title>R2&#45;&gt;R3</title>
-<path fill="none" stroke="#5f6b78" d="M606.81,-232.94C606.98,-225.15 607.15,-217.02 607.31,-209.45"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="609.77,-209.16 607.47,-202.11 604.87,-209.06 609.77,-209.16"/>
+<path fill="none" stroke="#5f6b78" d="M732.82,-244.77C732.98,-237 733.15,-228.92 733.3,-221.36"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="735.76,-221.06 733.45,-214.01 730.86,-220.96 735.76,-221.06"/>
 </g>
 <!-- O1 -->
 <g id="node12" class="node">
 <title>O1</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M481.5,-120C481.5,-120 262.5,-120 262.5,-120 256.5,-120 250.5,-114 250.5,-108 250.5,-108 250.5,-81 250.5,-81 250.5,-75 256.5,-69 262.5,-69 262.5,-69 481.5,-69 481.5,-69 487.5,-69 493.5,-75 493.5,-81 493.5,-81 493.5,-108 493.5,-108 493.5,-114 487.5,-120 481.5,-120"/>
-<text text-anchor="middle" x="372" y="-104.4" font-family="Sarabun" font-size="12.00">free T4/T4 ปกติหรือต่ำ, TSH ≥ 10</text>
-<text text-anchor="middle" x="372" y="-91.4" font-family="Sarabun" font-size="12.00">ส่งต่อกุมารแพทย์ต่อมไร้ท่อฯ</text>
-<text text-anchor="middle" x="372" y="-78.4" font-family="Sarabun" font-size="12.00">หาสาเหตุ/ให้คำแนะนำ หรือให้ยา thyroxine ต่อ</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M589.5,-128C589.5,-128 334.5,-128 334.5,-128 328.5,-128 322.5,-122 322.5,-116 322.5,-116 322.5,-85 322.5,-85 322.5,-79 328.5,-73 334.5,-73 334.5,-73 589.5,-73 589.5,-73 595.5,-73 601.5,-79 601.5,-85 601.5,-85 601.5,-116 601.5,-116 601.5,-122 595.5,-128 589.5,-128"/>
+<text text-anchor="middle" x="462" y="-110.4" font-family="Sarabun" font-size="12.00">free T4/T4 ปกติหรือต่ำ, TSH ≥ 10</text>
+<text text-anchor="middle" x="462" y="-97.4" font-family="Sarabun" font-size="12.00">ส่งต่อกุมารแพทย์ต่อมไร้ท่อฯ</text>
+<text text-anchor="middle" x="462" y="-84.4" font-family="Sarabun" font-size="12.00">หาสาเหตุ/ให้คำแนะนำ หรือให้ยา thyroxine ต่อ</text>
 </g>
 <!-- R3&#45;&gt;O1 -->
 <g id="edge11" class="edge">
 <title>R3&#45;&gt;O1</title>
-<path fill="none" stroke="#5f6b78" d="M535.59,-150.95C508.98,-141.93 478.72,-131.68 451.53,-122.46"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="452.1,-120.06 444.68,-120.14 450.52,-124.71 452.1,-120.06"/>
+<path fill="none" stroke="#5f6b78" d="M647.94,-158.92C618.27,-149.76 584.93,-139.46 554.76,-130.15"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="555.38,-127.77 547.97,-128.05 553.93,-132.46 555.38,-127.77"/>
 </g>
 <!-- O2 -->
 <g id="node13" class="node">
 <title>O2</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M951,-120C951,-120 737,-120 737,-120 731,-120 725,-114 725,-108 725,-108 725,-81 725,-81 725,-75 731,-69 737,-69 737,-69 951,-69 951,-69 957,-69 963,-75 963,-81 963,-81 963,-108 963,-108 963,-114 957,-120 951,-120"/>
-<text text-anchor="middle" x="844" y="-104.4" font-family="Sarabun" font-size="12.00">free T4/T4 ปกติ, TSH 5&#45;10</text>
-<text text-anchor="middle" x="844" y="-91.4" font-family="Sarabun" font-size="12.00">Subclinical hypothyroidism</text>
-<text text-anchor="middle" x="844" y="-78.4" font-family="Sarabun" font-size="12.00">ติดตาม free T4/T4 และ TSH ทุก 1&#45;3 เดือน 2 ครั้ง</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M1131,-128C1131,-128 881,-128 881,-128 875,-128 869,-122 869,-116 869,-116 869,-85 869,-85 869,-79 875,-73 881,-73 881,-73 1131,-73 1131,-73 1137,-73 1143,-79 1143,-85 1143,-85 1143,-116 1143,-116 1143,-122 1137,-128 1131,-128"/>
+<text text-anchor="middle" x="1006" y="-110.4" font-family="Sarabun" font-size="12.00">free T4/T4 ปกติ, TSH 5&#45;10</text>
+<text text-anchor="middle" x="1006" y="-97.4" font-family="Sarabun" font-size="12.00">Subclinical hypothyroidism</text>
+<text text-anchor="middle" x="1006" y="-84.4" font-family="Sarabun" font-size="12.00">ติดตาม free T4/T4 และ TSH ทุก 1&#45;3 เดือน 2 ครั้ง</text>
 </g>
 <!-- R3&#45;&gt;O2 -->
 <g id="edge12" class="edge">
 <title>R3&#45;&gt;O2</title>
-<path fill="none" stroke="#5f6b78" d="M680.41,-150.95C707.02,-141.93 737.28,-131.68 764.47,-122.46"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="765.48,-124.71 771.32,-120.14 763.9,-120.06 765.48,-124.71"/>
+<path fill="none" stroke="#5f6b78" d="M820.06,-158.92C849.73,-149.76 883.07,-139.46 913.24,-130.15"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="914.07,-132.46 920.03,-128.05 912.62,-127.77 914.07,-132.46"/>
 </g>
 <!-- O3 -->
 <g id="node14" class="node">
 <title>O3</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M690.5,-120C690.5,-120 527.5,-120 527.5,-120 521.5,-120 515.5,-114 515.5,-108 515.5,-108 515.5,-81 515.5,-81 515.5,-75 521.5,-69 527.5,-69 527.5,-69 690.5,-69 690.5,-69 696.5,-69 702.5,-75 702.5,-81 702.5,-81 702.5,-108 702.5,-108 702.5,-114 696.5,-120 690.5,-120"/>
-<text text-anchor="middle" x="609" y="-104.4" font-family="Sarabun" font-size="12.00">free T4/T4 ปกติ, TSH ปกติ</text>
-<text text-anchor="middle" x="609" y="-91.4" font-family="Sarabun" font-size="12.00">Transient hypothyroidism</text>
-<text text-anchor="middle" x="609" y="-78.4" font-family="Sarabun" font-size="12.00">ติดตาม free T4/T4 และ TSH เป็นระยะ</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M834.5,-128C834.5,-128 635.5,-128 635.5,-128 629.5,-128 623.5,-122 623.5,-116 623.5,-116 623.5,-85 623.5,-85 623.5,-79 629.5,-73 635.5,-73 635.5,-73 834.5,-73 834.5,-73 840.5,-73 846.5,-79 846.5,-85 846.5,-85 846.5,-116 846.5,-116 846.5,-122 840.5,-128 834.5,-128"/>
+<text text-anchor="middle" x="735" y="-110.4" font-family="Sarabun" font-size="12.00">free T4/T4 ปกติ, TSH ปกติ</text>
+<text text-anchor="middle" x="735" y="-97.4" font-family="Sarabun" font-size="12.00">Transient hypothyroidism</text>
+<text text-anchor="middle" x="735" y="-84.4" font-family="Sarabun" font-size="12.00">ติดตาม free T4/T4 และ TSH เป็นระยะ</text>
 </g>
 <!-- R3&#45;&gt;O3 -->
 <g id="edge13" class="edge">
 <title>R3&#45;&gt;O3</title>
-<path fill="none" stroke="#5f6b78" d="M608.31,-150.63C608.4,-143.18 608.51,-134.92 608.61,-127.1"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="611.05,-127.11 608.69,-120.08 606.16,-127.05 611.05,-127.11"/>
+<path fill="none" stroke="#5f6b78" d="M734.32,-158.92C734.41,-151.41 734.5,-143.14 734.6,-135.27"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="737.05,-135.22 734.68,-128.19 732.15,-135.16 737.05,-135.22"/>
 </g>
 <!-- F1 -->
 <g id="node15" class="node">
 <title>F1</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M739.5,-38C739.5,-38 642.5,-38 642.5,-38 636.5,-38 630.5,-32 630.5,-26 630.5,-26 630.5,-12 630.5,-12 630.5,-6 636.5,0 642.5,0 642.5,0 739.5,0 739.5,0 745.5,0 751.5,-6 751.5,-12 751.5,-12 751.5,-26 751.5,-26 751.5,-32 745.5,-38 739.5,-38"/>
-<text text-anchor="middle" x="691" y="-22.4" font-family="Sarabun" font-size="12.00">TSH &gt; 5</text>
-<text text-anchor="middle" x="691" y="-9.4" font-family="Sarabun" font-size="12.00">ส่งต่อกุมารแพทย์ต่อมไร้ท่อฯ</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M883.5,-42C883.5,-42 750.5,-42 750.5,-42 744.5,-42 738.5,-36 738.5,-30 738.5,-30 738.5,-12 738.5,-12 738.5,-6 744.5,0 750.5,0 750.5,0 883.5,0 883.5,0 889.5,0 895.5,-6 895.5,-12 895.5,-12 895.5,-30 895.5,-30 895.5,-36 889.5,-42 883.5,-42"/>
+<text text-anchor="middle" x="817" y="-24.4" font-family="Sarabun" font-size="12.00">TSH &gt; 5</text>
+<text text-anchor="middle" x="817" y="-11.4" font-family="Sarabun" font-size="12.00">ส่งต่อกุมารแพทย์ต่อมไร้ท่อฯ</text>
 </g>
 <!-- O2&#45;&gt;F1 -->
 <g id="edge14" class="edge">
 <title>O2&#45;&gt;F1</title>
-<path fill="none" stroke="#5f6b78" d="M792.63,-68.82C774.07,-59.91 753.3,-49.93 735.39,-41.32"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="736.3,-39.04 728.93,-38.22 734.18,-43.46 736.3,-39.04"/>
+<path fill="none" stroke="#5f6b78" d="M941.22,-72.94C918.85,-63.76 894.01,-53.58 872.45,-44.74"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="873.28,-42.43 865.87,-42.04 871.42,-46.96 873.28,-42.43"/>
 </g>
 <!-- F2 -->
 <g id="node16" class="node">
 <title>F2</title>
-<path fill="#eef0f2" stroke="#8a99a8" d="M860.5,-38C860.5,-38 799.5,-38 799.5,-38 793.5,-38 787.5,-32 787.5,-26 787.5,-26 787.5,-12 787.5,-12 787.5,-6 793.5,0 799.5,0 799.5,0 860.5,0 860.5,0 866.5,0 872.5,-6 872.5,-12 872.5,-12 872.5,-26 872.5,-26 872.5,-32 866.5,-38 860.5,-38"/>
-<text text-anchor="middle" x="830" y="-22.4" font-family="Sarabun" font-size="12.00">TSH &lt; 5</text>
-<text text-anchor="middle" x="830" y="-9.4" font-family="Sarabun" font-size="12.00">ติดตามเป็นระยะต่อ</text>
+<path fill="#eef0f2" stroke="#8a99a8" d="M1040.5,-42C1040.5,-42 943.5,-42 943.5,-42 937.5,-42 931.5,-36 931.5,-30 931.5,-30 931.5,-12 931.5,-12 931.5,-6 937.5,0 943.5,0 943.5,0 1040.5,0 1040.5,0 1046.5,0 1052.5,-6 1052.5,-12 1052.5,-12 1052.5,-30 1052.5,-30 1052.5,-36 1046.5,-42 1040.5,-42"/>
+<text text-anchor="middle" x="992" y="-24.4" font-family="Sarabun" font-size="12.00">TSH &lt; 5</text>
+<text text-anchor="middle" x="992" y="-11.4" font-family="Sarabun" font-size="12.00">ติดตามเป็นระยะต่อ</text>
 </g>
 <!-- O2&#45;&gt;F2 -->
 <g id="edge15" class="edge">
 <title>O2&#45;&gt;F2</title>
-<path fill="none" stroke="#5f6b78" d="M839.26,-68.62C837.83,-61.12 836.26,-52.89 834.83,-45.36"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="837.17,-44.54 833.45,-38.12 832.35,-45.46 837.17,-44.54"/>
+<path fill="none" stroke="#5f6b78" d="M1001.18,-72.83C999.83,-65.34 998.36,-57.19 996.99,-49.64"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="999.33,-48.81 995.68,-42.35 994.51,-49.68 999.33,-48.81"/>
 </g>
 <!-- O3&#45;&gt;F1 -->
 <g id="edge16" class="edge">
 <title>O3&#45;&gt;F1</title>
-<path fill="none" stroke="#5f6b78" d="M636.76,-68.62C646.08,-60.26 656.43,-50.99 665.56,-42.8"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="667.21,-44.62 670.78,-38.12 663.94,-40.97 667.21,-44.62"/>
+<path fill="none" stroke="#5f6b78" d="M763.22,-72.83C772.04,-64.49 781.75,-55.32 790.45,-47.09"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="792.32,-48.7 795.72,-42.11 788.95,-45.14 792.32,-48.7"/>
 </g>
 <!-- O3&#45;&gt;F2 -->
 <g id="edge17" class="edge">
 <title>O3&#45;&gt;F2</title>
-<path fill="none" stroke="#5f6b78" d="M682.9,-68.92C715.08,-58.22 751.92,-45.97 780.69,-36.4"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="781.58,-38.69 787.45,-34.15 780.03,-34.04 781.58,-38.69"/>
+<path fill="none" stroke="#5f6b78" d="M823.09,-72.94C856.18,-62.96 893.26,-51.78 924.23,-42.44"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="925.15,-44.72 931.15,-40.35 923.74,-40.03 925.15,-44.72"/>
 </g>
 </g>
 </svg>

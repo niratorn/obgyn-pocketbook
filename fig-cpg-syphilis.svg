@@ -1,0 +1,205 @@
+<svg
+ viewBox="0.00 0.00 876.50 809.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 805)">
+<title>syphilis</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-805 872.5,-805 872.5,4 -4,4"/>
+<!-- start -->
+<g id="node1" class="node">
+<title>start</title>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M221,-801C221,-801 118,-801 118,-801 112,-801 106,-795 106,-789 106,-789 106,-769 106,-769 106,-763 112,-757 118,-757 118,-757 221,-757 221,-757 227,-757 233,-763 233,-769 233,-769 233,-789 233,-789 233,-795 227,-801 221,-801"/>
+<text text-anchor="middle" x="169.5" y="-782.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">First ANC</text>
+<text text-anchor="middle" x="169.5" y="-768.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">LAB1 ANC</text>
+</g>
+<!-- ab1 -->
+<g id="node2" class="node">
+<title>ab1</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M443,-715C443,-715 286,-715 286,-715 280,-715 274,-709 274,-703 274,-703 274,-691 274,-691 274,-685 280,-679 286,-679 286,-679 443,-679 443,-679 449,-679 455,-685 455,-691 455,-691 455,-703 455,-703 455,-709 449,-715 443,-715"/>
+<text text-anchor="middle" x="364.5" y="-693.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Syphilis Ab / VDRL</text>
+</g>
+<!-- start&#45;&gt;ab1 -->
+<g id="edge1" class="edge">
+<title>start&#45;&gt;ab1</title>
+<path fill="none" stroke="#5f6b78" d="M220.73,-756.98C250.19,-744.89 286.99,-729.8 315.98,-717.91"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="317.25,-720.03 322.79,-715.11 315.39,-715.5 317.25,-720.03"/>
+<text text-anchor="middle" x="309" y="-733.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Reactive</text>
+</g>
+<!-- ab2 -->
+<g id="node3" class="node">
+<title>ab2</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M169,-620C169,-620 12,-620 12,-620 6,-620 0,-614 0,-608 0,-608 0,-588 0,-588 0,-582 6,-576 12,-576 12,-576 169,-576 169,-576 175,-576 181,-582 181,-588 181,-588 181,-608 181,-608 181,-614 175,-620 169,-620"/>
+<text text-anchor="middle" x="90.5" y="-601.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Syphilis Ab / VDRL</text>
+<text text-anchor="middle" x="90.5" y="-587.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">at GA 28&#45;32 wks</text>
+</g>
+<!-- start&#45;&gt;ab2 -->
+<g id="edge2" class="edge">
+<title>start&#45;&gt;ab2</title>
+<path fill="none" stroke="#5f6b78" d="M160.13,-756.76C145.87,-724.47 118.73,-662.97 102.87,-627.04"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="104.93,-625.62 99.86,-620.21 100.45,-627.6 104.93,-625.62"/>
+<text text-anchor="middle" x="178" y="-694.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Non&#45;reactive</text>
+</g>
+<!-- hx -->
+<g id="node4" class="node">
+<title>hx</title>
+<path fill="#fdeecf" stroke="#d9a441" d="M524,-648C524,-648 265,-648 265,-648 259,-648 253,-642 253,-636 253,-636 253,-560 253,-560 253,-554 259,-548 265,-548 265,-548 524,-548 524,-548 530,-548 536,-554 536,-560 536,-560 536,-636 536,-636 536,-642 530,-648 524,-648"/>
+<text text-anchor="start" x="283" y="-629.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Hx taking &amp; Physical examination</text>
+<text text-anchor="start" x="283" y="-615.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Genital lesion (chancre)</text>
+<text text-anchor="start" x="283" y="-601.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Rash</text>
+<text text-anchor="start" x="283" y="-587.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Mucous patch</text>
+<text text-anchor="start" x="283" y="-573.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Organ involvement</text>
+<text text-anchor="start" x="283" y="-559.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Lymphadenopathy</text>
+</g>
+<!-- ab1&#45;&gt;hx -->
+<g id="edge3" class="edge">
+<title>ab1&#45;&gt;hx</title>
+<path fill="none" stroke="#5f6b78" d="M369.86,-678.66C371.96,-671.86 374.5,-663.66 377.14,-655.13"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="379.54,-655.65 379.27,-648.23 374.86,-654.2 379.54,-655.65"/>
+</g>
+<!-- ab2&#45;&gt;hx -->
+<g id="edge4" class="edge">
+<title>ab2&#45;&gt;hx</title>
+<path fill="none" stroke="#5f6b78" d="M181.3,-598C201.66,-598 223.79,-598 245.82,-598"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="245.97,-600.45 252.97,-598 245.97,-595.55 245.97,-600.45"/>
+<text text-anchor="middle" x="217" y="-604.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Reactive</text>
+</g>
+<!-- mrg -->
+<g id="node13" class="node">
+<title>mrg</title>
+<ellipse fill="#5f6b78" stroke="#5f6b78" cx="242.5" cy="-384" rx="0.72" ry="0.72"/>
+</g>
+<!-- ab2&#45;&gt;mrg -->
+<g id="edge14" class="edge">
+<title>ab2&#45;&gt;mrg</title>
+<path fill="none" stroke="#5f6b78" d="M86.45,-575.86C82.21,-547.5 78.95,-496.71 101.5,-462 139.79,-403.06 239.32,-385.55 242.43,-385.01"/>
+<text text-anchor="middle" x="137" y="-481.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Non&#45;reactive</text>
+</g>
+<!-- stage -->
+<g id="node5" class="node">
+<title>stage</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M462.5,-506C462.5,-506 196.5,-506 196.5,-506 190.5,-506 184.5,-500 184.5,-494 184.5,-494 184.5,-474 184.5,-474 184.5,-468 190.5,-462 196.5,-462 196.5,-462 462.5,-462 462.5,-462 468.5,-462 474.5,-468 474.5,-474 474.5,-474 474.5,-494 474.5,-494 474.5,-500 468.5,-506 462.5,-506"/>
+<text text-anchor="middle" x="329.5" y="-487.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">รักษาตามระยะของโรค</text>
+<text text-anchor="middle" x="329.5" y="-473.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(treat per stage of disease)</text>
+</g>
+<!-- hx&#45;&gt;stage -->
+<g id="edge5" class="edge">
+<title>hx&#45;&gt;stage</title>
+<path fill="none" stroke="#5f6b78" d="M365.99,-547.88C358.92,-535.69 351.59,-523.06 345.37,-512.35"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="347.49,-511.11 341.85,-506.28 343.25,-513.57 347.49,-511.11"/>
+<text text-anchor="middle" x="366" y="-524.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Yes</text>
+</g>
+<!-- tpha -->
+<g id="node6" class="node">
+<title>tpha</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M625.5,-502C625.5,-502 509.5,-502 509.5,-502 503.5,-502 497.5,-496 497.5,-490 497.5,-490 497.5,-478 497.5,-478 497.5,-472 503.5,-466 509.5,-466 509.5,-466 625.5,-466 625.5,-466 631.5,-466 637.5,-472 637.5,-478 637.5,-478 637.5,-490 637.5,-490 637.5,-496 631.5,-502 625.5,-502"/>
+<text text-anchor="middle" x="567.5" y="-480.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">TPHA / TPPA</text>
+</g>
+<!-- hx&#45;&gt;tpha -->
+<g id="edge6" class="edge">
+<title>hx&#45;&gt;tpha</title>
+<path fill="none" stroke="#5f6b78" d="M470.38,-547.88C493.06,-533.2 516.72,-517.88 535.01,-506.03"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="536.46,-508.02 541,-502.16 533.79,-503.9 536.46,-508.02"/>
+</g>
+<!-- tx1 -->
+<g id="node7" class="node">
+<title>tx1</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M856.5,-420C856.5,-420 278.5,-420 278.5,-420 272.5,-420 266.5,-414 266.5,-408 266.5,-408 266.5,-360 266.5,-360 266.5,-354 272.5,-348 278.5,-348 278.5,-348 856.5,-348 856.5,-348 862.5,-348 868.5,-354 868.5,-360 868.5,-360 868.5,-408 868.5,-408 868.5,-414 862.5,-420 856.5,-420"/>
+<text text-anchor="start" x="296.5" y="-401.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; VDRL titer (กรณีส่ง Syphilis Ab มาก่อน)</text>
+<text text-anchor="start" x="296.5" y="-387.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Benzathine Penicillin G 2.4 mU IM weekly x 3 dose</text>
+<text text-anchor="start" x="296.5" y="-373.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; รักษา partner กรณีติดเชื้อร่วม</text>
+<text text-anchor="start" x="296.5" y="-359.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Advise เรื่องเพศสัมพันธ์และการใช้ถุงยางอนามัย</text>
+</g>
+<!-- tpha&#45;&gt;tx1 -->
+<g id="edge7" class="edge">
+<title>tpha&#45;&gt;tx1</title>
+<path fill="none" stroke="#5f6b78" d="M567.5,-465.93C567.5,-455.19 567.5,-440.82 567.5,-427.18"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="569.95,-427.13 567.5,-420.13 565.05,-427.13 569.95,-427.13"/>
+<text text-anchor="middle" x="592" y="-438.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Reactive</text>
+</g>
+<!-- tpha&#45;&gt;mrg -->
+<g id="edge15" class="edge">
+<title>tpha&#45;&gt;mrg</title>
+<path fill="none" stroke="#5f6b78" d="M503.49,-465.94C497.76,-464.55 492.03,-463.22 486.5,-462 384.16,-439.5 333.98,-488.29 254.5,-420 242.42,-409.62 242.48,-386.5 242.5,-385.07"/>
+<text text-anchor="middle" x="331" y="-438.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Non&#45;reactive</text>
+</g>
+<!-- dec1 -->
+<g id="node8" class="node">
+<title>dec1</title>
+<path fill="#fdeecf" stroke="#d9a441" d="M673.5,-294C673.5,-294 429.5,-294 429.5,-294 423.5,-294 417.5,-288 417.5,-282 417.5,-282 417.5,-262 417.5,-262 417.5,-256 423.5,-250 429.5,-250 429.5,-250 673.5,-250 673.5,-250 679.5,-250 685.5,-256 685.5,-262 685.5,-262 685.5,-282 685.5,-282 685.5,-288 679.5,-294 673.5,-294"/>
+<text text-anchor="middle" x="551.5" y="-275.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">VDRL titer ลดลง ≥ 4 เท่า</text>
+<text text-anchor="middle" x="551.5" y="-261.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">และไม่มีอาการ</text>
+</g>
+<!-- tx1&#45;&gt;dec1 -->
+<g id="edge8" class="edge">
+<title>tx1&#45;&gt;dec1</title>
+<path fill="none" stroke="#5f6b78" d="M562.39,-347.89C560.2,-332.79 557.66,-315.38 555.59,-301.15"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="557.99,-300.6 554.56,-294.03 553.14,-301.31 557.99,-300.6"/>
+<text text-anchor="middle" x="652" y="-324.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">F/U VDRL titer</text>
+<text text-anchor="middle" x="652" y="-312.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">หลังรักษาครบ 3 mo</text>
+</g>
+<!-- tx2 -->
+<g id="node9" class="node">
+<title>tx2</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M721,-208C721,-208 382,-208 382,-208 376,-208 370,-202 370,-196 370,-196 370,-176 370,-176 370,-170 376,-164 382,-164 382,-164 721,-164 721,-164 727,-164 733,-170 733,-176 733,-176 733,-196 733,-196 733,-202 727,-208 721,-208"/>
+<text text-anchor="start" x="400" y="-189.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Benzathine Penicillin G 2.4 mU IM x 3 dose</text>
+<text text-anchor="start" x="400" y="-175.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; F/U VDRL titer หลังรักษาครบ 3 mo.</text>
+</g>
+<!-- dec1&#45;&gt;tx2 -->
+<g id="edge10" class="edge">
+<title>dec1&#45;&gt;tx2</title>
+<path fill="none" stroke="#5f6b78" d="M551.5,-249.8C551.5,-239.36 551.5,-226.62 551.5,-215.34"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="553.95,-215.19 551.5,-208.19 549.05,-215.19 553.95,-215.19"/>
+<text text-anchor="middle" x="559.5" y="-226.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">No</text>
+</g>
+<!-- deliver -->
+<g id="node11" class="node">
+<title>deliver</title>
+<path fill="#e3f3e0" stroke="#69a35a" d="M410.5,-36C410.5,-36 260.5,-36 260.5,-36 254.5,-36 248.5,-30 248.5,-24 248.5,-24 248.5,-12 248.5,-12 248.5,-6 254.5,0 260.5,0 260.5,0 410.5,0 410.5,0 416.5,0 422.5,-6 422.5,-12 422.5,-12 422.5,-24 422.5,-24 422.5,-30 416.5,-36 410.5,-36"/>
+<text text-anchor="middle" x="335.5" y="-14.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Delivery as usual</text>
+</g>
+<!-- dec1&#45;&gt;deliver -->
+<g id="edge9" class="edge">
+<title>dec1&#45;&gt;deliver</title>
+<path fill="none" stroke="#5f6b78" d="M419.21,-249.94C396.01,-240.59 374.28,-227.19 358.5,-208 319.63,-160.73 324.95,-82.97 330.88,-43.55"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="333.37,-43.5 332.06,-36.2 328.53,-42.72 333.37,-43.5"/>
+<text text-anchor="middle" x="342" y="-140.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Yes</text>
+</g>
+<!-- dec2 -->
+<g id="node10" class="node">
+<title>dec2</title>
+<path fill="#fdeecf" stroke="#d9a441" d="M662.5,-122C662.5,-122 418.5,-122 418.5,-122 412.5,-122 406.5,-116 406.5,-110 406.5,-110 406.5,-90 406.5,-90 406.5,-84 412.5,-78 418.5,-78 418.5,-78 662.5,-78 662.5,-78 668.5,-78 674.5,-84 674.5,-90 674.5,-90 674.5,-110 674.5,-110 674.5,-116 668.5,-122 662.5,-122"/>
+<text text-anchor="middle" x="540.5" y="-103.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">VDRL titer ลดลง ≥ 4 เท่า</text>
+<text text-anchor="middle" x="540.5" y="-89.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">และไม่มีอาการ</text>
+</g>
+<!-- tx2&#45;&gt;dec2 -->
+<g id="edge11" class="edge">
+<title>tx2&#45;&gt;dec2</title>
+<path fill="none" stroke="#5f6b78" d="M548.72,-163.8C547.36,-153.36 545.69,-140.62 544.21,-129.34"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="546.61,-128.81 543.27,-122.19 541.75,-129.45 546.61,-128.81"/>
+</g>
+<!-- dec2&#45;&gt;deliver -->
+<g id="edge12" class="edge">
+<title>dec2&#45;&gt;deliver</title>
+<path fill="none" stroke="#5f6b78" d="M486.64,-77.98C455.54,-65.84 416.66,-50.67 386.12,-38.76"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="386.76,-36.37 379.34,-36.11 384.97,-40.94 386.76,-36.37"/>
+<text text-anchor="middle" x="453" y="-54.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">Yes</text>
+</g>
+<!-- consult -->
+<g id="node12" class="node">
+<title>consult</title>
+<path fill="#fbe6e0" stroke="#cf7a5f" d="M612,-36C612,-36 469,-36 469,-36 463,-36 457,-30 457,-24 457,-24 457,-12 457,-12 457,-6 463,0 469,0 469,0 612,0 612,0 618,0 624,-6 624,-12 624,-12 624,-24 624,-24 624,-30 618,-36 612,-36"/>
+<text text-anchor="middle" x="540.5" y="-14.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Consult OB&#45;GYN</text>
+</g>
+<!-- dec2&#45;&gt;consult -->
+<g id="edge13" class="edge">
+<title>dec2&#45;&gt;consult</title>
+<path fill="none" stroke="#5f6b78" d="M540.5,-77.98C540.5,-67.37 540.5,-54.45 540.5,-43.4"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="542.95,-43.11 540.5,-36.11 538.05,-43.11 542.95,-43.11"/>
+<text text-anchor="middle" x="548.5" y="-54.2" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="11.00">No</text>
+</g>
+<!-- mrg&#45;&gt;deliver -->
+<g id="edge16" class="edge">
+<title>mrg&#45;&gt;deliver</title>
+<path fill="none" stroke="#5f6b78" d="M242.52,-382.93C243.46,-379.98 273.5,-285.5 273.5,-273 273.5,-273 273.5,-273 273.5,-99 273.5,-75.79 290,-55.24 305.98,-40.78"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="307.67,-42.55 311.35,-36.11 304.46,-38.85 307.67,-42.55"/>
+</g>
+</g>
+</svg>

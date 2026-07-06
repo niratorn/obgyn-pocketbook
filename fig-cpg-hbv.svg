@@ -1,0 +1,202 @@
+<svg
+ viewBox="0.00 0.00 479.50 653.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 649)">
+<title>hbv</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-649 475.5,-649 475.5,4 -4,4"/>
+<!-- S -->
+<g id="node1" class="node">
+<title>S</title>
+<polygon fill="#ffffff" stroke="#333333" points="269,-645 204,-645 204,-609 269,-609 269,-645"/>
+<text text-anchor="middle" x="236.5" y="-623.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">HBsAg (+)</text>
+</g>
+<!-- Neg -->
+<g id="node2" class="node">
+<title>Neg</title>
+<polygon fill="#e7f4e3" stroke="#69a35a" points="225.5,-580 159.5,-580 159.5,-544 225.5,-544 225.5,-580"/>
+<text text-anchor="middle" x="192.5" y="-558.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">HBeAg (−)</text>
+</g>
+<!-- S&#45;&gt;Neg -->
+<g id="edge1" class="edge">
+<title>S&#45;&gt;Neg</title>
+<path fill="none" stroke="#5f6b78" d="M224.48,-608.78C219.63,-601.84 213.96,-593.72 208.75,-586.26"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="210.53,-584.53 204.51,-580.19 206.51,-587.34 210.53,-584.53"/>
+</g>
+<!-- Pos -->
+<g id="node3" class="node">
+<title>Pos</title>
+<polygon fill="#fbe0c4" stroke="#d9853f" points="331.5,-580 265.5,-580 265.5,-544 331.5,-544 331.5,-580"/>
+<text text-anchor="middle" x="298.5" y="-558.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">HBeAg (+)</text>
+</g>
+<!-- S&#45;&gt;Pos -->
+<g id="edge2" class="edge">
+<title>S&#45;&gt;Pos</title>
+<path fill="none" stroke="#5f6b78" d="M253.44,-608.78C260.55,-601.56 268.91,-593.07 276.48,-585.37"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="278.41,-586.9 281.58,-580.19 274.92,-583.46 278.41,-586.9"/>
+</g>
+<!-- NegOut -->
+<g id="node4" class="node">
+<title>NegOut</title>
+<path fill="#eef7ec" stroke="#69a35a" d="M249,-515C249,-515 64,-515 64,-515 58,-515 52,-509 52,-503 52,-503 52,-485 52,-485 52,-479 58,-473 64,-473 64,-473 249,-473 249,-473 255,-473 261,-479 261,-485 261,-485 261,-503 261,-503 261,-509 255,-515 249,-515"/>
+<text text-anchor="start" x="66" y="-497.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; ฝากครรภ์ตามปกติ (routine ANC)</text>
+<text text-anchor="start" x="66" y="-483.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; ทารกได้รับวัคซีนภายใน 12 ชั่วโมง (HepB + HBIG)</text>
+</g>
+<!-- Neg&#45;&gt;NegOut -->
+<g id="edge3" class="edge">
+<title>Neg&#45;&gt;NegOut</title>
+<path fill="none" stroke="#5f6b78" d="M183.04,-543.66C179.4,-536.99 175.16,-529.22 171.15,-521.86"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="173.06,-520.24 167.56,-515.27 168.76,-522.59 173.06,-520.24"/>
+</g>
+<!-- AL -->
+<g id="node5" class="node">
+<title>AL</title>
+<polygon fill="#fbe0c4" stroke="#d9853f" points="350,-512 283,-512 283,-476 350,-476 350,-512"/>
+<text text-anchor="middle" x="316.5" y="-490.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">AST / ALT</text>
+</g>
+<!-- Pos&#45;&gt;AL -->
+<g id="edge4" class="edge">
+<title>Pos&#45;&gt;AL</title>
+<path fill="none" stroke="#5f6b78" d="M303.23,-543.66C305.24,-536.29 307.62,-527.57 309.8,-519.55"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="312.26,-519.85 311.74,-512.45 307.53,-518.56 312.26,-519.85"/>
+</g>
+<!-- Nor -->
+<g id="node6" class="node">
+<title>Nor</title>
+<polygon fill="#fdeecf" stroke="#d9a441" points="298,-444 241,-444 241,-408 298,-408 298,-444"/>
+<text text-anchor="middle" x="269.5" y="-422.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Normal</text>
+</g>
+<!-- AL&#45;&gt;Nor -->
+<g id="edge5" class="edge">
+<title>AL&#45;&gt;Nor</title>
+<path fill="none" stroke="#5f6b78" d="M304.15,-475.66C298.69,-467.99 292.18,-458.85 286.29,-450.58"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="287.99,-448.73 281.93,-444.45 283.99,-451.58 287.99,-448.73"/>
+</g>
+<!-- Abn -->
+<g id="node7" class="node">
+<title>Abn</title>
+<polygon fill="#fdeecf" stroke="#d9a441" points="398,-444 331,-444 331,-408 398,-408 398,-444"/>
+<text text-anchor="middle" x="364.5" y="-422.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Abnormal</text>
+</g>
+<!-- AL&#45;&gt;Abn -->
+<g id="edge6" class="edge">
+<title>AL&#45;&gt;Abn</title>
+<path fill="none" stroke="#5f6b78" d="M329.11,-475.66C334.69,-467.99 341.34,-458.85 347.35,-450.58"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="349.67,-451.56 351.81,-444.45 345.71,-448.67 349.67,-451.56"/>
+</g>
+<!-- DNA -->
+<g id="node9" class="node">
+<title>DNA</title>
+<path fill="#fff2e3" stroke="#d9853f" d="M280.5,-379C280.5,-379 214.5,-379 214.5,-379 208.5,-379 202.5,-373 202.5,-367 202.5,-367 202.5,-349 202.5,-349 202.5,-343 208.5,-337 214.5,-337 214.5,-337 280.5,-337 280.5,-337 286.5,-337 292.5,-343 292.5,-349 292.5,-349 292.5,-367 292.5,-367 292.5,-373 286.5,-379 280.5,-379"/>
+<text text-anchor="middle" x="247.5" y="-361.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">HBV DNA + LFT</text>
+<text text-anchor="middle" x="247.5" y="-347.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">GA 24&#45;26 wks</text>
+</g>
+<!-- Nor&#45;&gt;DNA -->
+<g id="edge8" class="edge">
+<title>Nor&#45;&gt;DNA</title>
+<path fill="none" stroke="#5f6b78" d="M263.72,-407.66C261.54,-401.13 259.01,-393.53 256.6,-386.31"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="258.79,-385.13 254.26,-379.27 254.15,-386.68 258.79,-385.13"/>
+</g>
+<!-- AbnOut -->
+<g id="node8" class="node">
+<title>AbnOut</title>
+<path fill="#fbe6e0" stroke="#cf7a5f" d="M424.5,-379C424.5,-379 326.5,-379 326.5,-379 320.5,-379 314.5,-373 314.5,-367 314.5,-367 314.5,-349 314.5,-349 314.5,-343 320.5,-337 326.5,-337 326.5,-337 424.5,-337 424.5,-337 430.5,-337 436.5,-343 436.5,-349 436.5,-349 436.5,-367 436.5,-367 436.5,-373 430.5,-379 424.5,-379"/>
+<text text-anchor="middle" x="375.5" y="-361.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ส่งพบสูติแพทย์</text>
+<text text-anchor="middle" x="375.5" y="-347.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">พิจารณาปรึกษาอายุรแพทย์</text>
+</g>
+<!-- Abn&#45;&gt;AbnOut -->
+<g id="edge7" class="edge">
+<title>Abn&#45;&gt;AbnOut</title>
+<path fill="none" stroke="#5f6b78" d="M367.39,-407.66C368.48,-401.13 369.74,-393.53 370.95,-386.31"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="373.39,-386.58 372.12,-379.27 368.55,-385.77 373.39,-386.58"/>
+</g>
+<!-- Hi -->
+<g id="node10" class="node">
+<title>Hi</title>
+<polygon fill="#fff2e3" stroke="#d9853f" points="237,-308 110,-308 110,-266 237,-266 237,-308"/>
+<text text-anchor="middle" x="173.5" y="-290.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">HBV DNA &gt; 200,000 u/ml</text>
+<text text-anchor="middle" x="173.5" y="-276.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(&gt; 10^6 copies/ml)</text>
+</g>
+<!-- DNA&#45;&gt;Hi -->
+<g id="edge9" class="edge">
+<title>DNA&#45;&gt;Hi</title>
+<path fill="none" stroke="#5f6b78" d="M225.7,-336.67C217.87,-329.37 208.94,-321.05 200.71,-313.37"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="201.94,-311.17 195.15,-308.18 198.6,-314.75 201.94,-311.17"/>
+</g>
+<!-- Lo -->
+<g id="node11" class="node">
+<title>Lo</title>
+<polygon fill="#fff2e3" stroke="#d9853f" points="410,-308 283,-308 283,-266 410,-266 410,-308"/>
+<text text-anchor="middle" x="346.5" y="-290.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">HBV DNA &lt; 200,000 u/ml</text>
+<text text-anchor="middle" x="346.5" y="-276.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(&lt; 10^6 copies/ml)</text>
+</g>
+<!-- DNA&#45;&gt;Lo -->
+<g id="edge10" class="edge">
+<title>DNA&#45;&gt;Lo</title>
+<path fill="none" stroke="#5f6b78" d="M276.4,-336.86C287.48,-329.13 300.24,-320.24 311.81,-312.18"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="313.39,-314.06 317.73,-308.05 310.59,-310.04 313.39,-314.06"/>
+</g>
+<!-- HiTx -->
+<g id="node12" class="node">
+<title>HiTx</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M237,-237C237,-237 12,-237 12,-237 6,-237 0,-231 0,-225 0,-225 0,-165 0,-165 0,-159 6,-153 12,-153 12,-153 237,-153 237,-153 243,-153 249,-159 249,-165 249,-165 249,-225 249,-225 249,-231 243,-237 237,-237"/>
+<text text-anchor="start" x="14" y="-219.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">BUN, Cr + เริ่มยา ARV GA 28&#45;32 wks ถึงหลังคลอด 1&#45;3 เดือน</text>
+<text text-anchor="start" x="14" y="-205.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Tenofovir (1st line: Cat B)</text>
+<text text-anchor="start" x="14" y="-191.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00"> &#160;&#160;TDF 300 mg/day</text>
+<text text-anchor="start" x="14" y="-177.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00"> &#160;&#160;TAF 25 mg/day</text>
+<text text-anchor="start" x="14" y="-163.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; Lamivudine (Cat C)</text>
+</g>
+<!-- Hi&#45;&gt;HiTx -->
+<g id="edge11" class="edge">
+<title>Hi&#45;&gt;HiTx</title>
+<path fill="none" stroke="#5f6b78" d="M162.38,-265.58C158.81,-259.01 154.69,-251.44 150.51,-243.77"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="152.49,-242.29 146.99,-237.31 148.19,-244.63 152.49,-242.29"/>
+</g>
+<!-- LoOut -->
+<g id="node14" class="node">
+<title>LoOut</title>
+<path fill="#eef7ec" stroke="#69a35a" d="M459.5,-216C459.5,-216 283.5,-216 283.5,-216 277.5,-216 271.5,-210 271.5,-204 271.5,-204 271.5,-186 271.5,-186 271.5,-180 277.5,-174 283.5,-174 283.5,-174 459.5,-174 459.5,-174 465.5,-174 471.5,-180 471.5,-186 471.5,-186 471.5,-204 471.5,-204 471.5,-210 465.5,-216 459.5,-216"/>
+<text text-anchor="start" x="285.5" y="-198.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; ฝากครรภ์</text>
+<text text-anchor="start" x="285.5" y="-184.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; ลูกได้รับวัคซีนภายใน 12 ชั่วโมง (HepB + HBIG)</text>
+</g>
+<!-- Lo&#45;&gt;LoOut -->
+<g id="edge13" class="edge">
+<title>Lo&#45;&gt;LoOut</title>
+<path fill="none" stroke="#5f6b78" d="M352.17,-265.58C355.68,-252.95 360.23,-236.59 364.03,-222.91"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="366.42,-223.43 365.94,-216.03 361.7,-222.12 366.42,-223.43"/>
+</g>
+<!-- HiOut -->
+<g id="node13" class="node">
+<title>HiOut</title>
+<path fill="#eef7ec" stroke="#69a35a" d="M249.5,-124C249.5,-124 73.5,-124 73.5,-124 67.5,-124 61.5,-118 61.5,-112 61.5,-112 61.5,-94 61.5,-94 61.5,-88 67.5,-82 73.5,-82 73.5,-82 249.5,-82 249.5,-82 255.5,-82 261.5,-88 261.5,-94 261.5,-94 261.5,-112 261.5,-112 261.5,-118 255.5,-124 249.5,-124"/>
+<text text-anchor="start" x="75.5" y="-106.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; ฝากครรภ์</text>
+<text text-anchor="start" x="75.5" y="-92.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">&#45; ลูกได้รับวัคซีนภายใน 12 ชั่วโมง (HepB + HBIG)</text>
+</g>
+<!-- HiTx&#45;&gt;HiOut -->
+<g id="edge12" class="edge">
+<title>HiTx&#45;&gt;HiOut</title>
+<path fill="none" stroke="#5f6b78" d="M141.38,-152.95C144.46,-145.44 147.61,-137.78 150.47,-130.82"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="152.83,-131.53 153.23,-124.12 148.3,-129.67 152.83,-131.53"/>
+</g>
+<!-- Note -->
+<g id="node16" class="node">
+<title>Note</title>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M381,-53C381,-53 114,-53 114,-53 108,-53 102,-47 102,-41 102,-41 102,-12 102,-12 102,-6 108,0 114,0 114,0 381,0 381,0 387,0 393,-6 393,-12 393,-12 393,-41 393,-41 393,-47 387,-53 381,-53"/>
+<text text-anchor="start" x="116" y="-36.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ยกเว้น หญิงตั้งครรภ์ที่เป็นโรคไวรัสตับอักเสบบี และมีค่าการทำงานตับผิดปกติ</text>
+<text text-anchor="start" x="143.5" y="-23.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">หรือเป็นโรคไวรัสตับอักเสบบีที่รับประทานยารักษาต่อเนื่องอยู่</text>
+<text text-anchor="start" x="179.5" y="-10.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-weight="bold" font-size="13.00" fill="#c0392b">มารดาหลังคลอดสามารถให้นมบุตรได้</text>
+</g>
+<!-- HiOut&#45;&gt;Note -->
+<!-- Fu -->
+<g id="node15" class="node">
+<title>Fu</title>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M391,-121C391,-121 314,-121 314,-121 308,-121 302,-115 302,-109 302,-109 302,-97 302,-97 302,-91 308,-85 314,-85 314,-85 391,-85 391,-85 397,-85 403,-91 403,-97 403,-97 403,-109 403,-109 403,-115 397,-121 391,-121"/>
+<text text-anchor="middle" x="352.5" y="-99.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">F/U LFT 6&#45;12 เดือน</text>
+</g>
+<!-- LoOut&#45;&gt;Fu -->
+<g id="edge14" class="edge">
+<title>LoOut&#45;&gt;Fu</title>
+<path fill="none" stroke="#5f6b78" d="M367.19,-173.58C364.34,-160.06 360.58,-142.28 357.58,-128.08"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="359.94,-127.36 356.09,-121.02 355.14,-128.37 359.94,-127.36"/>
+</g>
+<!-- Fu&#45;&gt;Note -->
+</g>
+</svg>

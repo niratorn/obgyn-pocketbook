@@ -1,223 +1,223 @@
 <svg
- viewBox="0.00 0.00 881.00 835.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 831)">
+ viewBox="0.00 0.00 1042.00 901.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 897)">
 <title>aph</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-831 877,-831 877,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-897 1038,-897 1038,4 -4,4"/>
 <!-- S -->
 <g id="node1" class="node">
 <title>S</title>
-<path fill="#dfeaf6" stroke="#4f7ab0" d="M494,-827C494,-827 256,-827 256,-827 250,-827 244,-821 244,-815 244,-815 244,-801 244,-801 244,-795 250,-789 256,-789 256,-789 494,-789 494,-789 500,-789 506,-795 506,-801 506,-801 506,-815 506,-815 506,-821 500,-827 494,-827"/>
-<text text-anchor="middle" x="375" y="-811.4" font-family="Sarabun" font-size="12.00">ภาวะตกเลือดก่อนคลอด (Antepartum Hemorrhage)</text>
-<text text-anchor="middle" x="375" y="-798.4" font-family="Sarabun" font-size="12.00">มีเลือดออกทางช่องคลอด</text>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M548,-893C548,-893 274,-893 274,-893 268,-893 262,-887 262,-881 262,-881 262,-863 262,-863 262,-857 268,-851 274,-851 274,-851 548,-851 548,-851 554,-851 560,-857 560,-863 560,-863 560,-881 560,-881 560,-887 554,-893 548,-893"/>
+<text text-anchor="middle" x="411" y="-875.4" font-family="Sarabun" font-size="12.00">ภาวะตกเลือดก่อนคลอด (Antepartum Hemorrhage)</text>
+<text text-anchor="middle" x="411" y="-862.4" font-family="Sarabun" font-size="12.00">มีเลือดออกทางช่องคลอด</text>
 </g>
 <!-- Q1 -->
 <g id="node2" class="node">
 <title>Q1</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="375,-758 145,-707 375,-656 605,-707 375,-758"/>
-<text text-anchor="middle" x="375" y="-716.9" font-family="Sarabun" font-size="12.00">Vital sign Unstable หรือไม่?</text>
-<text text-anchor="middle" x="375" y="-703.9" font-family="Sarabun" font-size="12.00">(BP &lt; 90/60, MAP &lt; 65, HR ≥ 120,</text>
-<text text-anchor="middle" x="375" y="-690.9" font-family="Sarabun" font-size="12.00">capillary refill &gt; 2 วินาที)</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="411,-820 145,-765 411,-710 677,-765 411,-820"/>
+<text text-anchor="middle" x="411" y="-774.9" font-family="Sarabun" font-size="12.00">Vital sign Unstable หรือไม่?</text>
+<text text-anchor="middle" x="411" y="-761.9" font-family="Sarabun" font-size="12.00">(BP &lt; 90/60, MAP &lt; 65, HR ≥ 120,</text>
+<text text-anchor="middle" x="411" y="-748.9" font-family="Sarabun" font-size="12.00">capillary refill &gt; 2 วินาที)</text>
 </g>
 <!-- S&#45;&gt;Q1 -->
 <g id="edge1" class="edge">
 <title>S&#45;&gt;Q1</title>
-<path fill="none" stroke="#5f6b78" d="M375,-788.84C375,-782.04 375,-773.89 375,-765.43"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="377.45,-765.27 375,-758.27 372.55,-765.27 377.45,-765.27"/>
+<path fill="none" stroke="#5f6b78" d="M411,-850.75C411,-843.86 411,-835.76 411,-827.35"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="413.45,-827.23 411,-820.23 408.55,-827.23 413.45,-827.23"/>
 </g>
 <!-- U1 -->
 <g id="node3" class="node">
 <title>U1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M360,-608.5C360,-608.5 12,-608.5 12,-608.5 6,-608.5 0,-602.5 0,-596.5 0,-596.5 0,-556.5 0,-556.5 0,-550.5 6,-544.5 12,-544.5 12,-544.5 360,-544.5 360,-544.5 366,-544.5 372,-550.5 372,-556.5 372,-556.5 372,-596.5 372,-596.5 372,-602.5 366,-608.5 360,-608.5"/>
-<text text-anchor="middle" x="186" y="-592.9" font-family="Sarabun" font-size="12.00">IV resuscitate: เข็มเบอร์ใหญ่ (No.18) × 2 เส้น</text>
-<text text-anchor="middle" x="186" y="-579.9" font-family="Sarabun" font-size="12.00">+ crystalloid (NSS/RLS) 1000 ml IV load</text>
-<text text-anchor="middle" x="186" y="-566.9" font-family="Sarabun" font-size="12.00">Retain foley cath; O2 cannula 3 LPM หรือ mask+bag 10 LPM</text>
-<text text-anchor="middle" x="186" y="-553.9" font-family="Sarabun" font-size="12.00">Lab: CBC+Platelet, cross&#45;match PRC, PT/PTT/INR</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M396,-662.5C396,-662.5 12,-662.5 12,-662.5 6,-662.5 0,-656.5 0,-650.5 0,-650.5 0,-606.5 0,-606.5 0,-600.5 6,-594.5 12,-594.5 12,-594.5 396,-594.5 396,-594.5 402,-594.5 408,-600.5 408,-606.5 408,-606.5 408,-650.5 408,-650.5 408,-656.5 402,-662.5 396,-662.5"/>
+<text text-anchor="middle" x="204" y="-644.9" font-family="Sarabun" font-size="12.00">IV resuscitate: เข็มเบอร์ใหญ่ (No.18) × 2 เส้น</text>
+<text text-anchor="middle" x="204" y="-631.9" font-family="Sarabun" font-size="12.00">+ crystalloid (NSS/RLS) 1000 ml IV load</text>
+<text text-anchor="middle" x="204" y="-618.9" font-family="Sarabun" font-size="12.00">Retain foley cath; O2 cannula 3 LPM หรือ mask+bag 10 LPM</text>
+<text text-anchor="middle" x="204" y="-605.9" font-family="Sarabun" font-size="12.00">Lab: CBC+Platelet, cross&#45;match PRC, PT/PTT/INR</text>
 </g>
 <!-- Q1&#45;&gt;U1 -->
 <g id="edge2" class="edge">
 <title>Q1&#45;&gt;U1</title>
-<path fill="none" stroke="#5f6b78" d="M319.32,-668.14C293.51,-650.6 263.03,-629.87 237.73,-612.67"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="238.92,-610.52 231.75,-608.61 236.16,-614.57 238.92,-610.52"/>
-<text text-anchor="middle" x="304.5" y="-633" font-family="Sarabun" font-size="10.00">ใช่ (unstable)</text>
+<path fill="none" stroke="#5f6b78" d="M347.77,-722.91C320.13,-704.96 287.96,-684.06 261.07,-666.58"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="262.27,-664.44 255.06,-662.68 259.6,-668.55 262.27,-664.44"/>
+<text text-anchor="middle" x="331.5" y="-687" font-family="Sarabun" font-size="10.00">ใช่ (unstable)</text>
 </g>
 <!-- St1 -->
 <g id="node5" class="node">
 <title>St1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M724,-615C724,-615 406,-615 406,-615 400,-615 394,-609 394,-603 394,-603 394,-550 394,-550 394,-544 400,-538 406,-538 406,-538 724,-538 724,-538 730,-538 736,-544 736,-550 736,-550 736,-603 736,-603 736,-609 730,-615 724,-615"/>
-<text text-anchor="middle" x="565" y="-599.4" font-family="Sarabun" font-size="12.00">ซักประวัติเลือดออก (ลักษณะ, ปริมาณ, anemic symptom)</text>
-<text text-anchor="middle" x="565" y="-586.4" font-family="Sarabun" font-size="12.00">Speculum (ปริมาณเลือด, lesion, Os open?, placental base?)</text>
-<text text-anchor="middle" x="565" y="-573.4" font-family="Sarabun" font-size="12.00">**ห้าม PV ก่อนทำ U/S หา location รก</text>
-<text text-anchor="middle" x="565" y="-560.4" font-family="Sarabun" font-size="12.00">U/S ตำแหน่งรก, retroplacental clot, ประเมินทารก</text>
-<text text-anchor="middle" x="565" y="-547.4" font-family="Sarabun" font-size="12.00">ถ้า GA ≥ 28 สัปดาห์ ทำ NST</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M796,-669C796,-669 442,-669 442,-669 436,-669 430,-663 430,-657 430,-657 430,-600 430,-600 430,-594 436,-588 442,-588 442,-588 796,-588 796,-588 802,-588 808,-594 808,-600 808,-600 808,-657 808,-657 808,-663 802,-669 796,-669"/>
+<text text-anchor="middle" x="619" y="-651.4" font-family="Sarabun" font-size="12.00">ซักประวัติเลือดออก (ลักษณะ, ปริมาณ, anemic symptom)</text>
+<text text-anchor="middle" x="619" y="-638.4" font-family="Sarabun" font-size="12.00">Speculum (ปริมาณเลือด, lesion, Os open?, placental base?)</text>
+<text text-anchor="middle" x="619" y="-625.4" font-family="Sarabun" font-size="12.00">**ห้าม PV ก่อนทำ U/S หา location รก</text>
+<text text-anchor="middle" x="619" y="-612.4" font-family="Sarabun" font-size="12.00">U/S ตำแหน่งรก, retroplacental clot, ประเมินทารก</text>
+<text text-anchor="middle" x="619" y="-599.4" font-family="Sarabun" font-size="12.00">ถ้า GA ≥ 28 สัปดาห์ ทำ NST</text>
 </g>
 <!-- Q1&#45;&gt;St1 -->
 <g id="edge5" class="edge">
 <title>Q1&#45;&gt;St1</title>
-<path fill="none" stroke="#5f6b78" d="M430.72,-668.31C453.54,-652.88 480.02,-634.98 503.4,-619.16"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="504.85,-621.14 509.28,-615.19 502.11,-617.08 504.85,-621.14"/>
-<text text-anchor="middle" x="513.5" y="-633" font-family="Sarabun" font-size="10.00">ไม่ใช่ (stable)</text>
+<path fill="none" stroke="#5f6b78" d="M474.54,-722.91C498.98,-707.11 526.96,-689.02 551.74,-672.99"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="553.09,-675.04 557.63,-669.18 550.43,-670.92 553.09,-675.04"/>
+<text text-anchor="middle" x="559.5" y="-687" font-family="Sarabun" font-size="10.00">ไม่ใช่ (stable)</text>
 </g>
 <!-- U2 -->
 <g id="node4" class="node">
 <title>U2</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M317,-456C317,-456 55,-456 55,-456 49,-456 43,-450 43,-444 43,-444 43,-417 43,-417 43,-411 49,-405 55,-405 55,-405 317,-405 317,-405 323,-405 329,-411 329,-417 329,-417 329,-444 329,-444 329,-450 323,-456 317,-456"/>
-<text text-anchor="middle" x="186" y="-440.4" font-family="Sarabun" font-size="12.00">V/S เริ่มคงที่: ซักประวัติเลือดออก, Speculum</text>
-<text text-anchor="middle" x="186" y="-427.4" font-family="Sarabun" font-size="12.00">**ห้าม PV ก่อนทำ U/S หา location รก</text>
-<text text-anchor="middle" x="186" y="-414.4" font-family="Sarabun" font-size="12.00">U/S ประเมินตำแหน่งรก, FHR; monitor FHR + NST</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M353,-484C353,-484 55,-484 55,-484 49,-484 43,-478 43,-472 43,-472 43,-441 43,-441 43,-435 49,-429 55,-429 55,-429 353,-429 353,-429 359,-429 365,-435 365,-441 365,-441 365,-472 365,-472 365,-478 359,-484 353,-484"/>
+<text text-anchor="middle" x="204" y="-466.4" font-family="Sarabun" font-size="12.00">V/S เริ่มคงที่: ซักประวัติเลือดออก, Speculum</text>
+<text text-anchor="middle" x="204" y="-453.4" font-family="Sarabun" font-size="12.00">**ห้าม PV ก่อนทำ U/S หา location รก</text>
+<text text-anchor="middle" x="204" y="-440.4" font-family="Sarabun" font-size="12.00">U/S ประเมินตำแหน่งรก, FHR; monitor FHR + NST</text>
 </g>
 <!-- U1&#45;&gt;U2 -->
 <g id="edge3" class="edge">
 <title>U1&#45;&gt;U2</title>
-<path fill="none" stroke="#5f6b78" d="M186,-544.25C186,-520.27 186,-487.28 186,-463.18"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="188.45,-463.01 186,-456.01 183.55,-463.01 188.45,-463.01"/>
+<path fill="none" stroke="#5f6b78" d="M204,-594.32C204,-564.66 204,-521.38 204,-491.47"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="206.45,-491.18 204,-484.18 201.55,-491.18 206.45,-491.18"/>
 </g>
 <!-- CU -->
 <g id="node13" class="node">
 <title>CU</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M482.5,-148.5C482.5,-148.5 383.5,-148.5 383.5,-148.5 377.5,-148.5 371.5,-142.5 371.5,-136.5 371.5,-136.5 371.5,-124.5 371.5,-124.5 371.5,-118.5 377.5,-112.5 383.5,-112.5 383.5,-112.5 482.5,-112.5 482.5,-112.5 488.5,-112.5 494.5,-118.5 494.5,-124.5 494.5,-124.5 494.5,-136.5 494.5,-136.5 494.5,-142.5 488.5,-148.5 482.5,-148.5"/>
-<text text-anchor="middle" x="433" y="-127.4" font-family="Sarabun" font-size="12.00">ปรึกษาสูติแพทย์เพื่อส่งต่อผู้ป่วย</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M555.5,-154.5C555.5,-154.5 420.5,-154.5 420.5,-154.5 414.5,-154.5 408.5,-148.5 408.5,-142.5 408.5,-142.5 408.5,-130.5 408.5,-130.5 408.5,-124.5 414.5,-118.5 420.5,-118.5 420.5,-118.5 555.5,-118.5 555.5,-118.5 561.5,-118.5 567.5,-124.5 567.5,-130.5 567.5,-130.5 567.5,-142.5 567.5,-142.5 567.5,-148.5 561.5,-154.5 555.5,-154.5"/>
+<text text-anchor="middle" x="488" y="-133.4" font-family="Sarabun" font-size="12.00">ปรึกษาสูติแพทย์เพื่อส่งต่อผู้ป่วย</text>
 </g>
 <!-- U2&#45;&gt;CU -->
 <g id="edge4" class="edge">
 <title>U2&#45;&gt;CU</title>
-<path fill="none" stroke="#5f6b78" d="M180.21,-404.78C170.89,-358.3 158.26,-257.15 208,-197 228.02,-172.78 305.8,-153.94 364.35,-142.81"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="364.96,-145.19 371.39,-141.49 364.06,-140.37 364.96,-145.19"/>
+<path fill="none" stroke="#5f6b78" d="M197.49,-428.73C186.98,-378.41 172.54,-269.05 227,-205 249.6,-178.42 334.38,-159.91 401.26,-149.08"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="401.97,-151.45 408.49,-147.93 401.19,-146.61 401.97,-151.45"/>
 </g>
 <!-- Q2 -->
 <g id="node6" class="node">
 <title>Q2</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="565,-507 463.56,-489 565,-471 666.44,-489 565,-507"/>
-<text text-anchor="middle" x="565" y="-485.9" font-family="Sarabun" font-size="12.00">สงสัย รกเกาะต่ำ?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="619,-557 480,-528 619,-499 758,-528 619,-557"/>
+<text text-anchor="middle" x="619" y="-524.9" font-family="Sarabun" font-size="12.00">สงสัย รกเกาะต่ำ?</text>
 </g>
 <!-- St1&#45;&gt;Q2 -->
 <g id="edge6" class="edge">
 <title>St1&#45;&gt;Q2</title>
-<path fill="none" stroke="#5f6b78" d="M565,-537.75C565,-529.7 565,-521.41 565,-514.04"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="567.45,-514.02 565,-507.02 562.55,-514.02 567.45,-514.02"/>
+<path fill="none" stroke="#5f6b78" d="M619,-587.72C619,-580.03 619,-572.02 619,-564.48"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="621.45,-564.13 619,-557.13 616.55,-564.13 621.45,-564.13"/>
 </g>
 <!-- Q3 -->
 <g id="node7" class="node">
 <title>Q3</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="379,-390 233,-352 379,-314 525,-352 379,-390"/>
-<text text-anchor="middle" x="379" y="-355.4" font-family="Sarabun" font-size="12.00">มี uterine contraction</text>
-<text text-anchor="middle" x="379" y="-342.4" font-family="Sarabun" font-size="12.00">หรือ active bleeding?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="432,-414 250,-372 432,-330 614,-372 432,-414"/>
+<text text-anchor="middle" x="432" y="-375.4" font-family="Sarabun" font-size="12.00">มี uterine contraction</text>
+<text text-anchor="middle" x="432" y="-362.4" font-family="Sarabun" font-size="12.00">หรือ active bleeding?</text>
 </g>
 <!-- Q2&#45;&gt;Q3 -->
 <g id="edge7" class="edge">
 <title>Q2&#45;&gt;Q3</title>
-<path fill="none" stroke="#5f6b78" d="M546.14,-474.31C517.47,-453.51 462.14,-413.34 423,-384.94"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="423.97,-382.61 416.87,-380.48 421.09,-386.58 423.97,-382.61"/>
-<text text-anchor="middle" x="527.5" y="-428" font-family="Sarabun" font-size="10.00">สงสัย</text>
+<path fill="none" stroke="#5f6b78" d="M591.81,-504.61C561.62,-479.74 512.42,-439.23 476.58,-409.71"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="477.9,-407.63 470.94,-405.07 474.79,-411.41 477.9,-407.63"/>
+<text text-anchor="middle" x="570.5" y="-454" font-family="Sarabun" font-size="10.00">สงสัย</text>
 </g>
 <!-- Q4 -->
 <g id="node9" class="node">
 <title>Q4</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="710,-390 547,-352 710,-314 873,-352 710,-390"/>
-<text text-anchor="middle" x="710" y="-355.4" font-family="Sarabun" font-size="12.00">uterine tachysystole?</text>
-<text text-anchor="middle" x="710" y="-342.4" font-family="Sarabun" font-size="12.00">(มดลูกหดรัดตัว &gt; 5 ครั้งใน 10 นาที)</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="835,-414 636,-372 835,-330 1034,-372 835,-414"/>
+<text text-anchor="middle" x="835" y="-375.4" font-family="Sarabun" font-size="12.00">uterine tachysystole?</text>
+<text text-anchor="middle" x="835" y="-362.4" font-family="Sarabun" font-size="12.00">(มดลูกหดรัดตัว &gt; 5 ครั้งใน 10 นาที)</text>
 </g>
 <!-- Q2&#45;&gt;Q4 -->
 <g id="edge11" class="edge">
 <title>Q2&#45;&gt;Q4</title>
-<path fill="none" stroke="#5f6b78" d="M580.52,-473.55C602.32,-453.25 642.7,-415.66 672.59,-387.83"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="674.59,-389.32 678.04,-382.76 671.25,-385.73 674.59,-389.32"/>
-<text text-anchor="middle" x="660.5" y="-428" font-family="Sarabun" font-size="10.00">ไม่สงสัย</text>
+<path fill="none" stroke="#5f6b78" d="M649.49,-505.26C684.59,-480.24 742.77,-438.76 784.62,-408.92"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="786.14,-410.85 790.41,-404.79 783.29,-406.86 786.14,-410.85"/>
+<text text-anchor="middle" x="762.5" y="-454" font-family="Sarabun" font-size="10.00">ไม่สงสัย</text>
 </g>
 <!-- P1 -->
 <g id="node8" class="node">
 <title>P1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M376.5,-253C376.5,-253 231.5,-253 231.5,-253 225.5,-253 219.5,-247 219.5,-241 219.5,-241 219.5,-229 219.5,-229 219.5,-223 225.5,-217 231.5,-217 231.5,-217 376.5,-217 376.5,-217 382.5,-217 388.5,-223 388.5,-229 388.5,-229 388.5,-241 388.5,-241 388.5,-247 382.5,-253 376.5,-253"/>
-<text text-anchor="middle" x="304" y="-231.9" font-family="Sarabun" font-size="12.00">IV resuscitate + Hct stat</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M431.5,-265C431.5,-265 250.5,-265 250.5,-265 244.5,-265 238.5,-259 238.5,-253 238.5,-253 238.5,-241 238.5,-241 238.5,-235 244.5,-229 250.5,-229 250.5,-229 431.5,-229 431.5,-229 437.5,-229 443.5,-235 443.5,-241 443.5,-241 443.5,-253 443.5,-253 443.5,-259 437.5,-265 431.5,-265"/>
+<text text-anchor="middle" x="341" y="-243.9" font-family="Sarabun" font-size="12.00">IV resuscitate + Hct stat</text>
 </g>
 <!-- Q3&#45;&gt;P1 -->
 <g id="edge8" class="edge">
 <title>Q3&#45;&gt;P1</title>
-<path fill="none" stroke="#5f6b78" d="M358.31,-319.27C345.87,-300.21 330.33,-276.37 319.06,-259.09"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="320.99,-257.57 315.12,-253.05 316.89,-260.25 320.99,-257.57"/>
-<text text-anchor="middle" x="347.5" y="-291" font-family="Sarabun" font-size="10.00">ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M405.92,-335.75C390.54,-314.96 371.51,-289.24 358.04,-271.03"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="359.83,-269.34 353.7,-265.17 355.89,-272.25 359.83,-269.34"/>
+<text text-anchor="middle" x="393.5" y="-307" font-family="Sarabun" font-size="10.00">ใช่</text>
 </g>
 <!-- Q3&#45;&gt;CU -->
 <g id="edge10" class="edge">
 <title>Q3&#45;&gt;CU</title>
-<path fill="none" stroke="#5f6b78" d="M388.07,-316.08C391.54,-302.63 395.5,-287.11 399,-273 409.23,-231.81 420.67,-183.75 427.33,-155.57"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="429.78,-155.89 429,-148.51 425.01,-154.76 429.78,-155.89"/>
-<text text-anchor="middle" x="424.5" y="-232.5" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M442.74,-332.29C446.43,-318.64 450.51,-303.17 454,-289 464.99,-244.36 476.43,-191.96 482.84,-161.95"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="485.29,-162.18 484.36,-154.82 480.5,-161.16 485.29,-162.18"/>
+<text text-anchor="middle" x="480.5" y="-244.5" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
 </g>
 <!-- P1&#45;&gt;CU -->
 <g id="edge9" class="edge">
 <title>P1&#45;&gt;CU</title>
-<path fill="none" stroke="#5f6b78" d="M325.59,-216.84C347.64,-199.33 381.92,-172.09 405.81,-153.11"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="407.38,-154.99 411.34,-148.71 404.33,-151.15 407.38,-154.99"/>
+<path fill="none" stroke="#5f6b78" d="M364.29,-228.81C389.99,-209.84 431.37,-179.3 459.11,-158.82"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="460.64,-160.74 464.82,-154.61 457.73,-156.8 460.64,-160.74"/>
 </g>
 <!-- Ab -->
 <g id="node10" class="node">
 <title>Ab</title>
-<path fill="#fbe6e0" stroke="#cf7a5f" d="M589.5,-253C589.5,-253 480.5,-253 480.5,-253 474.5,-253 468.5,-247 468.5,-241 468.5,-241 468.5,-229 468.5,-229 468.5,-223 474.5,-217 480.5,-217 480.5,-217 589.5,-217 589.5,-217 595.5,-217 601.5,-223 601.5,-229 601.5,-229 601.5,-241 601.5,-241 601.5,-247 595.5,-253 589.5,-253"/>
-<text text-anchor="middle" x="535" y="-231.9" font-family="Sarabun" font-size="12.00">สงสัย รกลอกตัวก่อนกำหนด</text>
+<path fill="#fbe6e0" stroke="#cf7a5f" d="M679.5,-265C679.5,-265 534.5,-265 534.5,-265 528.5,-265 522.5,-259 522.5,-253 522.5,-253 522.5,-241 522.5,-241 522.5,-235 528.5,-229 534.5,-229 534.5,-229 679.5,-229 679.5,-229 685.5,-229 691.5,-235 691.5,-241 691.5,-241 691.5,-253 691.5,-253 691.5,-259 685.5,-265 679.5,-265"/>
+<text text-anchor="middle" x="607" y="-243.9" font-family="Sarabun" font-size="12.00">สงสัย รกลอกตัวก่อนกำหนด</text>
 </g>
 <!-- Q4&#45;&gt;Ab -->
 <g id="edge12" class="edge">
 <title>Q4&#45;&gt;Ab</title>
-<path fill="none" stroke="#5f6b78" d="M668.08,-323.45C637.15,-303.13 595.68,-275.88 567.31,-257.23"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="568.3,-254.95 561.1,-253.15 565.61,-259.04 568.3,-254.95"/>
-<text text-anchor="middle" x="630.5" y="-291" font-family="Sarabun" font-size="10.00">ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M780.1,-341.38C738.25,-318.8 681.7,-288.3 644.81,-268.39"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="645.93,-266.22 638.61,-265.05 643.6,-270.53 645.93,-266.22"/>
+<text text-anchor="middle" x="730.5" y="-307" font-family="Sarabun" font-size="10.00">ใช่</text>
 </g>
 <!-- Q5 -->
 <g id="node11" class="node">
 <title>Q5</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="746,-273 624,-235 746,-197 868,-235 746,-273"/>
-<text text-anchor="middle" x="746" y="-238.4" font-family="Sarabun" font-size="12.00">GA ≥ 37 สัปดาห์</text>
-<text text-anchor="middle" x="746" y="-225.4" font-family="Sarabun" font-size="12.00">และ NST reactive?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="871,-289 713,-247 871,-205 1029,-247 871,-289"/>
+<text text-anchor="middle" x="871" y="-250.4" font-family="Sarabun" font-size="12.00">GA ≥ 37 สัปดาห์</text>
+<text text-anchor="middle" x="871" y="-237.4" font-family="Sarabun" font-size="12.00">และ NST reactive?</text>
 </g>
 <!-- Q4&#45;&gt;Q5 -->
 <g id="edge14" class="edge">
 <title>Q4&#45;&gt;Q5</title>
-<path fill="none" stroke="#5f6b78" d="M720.8,-316.5C724.68,-304.1 729.09,-290 733.13,-277.11"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="735.58,-277.5 735.33,-270.08 730.9,-276.03 735.58,-277.5"/>
-<text text-anchor="middle" x="735.5" y="-291" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M846.39,-332.08C850.01,-319.73 854.03,-305.97 857.77,-293.21"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="860.19,-293.65 859.81,-286.24 855.49,-292.27 860.19,-293.65"/>
+<text text-anchor="middle" x="860.5" y="-307" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
 </g>
 <!-- Ab&#45;&gt;CU -->
 <g id="edge13" class="edge">
 <title>Ab&#45;&gt;CU</title>
-<path fill="none" stroke="#5f6b78" d="M517.7,-216.61C500.45,-199.28 473.89,-172.59 455.12,-153.73"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="456.72,-151.86 450.05,-148.63 453.25,-155.32 456.72,-151.86"/>
+<path fill="none" stroke="#5f6b78" d="M588.14,-228.81C567.52,-210 534.4,-179.81 511.95,-159.34"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="513.59,-157.52 506.77,-154.61 510.29,-161.14 513.59,-157.52"/>
 </g>
 <!-- Adm -->
 <g id="node12" class="node">
 <title>Adm</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M821,-156C821,-156 671,-156 671,-156 665,-156 659,-150 659,-144 659,-144 659,-117 659,-117 659,-111 665,-105 671,-105 671,-105 821,-105 821,-105 827,-105 833,-111 833,-117 833,-117 833,-144 833,-144 833,-150 827,-156 821,-156"/>
-<text text-anchor="middle" x="746" y="-140.4" font-family="Sarabun" font-size="12.00">Admit รพช. ดูอาการเปลี่ยนแปลง</text>
-<text text-anchor="middle" x="746" y="-127.4" font-family="Sarabun" font-size="12.00">ส่งตัวต่อตามข้อบ่งชี้อื่นๆ</text>
-<text text-anchor="middle" x="746" y="-114.4" font-family="Sarabun" font-size="12.00">+ ส่งตรวจ CBC ดู Hct baseline</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M964,-164C964,-164 778,-164 778,-164 772,-164 766,-158 766,-152 766,-152 766,-121 766,-121 766,-115 772,-109 778,-109 778,-109 964,-109 964,-109 970,-109 976,-115 976,-121 976,-121 976,-152 976,-152 976,-158 970,-164 964,-164"/>
+<text text-anchor="middle" x="871" y="-146.4" font-family="Sarabun" font-size="12.00">Admit รพช. ดูอาการเปลี่ยนแปลง</text>
+<text text-anchor="middle" x="871" y="-133.4" font-family="Sarabun" font-size="12.00">ส่งตัวต่อตามข้อบ่งชี้อื่นๆ</text>
+<text text-anchor="middle" x="871" y="-120.4" font-family="Sarabun" font-size="12.00">+ ส่งตรวจ CBC ดู Hct baseline</text>
 </g>
 <!-- Q5&#45;&gt;Adm -->
 <g id="edge15" class="edge">
 <title>Q5&#45;&gt;Adm</title>
-<path fill="none" stroke="#5f6b78" d="M746,-197C746,-186 746,-174.05 746,-163.41"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="748.45,-163.28 746,-156.28 743.55,-163.28 748.45,-163.28"/>
-<text text-anchor="middle" x="749.5" y="-174" font-family="Sarabun" font-size="10.00">ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M871,-204.98C871,-193.86 871,-181.96 871,-171.29"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="873.45,-171.12 871,-164.12 868.55,-171.12 873.45,-171.12"/>
+<text text-anchor="middle" x="874.5" y="-182" font-family="Sarabun" font-size="10.00">ใช่</text>
 </g>
 <!-- Q5&#45;&gt;CU -->
 <g id="edge16" class="edge">
 <title>Q5&#45;&gt;CU</title>
-<path fill="none" stroke="#5f6b78" d="M687.86,-214.96C631.97,-196.66 547.93,-169.14 491.81,-150.76"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="492.52,-148.41 485.11,-148.56 491,-153.07 492.52,-148.41"/>
-<text text-anchor="middle" x="586.5" y="-174" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M796.24,-224.82C726.16,-204.97 622.34,-175.56 554.92,-156.46"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="555.5,-154.08 548.1,-154.53 554.17,-158.79 555.5,-154.08"/>
+<text text-anchor="middle" x="674.5" y="-182" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
 </g>
 <!-- Note -->
 <g id="node14" class="node">
 <title>Note</title>
-<path fill="#f6f2e7" stroke="#c2b283" d="M681.5,-64C681.5,-64 184.5,-64 184.5,-64 178.5,-64 172.5,-58 172.5,-52 172.5,-52 172.5,-12 172.5,-12 172.5,-6 178.5,0 184.5,0 184.5,0 681.5,0 681.5,0 687.5,0 693.5,-6 693.5,-12 693.5,-12 693.5,-52 693.5,-52 693.5,-58 687.5,-64 681.5,-64"/>
-<text text-anchor="middle" x="433" y="-48.4" font-family="Sarabun" font-size="12.00">ก่อนส่งตัวทุกราย – NPO; เปิดเส้น (No.18) NSS 1,000 ml IV drip 100&#45;120 ml/hr</text>
-<text text-anchor="middle" x="433" y="-35.4" font-family="Sarabun" font-size="12.00">On O2; Lab: CBC+Platelet, cross&#45;match PRC, PT/PTT/INR</text>
-<text text-anchor="middle" x="433" y="-22.4" font-family="Sarabun" font-size="12.00">NST + monitor FHR ระหว่าง refer; ถ้า GA &lt; 34 wk start Dexamethasone 6 mg IM q 12 hr</text>
-<text text-anchor="middle" x="433" y="-9.4" font-family="Sarabun" font-size="12.00">ยา tocolysis และ MgSO4 for neuroprotection ให้ปรึกษาสูติแพทย์ที่รับ refer เป็นกรณีไป</text>
+<path fill="#f6f2e7" stroke="#c2b283" d="M754.5,-68C754.5,-68 221.5,-68 221.5,-68 215.5,-68 209.5,-62 209.5,-56 209.5,-56 209.5,-12 209.5,-12 209.5,-6 215.5,0 221.5,0 221.5,0 754.5,0 754.5,0 760.5,0 766.5,-6 766.5,-12 766.5,-12 766.5,-56 766.5,-56 766.5,-62 760.5,-68 754.5,-68"/>
+<text text-anchor="middle" x="488" y="-50.4" font-family="Sarabun" font-size="12.00">ก่อนส่งตัวทุกราย – NPO; เปิดเส้น (No.18) NSS 1,000 ml IV drip 100&#45;120 ml/hr</text>
+<text text-anchor="middle" x="488" y="-37.4" font-family="Sarabun" font-size="12.00">On O2; Lab: CBC+Platelet, cross&#45;match PRC, PT/PTT/INR</text>
+<text text-anchor="middle" x="488" y="-24.4" font-family="Sarabun" font-size="12.00">NST + monitor FHR ระหว่าง refer; ถ้า GA &lt; 34 wk start Dexamethasone 6 mg IM q 12 hr</text>
+<text text-anchor="middle" x="488" y="-11.4" font-family="Sarabun" font-size="12.00">ยา tocolysis และ MgSO4 for neuroprotection ให้ปรึกษาสูติแพทย์ที่รับ refer เป็นกรณีไป</text>
 </g>
 <!-- CU&#45;&gt;Note -->
 <g id="edge17" class="edge">
 <title>CU&#45;&gt;Note</title>
-<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M433,-112.25C433,-98.91 433,-80.1 433,-64.15"/>
-<text text-anchor="middle" x="446" y="-82" font-family="Sarabun" font-size="10.00">ก่อนส่งตัว</text>
+<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M488,-118.45C488,-104.68 488,-84.87 488,-68.01"/>
+<text text-anchor="middle" x="501" y="-86" font-family="Sarabun" font-size="10.00">ก่อนส่งตัว</text>
 </g>
 </g>
 </svg>
