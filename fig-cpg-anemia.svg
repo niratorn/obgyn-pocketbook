@@ -1,240 +1,240 @@
 <svg
- viewBox="0.00 0.00 565.00 779.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 775)">
+ viewBox="0.00 0.00 479.00 871.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 867)">
 <title>anemia</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-775 561,-775 561,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-867 475,-867 475,4 -4,4"/>
 <!-- S -->
 <g id="node1" class="node">
 <title>S</title>
-<path fill="#dfeaf6" stroke="#4f7ab0" d="M205,-771C205,-771 117,-771 117,-771 111,-771 105,-765 105,-759 105,-759 105,-747 105,-747 105,-741 111,-735 117,-735 117,-735 205,-735 205,-735 211,-735 217,-741 217,-747 217,-747 217,-759 217,-759 217,-765 211,-771 205,-771"/>
-<text text-anchor="middle" x="161" y="-756.2" font-family="DejaVu Sans" font-size="11.00">First ANC (LAB1)</text>
-<text text-anchor="middle" x="161" y="-744.2" font-family="DejaVu Sans" font-size="11.00">check Hb</text>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M176.5,-863C176.5,-863 109.5,-863 109.5,-863 103.5,-863 97.5,-857 97.5,-851 97.5,-851 97.5,-833 97.5,-833 97.5,-827 103.5,-821 109.5,-821 109.5,-821 176.5,-821 176.5,-821 182.5,-821 188.5,-827 188.5,-833 188.5,-833 188.5,-851 188.5,-851 188.5,-857 182.5,-863 176.5,-863"/>
+<text text-anchor="middle" x="143" y="-845.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">First ANC (LAB1)</text>
+<text text-anchor="middle" x="143" y="-831.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">check Hb</text>
 </g>
 <!-- Q1 -->
 <g id="node2" class="node">
 <title>Q1</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="161,-702 34,-668 161,-634 288,-668 161,-702"/>
-<text text-anchor="middle" x="161" y="-671.2" font-family="DejaVu Sans" font-size="11.00">Hb &lt; 11 (1st tri)</text>
-<text text-anchor="middle" x="161" y="-659.2" font-family="DejaVu Sans" font-size="11.00">or &lt; 10.5 (2nd tri)?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="143,-788 42,-746 143,-704 244,-746 143,-788"/>
+<text text-anchor="middle" x="143" y="-749.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Hb &lt; 11 (1st tri)</text>
+<text text-anchor="middle" x="143" y="-735.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">or &lt; 10.5 (2nd tri)?</text>
 </g>
 <!-- S&#45;&gt;Q1 -->
 <g id="edge1" class="edge">
 <title>S&#45;&gt;Q1</title>
-<path fill="none" stroke="#5f6b78" d="M161,-734.8C161,-727.38 161,-718.37 161,-709.41"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="163.45,-709.28 161,-702.28 158.55,-709.28 163.45,-709.28"/>
+<path fill="none" stroke="#5f6b78" d="M143,-820.6C143,-813.1 143,-804.26 143,-795.35"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="145.45,-795.21 143,-788.21 140.55,-795.21 145.45,-795.21"/>
 </g>
 <!-- N1 -->
 <g id="node3" class="node">
 <title>N1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M138,-592C138,-592 12,-592 12,-592 6,-592 0,-586 0,-580 0,-580 0,-558 0,-558 0,-552 6,-546 12,-546 12,-546 138,-546 138,-546 144,-546 150,-552 150,-558 150,-558 150,-580 150,-580 150,-586 144,-592 138,-592"/>
-<text text-anchor="middle" x="75" y="-578.2" font-family="DejaVu Sans" font-size="11.00">Iron supplement:</text>
-<text text-anchor="middle" x="75" y="-566.2" font-family="DejaVu Sans" font-size="11.00">Triferdine 1x1 PO pc, or</text>
-<text text-anchor="middle" x="75" y="-554.2" font-family="DejaVu Sans" font-size="11.00">Folic (5) 1x1 PO pc</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M113,-662C113,-662 15,-662 15,-662 9,-662 3,-656 3,-650 3,-650 3,-618 3,-618 3,-612 9,-606 15,-606 15,-606 113,-606 113,-606 119,-606 125,-612 125,-618 125,-618 125,-650 125,-650 125,-656 119,-662 113,-662"/>
+<text text-anchor="middle" x="64" y="-644.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Iron supplement:</text>
+<text text-anchor="middle" x="64" y="-630.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Triferdine 1x1 PO pc, or</text>
+<text text-anchor="middle" x="64" y="-616.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Folic (5) 1x1 PO pc</text>
 </g>
 <!-- Q1&#45;&gt;N1 -->
 <g id="edge2" class="edge">
 <title>Q1&#45;&gt;N1</title>
-<path fill="none" stroke="#5f6b78" d="M137.27,-640.24C125.53,-626.99 111.36,-611.01 99.51,-597.65"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="101.06,-595.71 94.59,-592.09 97.4,-598.96 101.06,-595.71"/>
-<text text-anchor="middle" x="122.5" y="-610.4" font-family="DejaVu Sans" font-size="9.50">No</text>
+<path fill="none" stroke="#5f6b78" d="M120.15,-713.18C110.02,-699.08 98.11,-682.49 87.86,-668.23"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="89.66,-666.53 83.59,-662.27 85.68,-669.39 89.66,-666.53"/>
+<text text-anchor="middle" x="106.5" y="-680.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">No</text>
 </g>
 <!-- Q3 -->
 <g id="node7" class="node">
 <title>Q3</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="248,-587 174.99,-569 248,-551 321.01,-569 248,-587"/>
-<text text-anchor="middle" x="248" y="-566.2" font-family="DejaVu Sans" font-size="11.00">MCV / DCIP</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="224,-662 150,-634 224,-606 298,-634 224,-662"/>
+<text text-anchor="middle" x="224" y="-630.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">MCV / DCIP</text>
 </g>
 <!-- Q1&#45;&gt;Q3 -->
 <g id="edge7" class="edge">
 <title>Q1&#45;&gt;Q3</title>
-<path fill="none" stroke="#5f6b78" d="M185,-640.24C199.39,-624.2 217.36,-604.16 230.43,-589.59"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="232.5,-590.95 235.35,-584.11 228.85,-587.68 232.5,-590.95"/>
-<text text-anchor="middle" x="221" y="-610.4" font-family="DejaVu Sans" font-size="9.50">Yes</text>
+<path fill="none" stroke="#5f6b78" d="M166.21,-713.48C178.1,-697.34 192.43,-677.87 203.85,-662.37"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="206.05,-663.51 208.23,-656.42 202.1,-660.61 206.05,-663.51"/>
+<text text-anchor="middle" x="196" y="-680.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">Yes</text>
 </g>
 <!-- N2 -->
 <g id="node4" class="node">
 <title>N2</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M128.5,-494C128.5,-494 21.5,-494 21.5,-494 15.5,-494 9.5,-488 9.5,-482 9.5,-482 9.5,-470 9.5,-470 9.5,-464 15.5,-458 21.5,-458 21.5,-458 128.5,-458 128.5,-458 134.5,-458 140.5,-464 140.5,-470 140.5,-470 140.5,-482 140.5,-482 140.5,-488 134.5,-494 128.5,-494"/>
-<text text-anchor="middle" x="75" y="-473.2" font-family="DejaVu Sans" font-size="11.00">CBC at GA 28&#45;32 wk</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M105,-554C105,-554 23,-554 23,-554 17,-554 11,-548 11,-542 11,-542 11,-530 11,-530 11,-524 17,-518 23,-518 23,-518 105,-518 105,-518 111,-518 117,-524 117,-530 117,-530 117,-542 117,-542 117,-548 111,-554 105,-554"/>
+<text text-anchor="middle" x="64" y="-532.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">CBC at GA 28&#45;32 wk</text>
 </g>
 <!-- N1&#45;&gt;N2 -->
 <g id="edge3" class="edge">
 <title>N1&#45;&gt;N2</title>
-<path fill="none" stroke="#5f6b78" d="M75,-545.97C75,-532.57 75,-515.42 75,-501.58"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="77.45,-501.27 75,-494.27 72.55,-501.27 77.45,-501.27"/>
+<path fill="none" stroke="#5f6b78" d="M64,-605.75C64,-591.72 64,-574.76 64,-561.19"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="66.45,-561.05 64,-554.05 61.55,-561.05 66.45,-561.05"/>
 </g>
 <!-- Q2 -->
 <g id="node5" class="node">
 <title>Q2</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="75,-390 10.86,-372 75,-354 139.14,-372 75,-390"/>
-<text text-anchor="middle" x="75" y="-369.2" font-family="DejaVu Sans" font-size="11.00">Hb &gt; 11?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="64,-452 0,-424 64,-396 128,-424 64,-452"/>
+<text text-anchor="middle" x="64" y="-420.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Hb &gt; 11?</text>
 </g>
 <!-- N2&#45;&gt;Q2 -->
 <g id="edge4" class="edge">
 <title>N2&#45;&gt;Q2</title>
-<path fill="none" stroke="#5f6b78" d="M75,-457.7C75,-441.04 75,-415.7 75,-397.07"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="77.45,-397.05 75,-390.05 72.55,-397.05 77.45,-397.05"/>
+<path fill="none" stroke="#5f6b78" d="M64,-517.81C64,-502.27 64,-478.93 64,-459.54"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="66.45,-459.33 64,-452.33 61.55,-459.33 66.45,-459.33"/>
 </g>
 <!-- E -->
 <g id="node6" class="node">
 <title>E</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M305,-36C305,-36 239,-36 239,-36 233,-36 227,-30 227,-24 227,-24 227,-12 227,-12 227,-6 233,0 239,0 239,0 305,0 305,0 311,0 317,-6 317,-12 317,-12 317,-24 317,-24 317,-30 311,-36 305,-36"/>
-<text text-anchor="middle" x="272" y="-15.2" font-family="DejaVu Sans" font-size="11.00">CBC at labor</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M265,-36C265,-36 211,-36 211,-36 205,-36 199,-30 199,-24 199,-24 199,-12 199,-12 199,-6 205,0 211,0 211,0 265,0 265,0 271,0 277,-6 277,-12 277,-12 277,-24 277,-24 277,-30 271,-36 265,-36"/>
+<text text-anchor="middle" x="238" y="-14.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">CBC at labor</text>
 </g>
 <!-- Q2&#45;&gt;E -->
 <g id="edge5" class="edge">
 <title>Q2&#45;&gt;E</title>
-<path fill="none" stroke="#5f6b78" d="M69.31,-355.54C62.5,-335.59 52,-299.7 52,-268 52,-268 52,-268 52,-97 52,-61.52 154.95,-38.08 220,-26.81"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="220.46,-29.22 226.95,-25.63 219.64,-24.39 220.46,-29.22"/>
-<text text-anchor="middle" x="60" y="-184.4" font-family="DejaVu Sans" font-size="9.50">Yes</text>
+<path fill="none" stroke="#5f6b78" d="M58.92,-398.01C54.57,-374.41 49,-337.95 49,-306 49,-306 49,-306 49,-103 49,-40.67 135.89,-24.25 191.84,-20.13"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="192.02,-22.58 198.84,-19.67 191.69,-17.69 192.02,-22.58"/>
+<text text-anchor="middle" x="54" y="-206.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">Yes</text>
 </g>
 <!-- IDA -->
 <g id="node13" class="node">
 <title>IDA</title>
-<path fill="#eef0f2" stroke="#8a99a8" d="M306,-296C306,-296 122,-296 122,-296 116,-296 110,-290 110,-284 110,-284 110,-250 110,-250 110,-244 116,-238 122,-238 122,-238 306,-238 306,-238 312,-238 318,-244 318,-250 318,-250 318,-284 318,-284 318,-290 312,-296 306,-296"/>
-<text text-anchor="middle" x="214" y="-282.2" font-family="DejaVu Sans" font-size="11.00">IDA path:</text>
-<text text-anchor="middle" x="214" y="-270.2" font-family="DejaVu Sans" font-size="11.00">iron supplement (Triferdine 1x1 or</text>
-<text text-anchor="middle" x="214" y="-258.2" font-family="DejaVu Sans" font-size="11.00">Ferrous fumarate 200 1x2 PO pc)</text>
-<text text-anchor="middle" x="214" y="-246.2" font-family="DejaVu Sans" font-size="11.00">F/U 4 wk, CBC</text>
+<path fill="#eef0f2" stroke="#8a99a8" d="M257,-340C257,-340 119,-340 119,-340 113,-340 107,-334 107,-328 107,-328 107,-282 107,-282 107,-276 113,-270 119,-270 119,-270 257,-270 257,-270 263,-270 269,-276 269,-282 269,-282 269,-328 269,-328 269,-334 263,-340 257,-340"/>
+<text text-anchor="middle" x="188" y="-322.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">IDA path:</text>
+<text text-anchor="middle" x="188" y="-308.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">iron supplement (Triferdine 1x1 or</text>
+<text text-anchor="middle" x="188" y="-294.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Ferrous fumarate 200 1x2 PO pc)</text>
+<text text-anchor="middle" x="188" y="-280.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">F/U 4 wk, CBC</text>
 </g>
 <!-- Q2&#45;&gt;IDA -->
 <g id="edge6" class="edge">
 <title>Q2&#45;&gt;IDA</title>
-<path fill="none" stroke="#5f6b78" d="M87.74,-357.4C99.94,-344.8 119.23,-325.94 138,-312 143.6,-307.84 149.63,-303.76 155.75,-299.87"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="157.24,-301.83 161.89,-296.05 154.65,-297.67 157.24,-301.83"/>
-<text text-anchor="middle" x="166.5" y="-314.4" font-family="DejaVu Sans" font-size="9.50">No, still low</text>
+<path fill="none" stroke="#5f6b78" d="M82.81,-403.97C96.33,-390.42 115.08,-371.87 132,-356 135.88,-352.36 139.94,-348.62 144.03,-344.89"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="145.68,-346.7 149.22,-340.18 142.39,-343.07 145.68,-346.7"/>
+<text text-anchor="middle" x="150.5" y="-358.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">No, still low</text>
 </g>
 <!-- T1 -->
 <g id="node8" class="node">
 <title>T1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M340,-494C340,-494 290,-494 290,-494 284,-494 278,-488 278,-482 278,-482 278,-470 278,-470 278,-464 284,-458 290,-458 290,-458 340,-458 340,-458 346,-458 352,-464 352,-470 352,-470 352,-482 352,-482 352,-488 346,-494 340,-494"/>
-<text text-anchor="middle" x="315" y="-473.2" font-family="DejaVu Sans" font-size="11.00">Hb typing</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M301,-554C301,-554 259,-554 259,-554 253,-554 247,-548 247,-542 247,-542 247,-530 247,-530 247,-524 253,-518 259,-518 259,-518 301,-518 301,-518 307,-518 313,-524 313,-530 313,-530 313,-542 313,-542 313,-548 307,-554 301,-554"/>
+<text text-anchor="middle" x="280" y="-532.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Hb typing</text>
 </g>
 <!-- Q3&#45;&gt;T1 -->
 <g id="edge8" class="edge">
 <title>Q3&#45;&gt;T1</title>
-<path fill="none" stroke="#5f6b78" d="M258.76,-553.38C269.37,-538.97 285.74,-516.74 298.09,-499.97"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="300.26,-501.15 302.44,-494.06 296.31,-498.25 300.26,-501.15"/>
-<text text-anchor="middle" x="326.5" y="-522.4" font-family="DejaVu Sans" font-size="9.50">MCV&lt;80, or</text>
-<text text-anchor="middle" x="326.5" y="-512.4" font-family="DejaVu Sans" font-size="9.50">&gt;=80 + DCIP+</text>
+<path fill="none" stroke="#5f6b78" d="M236.99,-610.73C245.81,-595.61 257.45,-575.65 266.4,-560.32"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="268.64,-561.33 270.05,-554.05 264.41,-558.86 268.64,-561.33"/>
+<text text-anchor="middle" x="280" y="-582.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">MCV&lt;80, or</text>
+<text text-anchor="middle" x="280" y="-572.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">&gt;=80 + DCIP+</text>
 </g>
 <!-- Q3&#45;&gt;IDA -->
 <g id="edge15" class="edge">
 <title>Q3&#45;&gt;IDA</title>
-<path fill="none" stroke="#5f6b78" d="M246.12,-551.44C240.78,-504.25 225.37,-368.29 218.01,-303.35"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="220.41,-302.84 217.19,-296.16 215.55,-303.39 220.41,-302.84"/>
-<text text-anchor="middle" x="254" y="-434.4" font-family="DejaVu Sans" font-size="9.50">&gt;=80 +</text>
-<text text-anchor="middle" x="254" y="-424.4" font-family="DejaVu Sans" font-size="9.50">DCIP&#45;</text>
+<path fill="none" stroke="#5f6b78" d="M221.15,-607.07C214.92,-550.52 200.08,-415.71 192.55,-347.31"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="194.96,-346.8 191.76,-340.11 190.09,-347.34 194.96,-346.8"/>
+<text text-anchor="middle" x="221" y="-494.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">&gt;=80 +</text>
+<text text-anchor="middle" x="221" y="-484.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">DCIP&#45;</text>
 </g>
 <!-- Q4 -->
 <g id="node9" class="node">
 <title>Q4</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="342,-406 252,-372 342,-338 432,-372 342,-406"/>
-<text text-anchor="middle" x="342" y="-375.2" font-family="DejaVu Sans" font-size="11.00">Thalassemia</text>
-<text text-anchor="middle" x="342" y="-363.2" font-family="DejaVu Sans" font-size="11.00">disease?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="302,-466 226,-424 302,-382 378,-424 302,-466"/>
+<text text-anchor="middle" x="302" y="-427.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Thalassemia</text>
+<text text-anchor="middle" x="302" y="-413.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">disease?</text>
 </g>
 <!-- T1&#45;&gt;Q4 -->
 <g id="edge9" class="edge">
 <title>T1&#45;&gt;Q4</title>
-<path fill="none" stroke="#5f6b78" d="M319.58,-457.7C323.03,-444.67 327.88,-426.33 332.2,-410.04"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="334.58,-410.6 334,-403.21 329.84,-409.35 334.58,-410.6"/>
+<path fill="none" stroke="#5f6b78" d="M283.44,-517.81C286.04,-504.81 289.73,-486.33 293.14,-469.29"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="295.61,-469.43 294.58,-462.09 290.81,-468.47 295.61,-469.43"/>
 </g>
 <!-- T2 -->
 <g id="node10" class="node">
 <title>T2</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M479,-290C479,-290 365,-290 365,-290 359,-290 353,-284 353,-278 353,-278 353,-256 353,-256 353,-250 359,-244 365,-244 365,-244 479,-244 479,-244 485,-244 491,-250 491,-256 491,-256 491,-278 491,-278 491,-284 485,-290 479,-290"/>
-<text text-anchor="middle" x="422" y="-276.2" font-family="DejaVu Sans" font-size="11.00">Triferdine 1x1 +</text>
-<text text-anchor="middle" x="422" y="-264.2" font-family="DejaVu Sans" font-size="11.00">Folic (5) 1x1 PO pc +</text>
-<text text-anchor="middle" x="422" y="-252.2" font-family="DejaVu Sans" font-size="11.00">CBC q4wk</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M402,-333C402,-333 316,-333 316,-333 310,-333 304,-327 304,-321 304,-321 304,-289 304,-289 304,-283 310,-277 316,-277 316,-277 402,-277 402,-277 408,-277 414,-283 414,-289 414,-289 414,-321 414,-321 414,-327 408,-333 402,-333"/>
+<text text-anchor="middle" x="359" y="-315.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Triferdine 1x1 +</text>
+<text text-anchor="middle" x="359" y="-301.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Folic (5) 1x1 PO pc +</text>
+<text text-anchor="middle" x="359" y="-287.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">CBC q4wk</text>
 </g>
 <!-- Q4&#45;&gt;T2 -->
 <g id="edge10" class="edge">
 <title>Q4&#45;&gt;T2</title>
-<path fill="none" stroke="#5f6b78" d="M361.98,-345.27C373.58,-330.34 388.22,-311.5 400.13,-296.16"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="402.35,-297.29 404.71,-290.26 398.48,-294.28 402.35,-297.29"/>
-<text text-anchor="middle" x="394" y="-314.4" font-family="DejaVu Sans" font-size="9.50">Yes</text>
+<path fill="none" stroke="#5f6b78" d="M317.88,-390.41C325.54,-374.67 334.74,-355.8 342.49,-339.89"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="344.85,-340.64 345.71,-333.28 340.44,-338.5 344.85,-340.64"/>
+<text text-anchor="middle" x="338" y="-358.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">Yes</text>
 </g>
 <!-- Q4&#45;&gt;IDA -->
 <g id="edge14" class="edge">
 <title>Q4&#45;&gt;IDA</title>
-<path fill="none" stroke="#5f6b78" d="M313.91,-348.4C296.57,-334.44 274.03,-316.31 254.75,-300.79"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="255.87,-298.55 248.88,-296.07 252.8,-302.36 255.87,-298.55"/>
-<text text-anchor="middle" x="284.5" y="-314.4" font-family="DejaVu Sans" font-size="9.50">No</text>
+<path fill="none" stroke="#5f6b78" d="M275.85,-396.16C261.19,-381.12 242.64,-362.08 226.37,-345.38"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="228.04,-343.58 221.4,-340.28 224.53,-347 228.04,-343.58"/>
+<text text-anchor="middle" x="249.5" y="-358.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">No</text>
 </g>
 <!-- Q5 -->
 <g id="node11" class="node">
 <title>Q5</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="433,-205 374.87,-187 433,-169 491.13,-187 433,-205"/>
-<text text-anchor="middle" x="433" y="-184.2" font-family="DejaVu Sans" font-size="11.00">Hb &gt; 8?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="369,-237 310,-209 369,-181 428,-209 369,-237"/>
+<text text-anchor="middle" x="369" y="-205.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Hb &gt; 8?</text>
 </g>
 <!-- T2&#45;&gt;Q5 -->
 <g id="edge11" class="edge">
 <title>T2&#45;&gt;Q5</title>
-<path fill="none" stroke="#5f6b78" d="M425.12,-243.86C426.53,-233.85 428.2,-222.02 429.64,-211.82"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="432.09,-212.01 430.64,-204.74 427.24,-211.33 432.09,-212.01"/>
+<path fill="none" stroke="#5f6b78" d="M361.89,-276.81C363.02,-266.23 364.32,-254 365.5,-242.92"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="367.95,-243.06 366.25,-235.84 363.07,-242.54 367.95,-243.06"/>
 </g>
 <!-- Q5&#45;&gt;E -->
 <g id="edge13" class="edge">
 <title>Q5&#45;&gt;E</title>
-<path fill="none" stroke="#5f6b78" d="M461.49,-177.54C484.8,-168.94 516.24,-153.11 531,-127 543.68,-104.56 547.41,-88.88 531,-69 505.33,-37.91 392.44,-25.93 324.46,-21.48"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="324.35,-19.02 317.21,-21.03 324.04,-23.91 324.35,-19.02"/>
-<text text-anchor="middle" x="549" y="-95.4" font-family="DejaVu Sans" font-size="9.50">Yes</text>
+<path fill="none" stroke="#5f6b78" d="M395.62,-193.47C414.4,-181.58 438.08,-162.85 449,-139 461.96,-110.72 468.3,-93.4 449,-69 428.85,-43.51 339.94,-29.66 284.16,-23.35"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="284.42,-20.91 277.19,-22.58 283.88,-25.78 284.42,-20.91"/>
+<text text-anchor="middle" x="466" y="-101.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">Yes</text>
 </g>
 <!-- HR -->
 <g id="node12" class="node">
 <title>HR</title>
-<path fill="#fbe6e0" stroke="#cf7a5f" d="M506.5,-127C506.5,-127 359.5,-127 359.5,-127 353.5,-127 347.5,-121 347.5,-115 347.5,-115 347.5,-81 347.5,-81 347.5,-75 353.5,-69 359.5,-69 359.5,-69 506.5,-69 506.5,-69 512.5,-69 518.5,-75 518.5,-81 518.5,-81 518.5,-115 518.5,-115 518.5,-121 512.5,-127 506.5,-127"/>
-<text text-anchor="middle" x="433" y="-113.2" font-family="DejaVu Sans" font-size="11.00">Consult OB &#45; ANC high risk:</text>
-<text text-anchor="middle" x="433" y="-101.2" font-family="DejaVu Sans" font-size="11.00">transfuse if Hb &lt; 8;</text>
-<text text-anchor="middle" x="433" y="-89.2" font-family="DejaVu Sans" font-size="11.00">regular transfusion if</text>
-<text text-anchor="middle" x="433" y="-77.2" font-family="DejaVu Sans" font-size="11.00">maternal symptom / FGR</text>
+<path fill="#fbe6e0" stroke="#cf7a5f" d="M424,-139C424,-139 314,-139 314,-139 308,-139 302,-133 302,-127 302,-127 302,-81 302,-81 302,-75 308,-69 314,-69 314,-69 424,-69 424,-69 430,-69 436,-75 436,-81 436,-81 436,-127 436,-127 436,-133 430,-139 424,-139"/>
+<text text-anchor="middle" x="369" y="-121.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Consult OB &#45; ANC high risk:</text>
+<text text-anchor="middle" x="369" y="-107.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">transfuse if Hb &lt; 8;</text>
+<text text-anchor="middle" x="369" y="-93.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">regular transfusion if</text>
+<text text-anchor="middle" x="369" y="-79.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">maternal symptom / FGR</text>
 </g>
 <!-- Q5&#45;&gt;HR -->
 <g id="edge12" class="edge">
 <title>Q5&#45;&gt;HR</title>
-<path fill="none" stroke="#5f6b78" d="M433,-168.81C433,-158.97 433,-146.25 433,-134.37"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="435.45,-134.11 433,-127.11 430.55,-134.11 435.45,-134.11"/>
-<text text-anchor="middle" x="439.5" y="-145.4" font-family="DejaVu Sans" font-size="9.50">No</text>
+<path fill="none" stroke="#5f6b78" d="M369,-180.94C369,-170.38 369,-158.03 369,-146.39"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="371.45,-146.27 369,-139.27 366.55,-146.27 371.45,-146.27"/>
+<text text-anchor="middle" x="373.5" y="-157.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">No</text>
 </g>
 <!-- Q6 -->
 <g id="node14" class="node">
 <title>Q6</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="214,-205 147,-187 214,-169 281,-187 214,-205"/>
-<text text-anchor="middle" x="214" y="-184.2" font-family="DejaVu Sans" font-size="11.00">Hb rising?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="188,-237 123,-209 188,-181 253,-209 188,-237"/>
+<text text-anchor="middle" x="188" y="-205.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Hb rising?</text>
 </g>
 <!-- IDA&#45;&gt;Q6 -->
 <g id="edge16" class="edge">
 <title>IDA&#45;&gt;Q6</title>
-<path fill="none" stroke="#5f6b78" d="M214,-237.84C214,-229.55 214,-220.56 214,-212.52"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="216.45,-212.46 214,-205.46 211.55,-212.46 216.45,-212.46"/>
+<path fill="none" stroke="#5f6b78" d="M188,-269.8C188,-261.52 188,-252.66 188,-244.37"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="190.45,-244.26 188,-237.26 185.55,-244.26 190.45,-244.26"/>
 </g>
 <!-- Q6&#45;&gt;E -->
 <g id="edge17" class="edge">
 <title>Q6&#45;&gt;E</title>
-<path fill="none" stroke="#5f6b78" d="M230.82,-173.29C243.6,-162.54 260.26,-145.89 268,-127 279.06,-100.02 278.17,-65.99 275.76,-43.41"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="278.16,-42.88 274.89,-36.23 273.29,-43.47 278.16,-42.88"/>
-<text text-anchor="middle" x="285" y="-95.4" font-family="DejaVu Sans" font-size="9.50">Yes</text>
+<path fill="none" stroke="#5f6b78" d="M203.65,-187.46C212.74,-174.34 223.47,-156.54 229,-139 239.08,-107.04 240.06,-68.02 239.39,-43.33"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="241.83,-43.06 239.14,-36.15 236.93,-43.24 241.83,-43.06"/>
+<text text-anchor="middle" x="244" y="-101.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">Yes</text>
 </g>
 <!-- C1 -->
 <g id="node15" class="node">
 <title>C1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M243.5,-121C243.5,-121 102.5,-121 102.5,-121 96.5,-121 90.5,-115 90.5,-109 90.5,-109 90.5,-87 90.5,-87 90.5,-81 96.5,-75 102.5,-75 102.5,-75 243.5,-75 243.5,-75 249.5,-75 255.5,-81 255.5,-87 255.5,-87 255.5,-109 255.5,-109 255.5,-115 249.5,-121 243.5,-121"/>
-<text text-anchor="middle" x="173" y="-107.2" font-family="DejaVu Sans" font-size="11.00">Consult OB (evaluate IDA)</text>
-<text text-anchor="middle" x="173" y="-95.2" font-family="DejaVu Sans" font-size="11.00">W/U cause: compliance,</text>
-<text text-anchor="middle" x="173" y="-83.2" font-family="DejaVu Sans" font-size="11.00">IV iron + oral, nutrition</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M204.5,-132C204.5,-132 99.5,-132 99.5,-132 93.5,-132 87.5,-126 87.5,-120 87.5,-120 87.5,-88 87.5,-88 87.5,-82 93.5,-76 99.5,-76 99.5,-76 204.5,-76 204.5,-76 210.5,-76 216.5,-82 216.5,-88 216.5,-88 216.5,-120 216.5,-120 216.5,-126 210.5,-132 204.5,-132"/>
+<text text-anchor="middle" x="152" y="-114.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Consult OB (evaluate IDA)</text>
+<text text-anchor="middle" x="152" y="-100.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">W/U cause: compliance,</text>
+<text text-anchor="middle" x="152" y="-86.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">IV iron + oral, nutrition</text>
 </g>
 <!-- Q6&#45;&gt;C1 -->
 <g id="edge18" class="edge">
 <title>Q6&#45;&gt;C1</title>
-<path fill="none" stroke="#5f6b78" d="M206.86,-170.85C201.25,-158.94 193.27,-142.02 186.47,-127.59"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="188.64,-126.45 183.44,-121.16 184.21,-128.53 188.64,-126.45"/>
-<text text-anchor="middle" x="205.5" y="-145.4" font-family="DejaVu Sans" font-size="9.50">No</text>
+<path fill="none" stroke="#5f6b78" d="M179.74,-184.37C175.02,-170.88 169.03,-153.73 163.82,-138.83"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="166.12,-137.96 161.49,-132.16 161.49,-139.58 166.12,-137.96"/>
+<text text-anchor="middle" x="177.5" y="-157.4" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="9.50">No</text>
 </g>
 <!-- C1&#45;&gt;E -->
 <g id="edge19" class="edge">
 <title>C1&#45;&gt;E</title>
-<path fill="none" stroke="#5f6b78" d="M201.1,-74.86C214.71,-64.14 230.99,-51.31 244.51,-40.66"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="246.14,-42.49 250.12,-36.24 243.11,-38.65 246.14,-42.49"/>
+<path fill="none" stroke="#5f6b78" d="M179.68,-75.96C191.16,-64.75 204.31,-51.9 215.22,-41.25"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="217.08,-42.86 220.38,-36.21 213.66,-39.35 217.08,-42.86"/>
 </g>
 </g>
 </svg>

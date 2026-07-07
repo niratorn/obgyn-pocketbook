@@ -1,210 +1,210 @@
 <svg
- viewBox="0.00 0.00 1147.00 770.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 766)">
+ viewBox="0.00 0.00 767.00 778.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 774)">
 <title>tpr</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-766 1143,-766 1143,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-774 763,-774 763,4 -4,4"/>
 <!-- S -->
 <g id="node1" class="node">
 <title>S</title>
-<path fill="#dfeaf6" stroke="#4f7ab0" d="M968.5,-762C968.5,-762 862.5,-762 862.5,-762 856.5,-762 850.5,-756 850.5,-750 850.5,-750 850.5,-738 850.5,-738 850.5,-732 856.5,-726 862.5,-726 862.5,-726 968.5,-726 968.5,-726 974.5,-726 980.5,-732 980.5,-738 980.5,-738 980.5,-750 980.5,-750 980.5,-756 974.5,-762 968.5,-762"/>
-<text text-anchor="middle" x="915.5" y="-740.9" font-family="Sarabun" font-size="12.00">Term PROM</text>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M646.5,-770C646.5,-770 596.5,-770 596.5,-770 590.5,-770 584.5,-764 584.5,-758 584.5,-758 584.5,-746 584.5,-746 584.5,-740 590.5,-734 596.5,-734 596.5,-734 646.5,-734 646.5,-734 652.5,-734 658.5,-740 658.5,-746 658.5,-746 658.5,-758 658.5,-758 658.5,-764 652.5,-770 646.5,-770"/>
+<text text-anchor="middle" x="621.5" y="-748.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Term PROM</text>
 </g>
 <!-- V -->
 <g id="node2" class="node">
 <title>V</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M1127,-695C1127,-695 704,-695 704,-695 698,-695 692,-689 692,-683 692,-683 692,-652 692,-652 692,-646 698,-640 704,-640 704,-640 1127,-640 1127,-640 1133,-640 1139,-646 1139,-652 1139,-652 1139,-683 1139,-683 1139,-689 1133,-695 1127,-695"/>
-<text text-anchor="middle" x="915.5" y="-677.4" font-family="Sarabun" font-size="12.00">ตรวจยืนยันภาวะน้ำเดิน (Hx/PE/Speculum)</text>
-<text text-anchor="middle" x="915.5" y="-664.4" font-family="Sarabun" font-size="12.00">+ Cough test / Nitrazine test / Fern test</text>
-<text text-anchor="middle" x="915.5" y="-651.4" font-family="Sarabun" font-size="12.00">หรือ U/S ประเมินน้ำคร่ำ สงสัยน้ำคร่ำน้อย (AFI &lt; 5 cm, DVP &lt; 2 cm)</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M747,-703C747,-703 496,-703 496,-703 490,-703 484,-697 484,-691 484,-691 484,-659 484,-659 484,-653 490,-647 496,-647 496,-647 747,-647 747,-647 753,-647 759,-653 759,-659 759,-659 759,-691 759,-691 759,-697 753,-703 747,-703"/>
+<text text-anchor="middle" x="621.5" y="-685.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ตรวจยืนยันภาวะน้ำเดิน (Hx/PE/Speculum)</text>
+<text text-anchor="middle" x="621.5" y="-671.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">+ Cough test / Nitrazine test / Fern test</text>
+<text text-anchor="middle" x="621.5" y="-657.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">หรือ U/S ประเมินน้ำคร่ำ สงสัยน้ำคร่ำน้อย (AFI &lt; 5 cm, DVP &lt; 2 cm)</text>
 </g>
 <!-- S&#45;&gt;V -->
 <g id="edge1" class="edge">
 <title>S&#45;&gt;V</title>
-<path fill="none" stroke="#5f6b78" d="M915.5,-725.72C915.5,-718.74 915.5,-710.44 915.5,-702.35"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="917.95,-702.03 915.5,-695.03 913.05,-702.03 917.95,-702.03"/>
+<path fill="none" stroke="#5f6b78" d="M621.5,-733.98C621.5,-727.03 621.5,-718.73 621.5,-710.61"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="623.95,-710.25 621.5,-703.25 619.05,-710.25 623.95,-710.25"/>
 </g>
 <!-- Y -->
 <g id="node3" class="node">
 <title>Y</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M850,-599C850,-599 601,-599 601,-599 595,-599 589,-593 589,-587 589,-587 589,-569 589,-569 589,-563 595,-557 601,-557 601,-557 850,-557 850,-557 856,-557 862,-563 862,-569 862,-569 862,-587 862,-587 862,-593 856,-599 850,-599"/>
-<text text-anchor="middle" x="725.5" y="-581.4" font-family="Sarabun" font-size="12.00">PV ประเมิน Bishop score</text>
-<text text-anchor="middle" x="725.5" y="-568.4" font-family="Sarabun" font-size="12.00">ประเมินท่าทารก ต้องเป็น Vertex เท่านั้น; ทำ NST</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M567.5,-606C567.5,-606 391.5,-606 391.5,-606 385.5,-606 379.5,-600 379.5,-594 379.5,-594 379.5,-576 379.5,-576 379.5,-570 385.5,-564 391.5,-564 391.5,-564 567.5,-564 567.5,-564 573.5,-564 579.5,-570 579.5,-576 579.5,-576 579.5,-594 579.5,-594 579.5,-600 573.5,-606 567.5,-606"/>
+<text text-anchor="middle" x="479.5" y="-588.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">PV ประเมิน Bishop score</text>
+<text text-anchor="middle" x="479.5" y="-574.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ประเมินท่าทารก ต้องเป็น Vertex เท่านั้น; ทำ NST</text>
 </g>
 <!-- V&#45;&gt;Y -->
 <g id="edge2" class="edge">
 <title>V&#45;&gt;Y</title>
-<path fill="none" stroke="#5f6b78" d="M857.72,-639.89C831.56,-627.84 800.93,-613.74 775.74,-602.14"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="776.51,-599.79 769.13,-599.09 774.46,-604.25 776.51,-599.79"/>
-<text text-anchor="middle" x="824" y="-617" font-family="Sarabun" font-size="10.00">ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M577.74,-646.88C558.7,-635.08 536.59,-621.38 518.17,-609.96"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="519.31,-607.79 512.07,-606.18 516.73,-611.95 519.31,-607.79"/>
+<text text-anchor="middle" x="554" y="-624" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ใช่</text>
 </g>
 <!-- U -->
 <g id="node4" class="node">
 <title>U</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M1033.5,-542C1033.5,-542 873.5,-542 873.5,-542 867.5,-542 861.5,-536 861.5,-530 861.5,-530 861.5,-518 861.5,-518 861.5,-512 867.5,-506 873.5,-506 873.5,-506 1033.5,-506 1033.5,-506 1039.5,-506 1045.5,-512 1045.5,-518 1045.5,-518 1045.5,-530 1045.5,-530 1045.5,-536 1039.5,-542 1033.5,-542"/>
-<text text-anchor="middle" x="953.5" y="-520.9" font-family="Sarabun" font-size="12.00">Admit ใส่ pad observe</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M683.5,-549C683.5,-549 593.5,-549 593.5,-549 587.5,-549 581.5,-543 581.5,-537 581.5,-537 581.5,-525 581.5,-525 581.5,-519 587.5,-513 593.5,-513 593.5,-513 683.5,-513 683.5,-513 689.5,-513 695.5,-519 695.5,-525 695.5,-525 695.5,-537 695.5,-537 695.5,-543 689.5,-549 683.5,-549"/>
+<text text-anchor="middle" x="638.5" y="-527.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Admit ใส่ pad observe</text>
 </g>
 <!-- V&#45;&gt;U -->
 <g id="edge3" class="edge">
 <title>V&#45;&gt;U</title>
-<path fill="none" stroke="#5f6b78" d="M919.31,-639.94C922.95,-617.48 929.26,-584.63 938.5,-557 939.37,-554.4 940.39,-551.74 941.48,-549.11"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="943.9,-549.7 944.5,-542.31 939.42,-547.71 943.9,-549.7"/>
-<text text-anchor="middle" x="935" y="-617" font-family="Sarabun" font-size="10.00">ไม่แน่ใจ</text>
+<path fill="none" stroke="#5f6b78" d="M624.74,-646.96C627.88,-620.74 632.59,-581.33 635.61,-556.14"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="638.05,-556.37 636.45,-549.13 633.18,-555.78 638.05,-556.37"/>
+<text text-anchor="middle" x="639" y="-624" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ไม่แน่ใจ</text>
 </g>
 <!-- N -->
 <g id="node5" class="node">
 <title>N</title>
-<path fill="#eef0f2" stroke="#8a99a8" d="M1053,-596C1053,-596 962,-596 962,-596 956,-596 950,-590 950,-584 950,-584 950,-572 950,-572 950,-566 956,-560 962,-560 962,-560 1053,-560 1053,-560 1059,-560 1065,-566 1065,-572 1065,-572 1065,-584 1065,-584 1065,-590 1059,-596 1053,-596"/>
-<text text-anchor="middle" x="1007.5" y="-574.9" font-family="Sarabun" font-size="12.00">ฝากครรภ์ตามเดิม</text>
+<path fill="#eef0f2" stroke="#8a99a8" d="M733.5,-603C733.5,-603 667.5,-603 667.5,-603 661.5,-603 655.5,-597 655.5,-591 655.5,-591 655.5,-579 655.5,-579 655.5,-573 661.5,-567 667.5,-567 667.5,-567 733.5,-567 733.5,-567 739.5,-567 745.5,-573 745.5,-579 745.5,-579 745.5,-591 745.5,-591 745.5,-597 739.5,-603 733.5,-603"/>
+<text text-anchor="middle" x="700.5" y="-581.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ฝากครรภ์ตามเดิม</text>
 </g>
 <!-- V&#45;&gt;N -->
 <g id="edge4" class="edge">
 <title>V&#45;&gt;N</title>
-<path fill="none" stroke="#5f6b78" d="M943.6,-639.77C956.64,-627.37 971.95,-612.81 984.32,-601.05"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="986.04,-602.79 989.42,-596.19 982.66,-599.24 986.04,-602.79"/>
-<text text-anchor="middle" x="977" y="-617" font-family="Sarabun" font-size="10.00">ไม่ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M646.06,-646.64C657.04,-634.41 669.82,-620.17 680.24,-608.57"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="682.29,-609.95 685.15,-603.1 678.65,-606.67 682.29,-609.95"/>
+<text text-anchor="middle" x="675" y="-624" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ไม่ใช่</text>
 </g>
 <!-- NV -->
 <g id="node6" class="node">
 <title>NV</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M477.5,-467C477.5,-467 315.5,-467 315.5,-467 309.5,-467 303.5,-461 303.5,-455 303.5,-455 303.5,-443 303.5,-443 303.5,-437 309.5,-431 315.5,-431 315.5,-431 477.5,-431 477.5,-431 483.5,-431 489.5,-437 489.5,-443 489.5,-443 489.5,-455 489.5,-455 489.5,-461 483.5,-467 477.5,-467"/>
-<text text-anchor="middle" x="396.5" y="-445.9" font-family="Sarabun" font-size="12.00">ถ้า non&#45;Vertex → Refer</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M311,-474C311,-474 214,-474 214,-474 208,-474 202,-468 202,-462 202,-462 202,-450 202,-450 202,-444 208,-438 214,-438 214,-438 311,-438 311,-438 317,-438 323,-444 323,-450 323,-450 323,-462 323,-462 323,-468 317,-474 311,-474"/>
+<text text-anchor="middle" x="262.5" y="-452.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ถ้า non&#45;Vertex → Refer</text>
 </g>
 <!-- Y&#45;&gt;NV -->
 <g id="edge5" class="edge">
 <title>Y&#45;&gt;NV</title>
-<path fill="none" stroke="#5f6b78" d="M672.7,-557C627.07,-539.67 559.37,-513.85 500.5,-491 482.77,-484.12 463.38,-476.5 446.19,-469.71"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="446.88,-467.35 439.47,-467.06 445.08,-471.91 446.88,-467.35"/>
-<text text-anchor="middle" x="656" y="-521.5" font-family="Sarabun" font-size="10.00">non&#45;Vertex</text>
+<path fill="none" stroke="#5f6b78" d="M445.12,-563.88C404.88,-540.33 338.58,-501.53 297.91,-477.72"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="299.13,-475.6 291.85,-474.18 296.66,-479.83 299.13,-475.6"/>
+<text text-anchor="middle" x="432" y="-528.5" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">non&#45;Vertex</text>
 </g>
 <!-- Q1 -->
 <g id="node7" class="node">
 <title>Q1</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="725.5,-491 511.5,-449 725.5,-407 939.5,-449 725.5,-491"/>
-<text text-anchor="middle" x="725.5" y="-452.4" font-family="Sarabun" font-size="12.00">มีภาวะถุงน้ำคร่ำอักเสบหรือไม่?</text>
-<text text-anchor="middle" x="725.5" y="-439.4" font-family="Sarabun" font-size="12.00">(sign of Chorioamnionitis)</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="479.5,-498 345.5,-456 479.5,-414 613.5,-456 479.5,-498"/>
+<text text-anchor="middle" x="479.5" y="-459.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">มีภาวะถุงน้ำคร่ำอักเสบหรือไม่?</text>
+<text text-anchor="middle" x="479.5" y="-445.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(sign of Chorioamnionitis)</text>
 </g>
 <!-- Y&#45;&gt;Q1 -->
 <g id="edge6" class="edge">
 <title>Y&#45;&gt;Q1</title>
-<path fill="none" stroke="#5f6b78" d="M725.5,-556.88C725.5,-541.11 725.5,-518.51 725.5,-498.15"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="727.95,-498.06 725.5,-491.06 723.05,-498.06 727.95,-498.06"/>
-<text text-anchor="middle" x="741.5" y="-521.5" font-family="Sarabun" font-size="10.00">Vertex</text>
+<path fill="none" stroke="#5f6b78" d="M479.5,-563.88C479.5,-548.11 479.5,-525.51 479.5,-505.15"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="481.95,-505.06 479.5,-498.06 477.05,-505.06 481.95,-505.06"/>
+<text text-anchor="middle" x="489" y="-528.5" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">Vertex</text>
 </g>
 <!-- Cons -->
 <g id="node14" class="node">
 <title>Cons</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M915.5,-106C915.5,-106 827.5,-106 827.5,-106 821.5,-106 815.5,-100 815.5,-94 815.5,-94 815.5,-82 815.5,-82 815.5,-76 821.5,-70 827.5,-70 827.5,-70 915.5,-70 915.5,-70 921.5,-70 927.5,-76 927.5,-82 927.5,-82 927.5,-94 927.5,-94 927.5,-100 921.5,-106 915.5,-106"/>
-<text text-anchor="middle" x="871.5" y="-84.9" font-family="Sarabun" font-size="12.00">ปรึกษาสูติแพทย์</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M608,-106C608,-106 547,-106 547,-106 541,-106 535,-100 535,-94 535,-94 535,-82 535,-82 535,-76 541,-70 547,-70 547,-70 608,-70 608,-70 614,-70 620,-76 620,-82 620,-82 620,-94 620,-94 620,-100 614,-106 608,-106"/>
+<text text-anchor="middle" x="577.5" y="-84.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ปรึกษาสูติแพทย์</text>
 </g>
 <!-- U&#45;&gt;Cons -->
 <g id="edge14" class="edge">
 <title>U&#45;&gt;Cons</title>
-<path fill="none" stroke="#5f6b78" d="M967.04,-505.72C985.01,-480.99 1014.5,-433.42 1014.5,-387.5 1014.5,-387.5 1014.5,-387.5 1014.5,-189.5 1014.5,-147.48 972.65,-121.51 934.23,-106.52"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="935.02,-104.2 927.61,-104.03 933.3,-108.79 935.02,-104.2"/>
+<path fill="none" stroke="#5f6b78" d="M646.77,-512.91C658.22,-487.65 677.5,-438.56 677.5,-394.5 677.5,-394.5 677.5,-394.5 677.5,-191 677.5,-155.26 645.81,-127.44 618.12,-109.94"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="619.16,-107.71 611.91,-106.15 616.61,-111.89 619.16,-107.71"/>
 </g>
 <!-- CA -->
 <g id="node8" class="node">
 <title>CA</title>
-<path fill="#fbe6e0" stroke="#cf7a5f" d="M465,-366C465,-366 12,-366 12,-366 6,-366 0,-360 0,-354 0,-354 0,-284 0,-284 0,-278 6,-272 12,-272 12,-272 465,-272 465,-272 471,-272 477,-278 477,-284 477,-284 477,-354 477,-354 477,-360 471,-366 465,-366"/>
-<text text-anchor="middle" x="238.5" y="-348.4" font-family="Sarabun" font-size="12.00">วินิจฉัย ภาวะถุงน้ำคร่ำอักเสบ</text>
-<text text-anchor="middle" x="238.5" y="-335.4" font-family="Sarabun" font-size="12.00">**ปรึกษาสูตินรีแพทย์ก่อนเริ่มให้ยา</text>
-<text text-anchor="middle" x="238.5" y="-322.4" font-family="Sarabun" font-size="12.00">Mx: NSS/RLS 1000 ml IV drip 100&#45;120 ml/hr</text>
-<text text-anchor="middle" x="238.5" y="-309.4" font-family="Sarabun" font-size="12.00">Ampicillin 2 g IV then 2 g IV q 6 hr</text>
-<text text-anchor="middle" x="238.5" y="-296.4" font-family="Sarabun" font-size="12.00">+ Gentamicin 240 mg + 5%D/W 100 ml IV drip in 60 min then q 24 hr</text>
-<text text-anchor="middle" x="238.5" y="-283.4" font-family="Sarabun" font-size="12.00">IUR + monitor FHR</text>
+<path fill="#fbe6e0" stroke="#cf7a5f" d="M287,-373C287,-373 12,-373 12,-373 6,-373 0,-367 0,-361 0,-361 0,-287 0,-287 0,-281 6,-275 12,-275 12,-275 287,-275 287,-275 293,-275 299,-281 299,-287 299,-287 299,-361 299,-361 299,-367 293,-373 287,-373"/>
+<text text-anchor="middle" x="149.5" y="-355.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">วินิจฉัย ภาวะถุงน้ำคร่ำอักเสบ</text>
+<text text-anchor="middle" x="149.5" y="-341.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">**ปรึกษาสูตินรีแพทย์ก่อนเริ่มให้ยา</text>
+<text text-anchor="middle" x="149.5" y="-327.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Mx: NSS/RLS 1000 ml IV drip 100&#45;120 ml/hr</text>
+<text text-anchor="middle" x="149.5" y="-313.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Ampicillin 2 g IV then 2 g IV q 6 hr</text>
+<text text-anchor="middle" x="149.5" y="-299.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">+ Gentamicin 240 mg + 5%D/W 100 ml IV drip in 60 min then q 24 hr</text>
+<text text-anchor="middle" x="149.5" y="-285.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">IUR + monitor FHR</text>
 </g>
 <!-- Q1&#45;&gt;CA -->
 <g id="edge7" class="edge">
 <title>Q1&#45;&gt;CA</title>
-<path fill="none" stroke="#5f6b78" d="M636.18,-424.52C575.92,-408.69 494.28,-387.23 420.64,-367.87"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="420.93,-365.42 413.54,-366.01 419.69,-370.16 420.93,-365.42"/>
-<text text-anchor="middle" x="515" y="-384" font-family="Sarabun" font-size="10.00">ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M421.26,-432.06C381.6,-416.43 327.5,-395.12 278.02,-375.63"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="278.79,-373.3 271.38,-373.01 277,-377.86 278.79,-373.3"/>
+<text text-anchor="middle" x="338" y="-391" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ใช่</text>
 </g>
 <!-- Ob -->
 <g id="node10" class="node">
 <title>Ob</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M858,-337C858,-337 593,-337 593,-337 587,-337 581,-331 581,-325 581,-325 581,-313 581,-313 581,-307 587,-301 593,-301 593,-301 858,-301 858,-301 864,-301 870,-307 870,-313 870,-313 870,-325 870,-325 870,-331 864,-337 858,-337"/>
-<text text-anchor="middle" x="725.5" y="-315.9" font-family="Sarabun" font-size="12.00">Observe uterine contraction ภายใน 1 ชั่วโมง</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M565,-342C565,-342 394,-342 394,-342 388,-342 382,-336 382,-330 382,-330 382,-318 382,-318 382,-312 388,-306 394,-306 394,-306 565,-306 565,-306 571,-306 577,-312 577,-318 577,-318 577,-330 577,-330 577,-336 571,-342 565,-342"/>
+<text text-anchor="middle" x="479.5" y="-320.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Observe uterine contraction ภายใน 1 ชั่วโมง</text>
 </g>
 <!-- Q1&#45;&gt;Ob -->
 <g id="edge9" class="edge">
 <title>Q1&#45;&gt;Ob</title>
-<path fill="none" stroke="#5f6b78" d="M725.5,-406.8C725.5,-386.2 725.5,-361.99 725.5,-344.38"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="727.95,-344.26 725.5,-337.26 723.05,-344.26 727.95,-344.26"/>
-<text text-anchor="middle" x="729" y="-384" font-family="Sarabun" font-size="10.00">ไม่</text>
+<path fill="none" stroke="#5f6b78" d="M479.5,-413.87C479.5,-392.65 479.5,-367.49 479.5,-349.37"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="481.95,-349.06 479.5,-342.06 477.05,-349.06 481.95,-349.06"/>
+<text text-anchor="middle" x="483" y="-391" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ไม่</text>
 </g>
 <!-- Ref1 -->
 <g id="node9" class="node">
 <title>Ref1</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M231,-208.5C231,-208.5 162,-208.5 162,-208.5 156,-208.5 150,-202.5 150,-196.5 150,-196.5 150,-184.5 150,-184.5 150,-178.5 156,-172.5 162,-172.5 162,-172.5 231,-172.5 231,-172.5 237,-172.5 243,-178.5 243,-184.5 243,-184.5 243,-196.5 243,-196.5 243,-202.5 237,-208.5 231,-208.5"/>
-<text text-anchor="middle" x="196.5" y="-187.4" font-family="Sarabun" font-size="12.00">Refer</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M133.5,-210C133.5,-210 103.5,-210 103.5,-210 97.5,-210 91.5,-204 91.5,-198 91.5,-198 91.5,-186 91.5,-186 91.5,-180 97.5,-174 103.5,-174 103.5,-174 133.5,-174 133.5,-174 139.5,-174 145.5,-180 145.5,-186 145.5,-186 145.5,-198 145.5,-198 145.5,-204 139.5,-210 133.5,-210"/>
+<text text-anchor="middle" x="118.5" y="-188.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Refer</text>
 </g>
 <!-- CA&#45;&gt;Ref1 -->
 <g id="edge8" class="edge">
 <title>CA&#45;&gt;Ref1</title>
-<path fill="none" stroke="#5f6b78" d="M223.22,-271.97C216.87,-252.86 209.77,-231.47 204.49,-215.56"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="206.73,-214.53 202.2,-208.65 202.08,-216.07 206.73,-214.53"/>
+<path fill="none" stroke="#5f6b78" d="M138.04,-274.96C133.35,-255.27 128.12,-233.34 124.25,-217.12"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="126.59,-216.34 122.58,-210.1 121.82,-217.48 126.59,-216.34"/>
 </g>
 <!-- B7 -->
 <g id="node11" class="node">
 <title>B7</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="431.5,-219.5 264.5,-190.5 431.5,-161.5 598.5,-190.5 431.5,-219.5"/>
-<text text-anchor="middle" x="431.5" y="-187.4" font-family="Sarabun" font-size="12.00">Bishop score ≥ 7?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="265.5,-220 167.5,-192 265.5,-164 363.5,-192 265.5,-220"/>
+<text text-anchor="middle" x="265.5" y="-188.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Bishop score ≥ 7?</text>
 </g>
 <!-- Ob&#45;&gt;B7 -->
 <g id="edge10" class="edge">
 <title>Ob&#45;&gt;B7</title>
-<path fill="none" stroke="#5f6b78" d="M685.85,-300.94C633.93,-278.6 542.74,-239.36 484.81,-214.44"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="485.67,-212.14 478.27,-211.62 483.73,-216.64 485.67,-212.14"/>
+<path fill="none" stroke="#5f6b78" d="M451.08,-305.74C412.61,-282.37 343.94,-240.65 301.78,-215.04"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="303.02,-212.92 295.76,-211.38 300.47,-217.11 303.02,-212.92"/>
 </g>
 <!-- Note -->
 <g id="node15" class="node">
 <title>Note</title>
-<path fill="#f6f2e7" stroke="#c2b283" d="M968,-231C968,-231 633,-231 633,-231 627,-231 621,-225 621,-219 621,-219 621,-162 621,-162 621,-156 627,-150 633,-150 633,-150 968,-150 968,-150 974,-150 980,-156 980,-162 980,-162 980,-219 980,-219 980,-225 974,-231 968,-231"/>
-<text text-anchor="middle" x="800.5" y="-213.4" font-family="Sarabun" font-size="12.00">** ถ้าน้ำเดินนานกว่า 18 ชั่วโมง หรือมารดามีไข้ขณะรอคลอด</text>
-<text text-anchor="middle" x="800.5" y="-200.4" font-family="Sarabun" font-size="12.00">แต่ไม่เข้าเกณฑ์ถุงน้ำคร่ำอักเสบ ให้ส่งตรวจ CBC + UA</text>
-<text text-anchor="middle" x="800.5" y="-187.4" font-family="Sarabun" font-size="12.00">+ เริ่มยาปฏิชีวนะทางหลอดเลือดดำทันที Ampicillin 2 g IV q 6 hr</text>
-<text text-anchor="middle" x="800.5" y="-174.4" font-family="Sarabun" font-size="12.00">(ถ้าแพ้ penicillin เปลี่ยนเป็น Clindamycin 900 mg IV q 8 hr)</text>
-<text text-anchor="middle" x="800.5" y="-161.4" font-family="Sarabun" font-size="12.00">→ ปรึกษาสูติแพทย์เพื่อการรักษาที่เหมาะสม +/&#45; Refer</text>
+<path fill="#f6f2e7" stroke="#c2b283" d="M631,-234C631,-234 398,-234 398,-234 392,-234 386,-228 386,-222 386,-222 386,-162 386,-162 386,-156 392,-150 398,-150 398,-150 631,-150 631,-150 637,-150 643,-156 643,-162 643,-162 643,-222 643,-222 643,-228 637,-234 631,-234"/>
+<text text-anchor="middle" x="514.5" y="-216.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">** ถ้าน้ำเดินนานกว่า 18 ชั่วโมง หรือมารดามีไข้ขณะรอคลอด</text>
+<text text-anchor="middle" x="514.5" y="-202.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">แต่ไม่เข้าเกณฑ์ถุงน้ำคร่ำอักเสบ ให้ส่งตรวจ CBC + UA</text>
+<text text-anchor="middle" x="514.5" y="-188.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">+ เริ่มยาปฏิชีวนะทางหลอดเลือดดำทันที Ampicillin 2 g IV q 6 hr</text>
+<text text-anchor="middle" x="514.5" y="-174.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(ถ้าแพ้ penicillin เปลี่ยนเป็น Clindamycin 900 mg IV q 8 hr)</text>
+<text text-anchor="middle" x="514.5" y="-160.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">→ ปรึกษาสูติแพทย์เพื่อการรักษาที่เหมาะสม +/&#45; Refer</text>
 </g>
 <!-- Ob&#45;&gt;Note -->
 <g id="edge15" class="edge">
 <title>Ob&#45;&gt;Note</title>
-<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M735.61,-300.94C746.17,-283.14 763.09,-254.6 777.01,-231.12"/>
-<text text-anchor="middle" x="780.5" y="-249" font-family="Sarabun" font-size="10.00">หมายเหตุ</text>
+<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M484.15,-305.74C489.04,-287.57 496.91,-258.32 503.42,-234.17"/>
+<text text-anchor="middle" x="512.5" y="-252" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">หมายเหตุ</text>
 </g>
 <!-- Ox -->
 <g id="node12" class="node">
 <title>Ox</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M628,-109C628,-109 235,-109 235,-109 229,-109 223,-103 223,-97 223,-97 223,-79 223,-79 223,-73 229,-67 235,-67 235,-67 628,-67 628,-67 634,-67 640,-73 640,-79 640,-79 640,-97 640,-97 640,-103 634,-109 628,-109"/>
-<text text-anchor="middle" x="431.5" y="-91.4" font-family="Sarabun" font-size="12.00">กระตุ้นคลอดด้วย Oxytocin</text>
-<text text-anchor="middle" x="431.5" y="-78.4" font-family="Sarabun" font-size="12.00">(Oxytocin 10 unit + 5%DN/2 1,000 ml IV drip start 12 ml/hr)</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M384.5,-109C384.5,-109 146.5,-109 146.5,-109 140.5,-109 134.5,-103 134.5,-97 134.5,-97 134.5,-79 134.5,-79 134.5,-73 140.5,-67 146.5,-67 146.5,-67 384.5,-67 384.5,-67 390.5,-67 396.5,-73 396.5,-79 396.5,-79 396.5,-97 396.5,-97 396.5,-103 390.5,-109 384.5,-109"/>
+<text text-anchor="middle" x="265.5" y="-91.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">กระตุ้นคลอดด้วย Oxytocin</text>
+<text text-anchor="middle" x="265.5" y="-77.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(Oxytocin 10 unit + 5%DN/2 1,000 ml IV drip start 12 ml/hr)</text>
 </g>
 <!-- B7&#45;&gt;Ox -->
 <g id="edge11" class="edge">
 <title>B7&#45;&gt;Ox</title>
-<path fill="none" stroke="#5f6b78" d="M431.5,-161.24C431.5,-147.23 431.5,-130.38 431.5,-116.48"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="433.95,-116.09 431.5,-109.09 429.05,-116.09 433.95,-116.09"/>
-<text text-anchor="middle" x="440.5" y="-127" font-family="Sarabun" font-size="10.00">≥ 7</text>
+<path fill="none" stroke="#5f6b78" d="M265.5,-163.93C265.5,-149.26 265.5,-131.16 265.5,-116.43"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="267.95,-116.07 265.5,-109.07 263.05,-116.07 267.95,-116.07"/>
+<text text-anchor="middle" x="270.5" y="-127" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">≥ 7</text>
 </g>
 <!-- B7&#45;&gt;Cons -->
 <g id="edge13" class="edge">
 <title>B7&#45;&gt;Cons</title>
-<path fill="none" stroke="#5f6b78" d="M501.22,-173.58C585.66,-154.29 726.69,-122.08 808.16,-103.47"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="809.09,-105.77 815.37,-101.82 808,-100.99 809.09,-105.77"/>
-<text text-anchor="middle" x="726.5" y="-127" font-family="Sarabun" font-size="10.00">&lt; 7</text>
+<path fill="none" stroke="#5f6b78" d="M305.39,-175.25C325.92,-167.34 351.42,-157.8 374.5,-150 426.41,-132.46 486.6,-114.69 527.89,-102.89"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="528.79,-105.18 534.85,-100.9 527.45,-100.47 528.79,-105.18"/>
+<text text-anchor="middle" x="457.5" y="-127" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">&lt; 7</text>
 </g>
 <!-- Ref2 -->
 <g id="node13" class="node">
 <title>Ref2</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M504.5,-36C504.5,-36 358.5,-36 358.5,-36 352.5,-36 346.5,-30 346.5,-24 346.5,-24 346.5,-12 346.5,-12 346.5,-6 352.5,0 358.5,0 358.5,0 504.5,0 504.5,0 510.5,0 516.5,-6 516.5,-12 516.5,-12 516.5,-24 516.5,-24 516.5,-30 510.5,-36 504.5,-36"/>
-<text text-anchor="middle" x="431.5" y="-14.9" font-family="Sarabun" font-size="12.00">Refer ตามข้อบ่งชี้ทางสูติกรรม</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M320.5,-36C320.5,-36 210.5,-36 210.5,-36 204.5,-36 198.5,-30 198.5,-24 198.5,-24 198.5,-12 198.5,-12 198.5,-6 204.5,0 210.5,0 210.5,0 320.5,0 320.5,0 326.5,0 332.5,-6 332.5,-12 332.5,-12 332.5,-24 332.5,-24 332.5,-30 326.5,-36 320.5,-36"/>
+<text text-anchor="middle" x="265.5" y="-14.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Refer ตามข้อบ่งชี้ทางสูติกรรม</text>
 </g>
 <!-- Ox&#45;&gt;Ref2 -->
 <g id="edge12" class="edge">
 <title>Ox&#45;&gt;Ref2</title>
-<path fill="none" stroke="#5f6b78" d="M431.5,-66.97C431.5,-59.68 431.5,-51.36 431.5,-43.71"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="433.95,-43.36 431.5,-36.36 429.05,-43.36 433.95,-43.36"/>
+<path fill="none" stroke="#5f6b78" d="M265.5,-66.97C265.5,-59.68 265.5,-51.36 265.5,-43.71"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="267.95,-43.36 265.5,-36.36 263.05,-43.36 267.95,-43.36"/>
 </g>
 </g>
 </svg>

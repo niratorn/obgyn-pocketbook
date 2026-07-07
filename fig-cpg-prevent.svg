@@ -1,159 +1,159 @@
 <svg
- viewBox="0.00 0.00 855.00 376.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 372)">
+ viewBox="0.00 0.00 662.50 378.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 374)">
 <title>prev</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-372 851,-372 851,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-374 658.5,-374 658.5,4 -4,4"/>
 <!-- S -->
 <g id="node1" class="node">
 <title>S</title>
-<path fill="#dfeaf6" stroke="#4f7ab0" d="M542.5,-368C542.5,-368 398.5,-368 398.5,-368 392.5,-368 386.5,-362 386.5,-356 386.5,-356 386.5,-344 386.5,-344 386.5,-338 392.5,-332 398.5,-332 398.5,-332 542.5,-332 542.5,-332 548.5,-332 554.5,-338 554.5,-344 554.5,-344 554.5,-356 554.5,-356 554.5,-362 548.5,-368 542.5,-368"/>
-<text text-anchor="middle" x="470.5" y="-346.9" font-family="Sarabun" font-size="12.00">ตั้งครรภ์เดี่ยว (singleton)</text>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M419.5,-370C419.5,-370 327.5,-370 327.5,-370 321.5,-370 315.5,-364 315.5,-358 315.5,-358 315.5,-346 315.5,-346 315.5,-340 321.5,-334 327.5,-334 327.5,-334 419.5,-334 419.5,-334 425.5,-334 431.5,-340 431.5,-346 431.5,-346 431.5,-358 431.5,-358 431.5,-364 425.5,-370 419.5,-370"/>
+<text text-anchor="middle" x="373.5" y="-348.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ตั้งครรภ์เดี่ยว (singleton)</text>
 </g>
 <!-- A -->
 <g id="node2" class="node">
 <title>A</title>
-<path fill="#fdeecf" stroke="#d9a441" d="M450.5,-301C450.5,-301 302.5,-301 302.5,-301 296.5,-301 290.5,-295 290.5,-289 290.5,-289 290.5,-277 290.5,-277 290.5,-271 296.5,-265 302.5,-265 302.5,-265 450.5,-265 450.5,-265 456.5,-265 462.5,-271 462.5,-277 462.5,-277 462.5,-289 462.5,-289 462.5,-295 456.5,-301 450.5,-301"/>
-<text text-anchor="middle" x="376.5" y="-279.9" font-family="Sarabun" font-size="12.00">ไม่มีประวัติคลอดก่อนกำหนด</text>
+<path fill="#fdeecf" stroke="#d9a441" d="M353.5,-303C353.5,-303 249.5,-303 249.5,-303 243.5,-303 237.5,-297 237.5,-291 237.5,-291 237.5,-279 237.5,-279 237.5,-273 243.5,-267 249.5,-267 249.5,-267 353.5,-267 353.5,-267 359.5,-267 365.5,-273 365.5,-279 365.5,-279 365.5,-291 365.5,-291 365.5,-297 359.5,-303 353.5,-303"/>
+<text text-anchor="middle" x="301.5" y="-281.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ไม่มีประวัติคลอดก่อนกำหนด</text>
 </g>
 <!-- S&#45;&gt;A -->
 <g id="edge1" class="edge">
 <title>S&#45;&gt;A</title>
-<path fill="none" stroke="#5f6b78" d="M445.8,-331.92C434.02,-323.78 419.81,-313.95 407.33,-305.32"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="408.51,-303.16 401.36,-301.19 405.72,-307.19 408.51,-303.16"/>
+<path fill="none" stroke="#5f6b78" d="M354.58,-333.92C345.81,-326 335.27,-316.48 325.9,-308.03"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="327.38,-306.06 320.54,-303.19 324.09,-309.7 327.38,-306.06"/>
 </g>
 <!-- B -->
 <g id="node3" class="node">
 <title>B</title>
-<path fill="#fdeecf" stroke="#d9a441" d="M686.5,-301C686.5,-301 546.5,-301 546.5,-301 540.5,-301 534.5,-295 534.5,-289 534.5,-289 534.5,-277 534.5,-277 534.5,-271 540.5,-265 546.5,-265 546.5,-265 686.5,-265 686.5,-265 692.5,-265 698.5,-271 698.5,-277 698.5,-277 698.5,-289 698.5,-289 698.5,-295 692.5,-301 686.5,-301"/>
-<text text-anchor="middle" x="616.5" y="-279.9" font-family="Sarabun" font-size="12.00">มีประวัติคลอดก่อนกำหนด</text>
+<path fill="#fdeecf" stroke="#d9a441" d="M533,-303C533,-303 438,-303 438,-303 432,-303 426,-297 426,-291 426,-291 426,-279 426,-279 426,-273 432,-267 438,-267 438,-267 533,-267 533,-267 539,-267 545,-273 545,-279 545,-279 545,-291 545,-291 545,-297 539,-303 533,-303"/>
+<text text-anchor="middle" x="485.5" y="-281.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">มีประวัติคลอดก่อนกำหนด</text>
 </g>
 <!-- S&#45;&gt;B -->
 <g id="edge2" class="edge">
 <title>S&#45;&gt;B</title>
-<path fill="none" stroke="#5f6b78" d="M508.86,-331.92C528.15,-323.33 551.64,-312.88 571.74,-303.93"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="572.74,-306.16 578.14,-301.08 570.75,-301.69 572.74,-306.16"/>
+<path fill="none" stroke="#5f6b78" d="M402.93,-333.92C417.22,-325.63 434.51,-315.59 449.58,-306.85"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="451.06,-308.82 455.88,-303.19 448.6,-304.58 451.06,-308.82"/>
 </g>
 <!-- US -->
 <g id="node4" class="node">
 <title>US</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M253.5,-227.5C253.5,-227.5 91.5,-227.5 91.5,-227.5 85.5,-227.5 79.5,-221.5 79.5,-215.5 79.5,-215.5 79.5,-197.5 79.5,-197.5 79.5,-191.5 85.5,-185.5 91.5,-185.5 91.5,-185.5 253.5,-185.5 253.5,-185.5 259.5,-185.5 265.5,-191.5 265.5,-197.5 265.5,-197.5 265.5,-215.5 265.5,-215.5 265.5,-221.5 259.5,-227.5 253.5,-227.5"/>
-<text text-anchor="middle" x="172.5" y="-209.9" font-family="Sarabun" font-size="12.00">ตรวจ U/S ทางหน้าท้องดูปากมดลูก*</text>
-<text text-anchor="middle" x="172.5" y="-196.9" font-family="Sarabun" font-size="12.00">ที่ GA 18&#45;24 สัปดาห์</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M199,-229C199,-229 70,-229 70,-229 64,-229 58,-223 58,-217 58,-217 58,-199 58,-199 58,-193 64,-187 70,-187 70,-187 199,-187 199,-187 205,-187 211,-193 211,-199 211,-199 211,-217 211,-217 211,-223 205,-229 199,-229"/>
+<text text-anchor="middle" x="134.5" y="-211.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ตรวจ U/S ทางหน้าท้องดูปากมดลูก*</text>
+<text text-anchor="middle" x="134.5" y="-197.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ที่ GA 18&#45;24 สัปดาห์</text>
 </g>
 <!-- A&#45;&gt;US -->
 <g id="edge3" class="edge">
 <title>A&#45;&gt;US</title>
-<path fill="none" stroke="#5f6b78" d="M329.7,-264.91C301.37,-254.56 264.92,-241.25 234.25,-230.05"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="234.82,-227.65 227.4,-227.55 233.13,-232.25 234.82,-227.65"/>
+<path fill="none" stroke="#5f6b78" d="M263.61,-266.98C240.55,-256.63 210.8,-243.27 185.67,-231.98"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="186.44,-229.64 179.05,-229.01 184.43,-234.11 186.44,-229.64"/>
 </g>
 <!-- TVCL -->
 <g id="node5" class="node">
 <title>TVCL</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M453.5,-227.5C453.5,-227.5 299.5,-227.5 299.5,-227.5 293.5,-227.5 287.5,-221.5 287.5,-215.5 287.5,-215.5 287.5,-197.5 287.5,-197.5 287.5,-191.5 293.5,-185.5 299.5,-185.5 299.5,-185.5 453.5,-185.5 453.5,-185.5 459.5,-185.5 465.5,-191.5 465.5,-197.5 465.5,-197.5 465.5,-215.5 465.5,-215.5 465.5,-221.5 459.5,-227.5 453.5,-227.5"/>
-<text text-anchor="middle" x="376.5" y="-209.9" font-family="Sarabun" font-size="12.00">วัดความยาวปากมดลูก* (TVCL)</text>
-<text text-anchor="middle" x="376.5" y="-196.9" font-family="Sarabun" font-size="12.00">ที่ GA 18&#45;24 สัปดาห์</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M358,-229C358,-229 245,-229 245,-229 239,-229 233,-223 233,-217 233,-217 233,-199 233,-199 233,-193 239,-187 245,-187 245,-187 358,-187 358,-187 364,-187 370,-193 370,-199 370,-199 370,-217 370,-217 370,-223 364,-229 358,-229"/>
+<text text-anchor="middle" x="301.5" y="-211.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">วัดความยาวปากมดลูก* (TVCL)</text>
+<text text-anchor="middle" x="301.5" y="-197.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ที่ GA 18&#45;24 สัปดาห์</text>
 </g>
 <!-- A&#45;&gt;TVCL -->
 <g id="edge4" class="edge">
 <title>A&#45;&gt;TVCL</title>
-<path fill="none" stroke="#5f6b78" d="M376.5,-264.72C376.5,-255.8 376.5,-244.7 376.5,-234.66"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="378.95,-234.59 376.5,-227.59 374.05,-234.59 378.95,-234.59"/>
+<path fill="none" stroke="#5f6b78" d="M301.5,-266.98C301.5,-257.94 301.5,-246.61 301.5,-236.36"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="303.95,-236.14 301.5,-229.14 299.05,-236.14 303.95,-236.14"/>
 </g>
 <!-- PROG100 -->
 <g id="node8" class="node">
 <title>PROG100</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M835,-234C835,-234 500,-234 500,-234 494,-234 488,-228 488,-222 488,-222 488,-191 488,-191 488,-185 494,-179 500,-179 500,-179 835,-179 835,-179 841,-179 847,-185 847,-191 847,-191 847,-222 847,-222 847,-228 841,-234 835,-234"/>
-<text text-anchor="middle" x="667.5" y="-216.4" font-family="Sarabun" font-size="12.00">Micronized progesterone 100&#45;200 มก. เหน็บช่องคลอดก่อนนอน</text>
-<text text-anchor="middle" x="667.5" y="-203.4" font-family="Sarabun" font-size="12.00">วันละครั้ง เริ่ม GA 16&#45;20 จนถึง 36 สัปดาห์</text>
-<text text-anchor="middle" x="667.5" y="-190.4" font-family="Sarabun" font-size="12.00">(เดิม 17&#45;OHPC 250 มก. IM ทุกสัปดาห์ &#45; FDA ยกเลิกแล้ว)</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M642.5,-236C642.5,-236 404.5,-236 404.5,-236 398.5,-236 392.5,-230 392.5,-224 392.5,-224 392.5,-192 392.5,-192 392.5,-186 398.5,-180 404.5,-180 404.5,-180 642.5,-180 642.5,-180 648.5,-180 654.5,-186 654.5,-192 654.5,-192 654.5,-224 654.5,-224 654.5,-230 648.5,-236 642.5,-236"/>
+<text text-anchor="middle" x="523.5" y="-218.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Micronized progesterone 100&#45;200 มก. เหน็บช่องคลอดก่อนนอน</text>
+<text text-anchor="middle" x="523.5" y="-204.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">วันละครั้ง เริ่ม GA 16&#45;20 จนถึง 36 สัปดาห์</text>
+<text text-anchor="middle" x="523.5" y="-190.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(เดิม 17&#45;OHPC 250 มก. IM ทุกสัปดาห์ &#45; FDA ยกเลิกแล้ว)</text>
 </g>
 <!-- B&#45;&gt;PROG100 -->
 <g id="edge9" class="edge">
 <title>B&#45;&gt;PROG100</title>
-<path fill="none" stroke="#5f6b78" d="M628.33,-264.72C633.4,-257.32 639.49,-248.42 645.34,-239.87"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="647.41,-241.19 649.34,-234.03 643.36,-238.42 647.41,-241.19"/>
+<path fill="none" stroke="#5f6b78" d="M494.12,-266.98C497.79,-259.75 502.19,-251.05 506.47,-242.62"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="508.72,-243.6 509.69,-236.25 504.35,-241.38 508.72,-243.6"/>
 </g>
 <!-- ROUTINE -->
 <g id="node6" class="node">
 <title>ROUTINE</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M431.5,-128.5C431.5,-128.5 337.5,-128.5 337.5,-128.5 331.5,-128.5 325.5,-122.5 325.5,-116.5 325.5,-116.5 325.5,-104.5 325.5,-104.5 325.5,-98.5 331.5,-92.5 337.5,-92.5 337.5,-92.5 431.5,-92.5 431.5,-92.5 437.5,-92.5 443.5,-98.5 443.5,-104.5 443.5,-104.5 443.5,-116.5 443.5,-116.5 443.5,-122.5 437.5,-128.5 431.5,-128.5"/>
-<text text-anchor="middle" x="384.5" y="-107.4" font-family="Sarabun" font-size="12.00">ฝากครรภ์ตามปกติ</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M341.5,-129C341.5,-129 273.5,-129 273.5,-129 267.5,-129 261.5,-123 261.5,-117 261.5,-117 261.5,-105 261.5,-105 261.5,-99 267.5,-93 273.5,-93 273.5,-93 341.5,-93 341.5,-93 347.5,-93 353.5,-99 353.5,-105 353.5,-105 353.5,-117 353.5,-117 353.5,-123 347.5,-129 341.5,-129"/>
+<text text-anchor="middle" x="307.5" y="-107.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ฝากครรภ์ตามปกติ</text>
 </g>
 <!-- US&#45;&gt;ROUTINE -->
 <g id="edge5" class="edge">
 <title>US&#45;&gt;ROUTINE</title>
-<path fill="none" stroke="#5f6b78" d="M203.54,-185.49C220.97,-174.85 243.4,-162.12 264.5,-153 285.41,-143.97 291.93,-145.32 313.5,-138 319.95,-135.81 326.69,-133.43 333.34,-131.01"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="334.22,-133.3 339.95,-128.59 332.54,-128.7 334.22,-133.3"/>
-<text text-anchor="middle" x="271" y="-156" font-family="Sarabun" font-size="10.00">ปกติ</text>
+<path fill="none" stroke="#5f6b78" d="M157.57,-186.87C170.89,-176.01 188.35,-163.03 205.5,-154 223.78,-144.37 230.33,-146.7 249.5,-139 254.91,-136.83 260.53,-134.41 266.06,-131.94"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="267.13,-134.15 272.49,-129.03 265.1,-129.69 267.13,-134.15"/>
+<text text-anchor="middle" x="212" y="-157" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ปกติ</text>
 </g>
 <!-- PROG200 -->
 <g id="node7" class="node">
 <title>PROG200</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M291,-138C291,-138 12,-138 12,-138 6,-138 0,-132 0,-126 0,-126 0,-95 0,-95 0,-89 6,-83 12,-83 12,-83 291,-83 291,-83 297,-83 303,-89 303,-95 303,-95 303,-126 303,-126 303,-132 297,-138 291,-138"/>
-<text text-anchor="middle" x="151.5" y="-120.4" font-family="Sarabun" font-size="12.00">Micronized progesterone 200 มก. เหน็บช่องคลอด</text>
-<text text-anchor="middle" x="151.5" y="-107.4" font-family="Sarabun" font-size="12.00">หรือเจล 90 มก. วันละครั้ง ตั้งแต่วินิจฉัยจนถึง GA 36 สัปดาห์</text>
-<text text-anchor="middle" x="151.5" y="-94.4" font-family="Sarabun" font-size="12.00">(ปากมดลูก &lt; 10 มม. การเย็บผูกปากมดลูกอาจมีประโยชน์)</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M227,-139C227,-139 12,-139 12,-139 6,-139 0,-133 0,-127 0,-127 0,-95 0,-95 0,-89 6,-83 12,-83 12,-83 227,-83 227,-83 233,-83 239,-89 239,-95 239,-95 239,-127 239,-127 239,-133 233,-139 227,-139"/>
+<text text-anchor="middle" x="119.5" y="-121.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">Micronized progesterone 200 มก. เหน็บช่องคลอด</text>
+<text text-anchor="middle" x="119.5" y="-107.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">หรือเจล 90 มก. วันละครั้ง ตั้งแต่วินิจฉัยจนถึง GA 36 สัปดาห์</text>
+<text text-anchor="middle" x="119.5" y="-93.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">(ปากมดลูก &lt; 10 มม. การเย็บผูกปากมดลูกอาจมีประโยชน์)</text>
 </g>
 <!-- US&#45;&gt;PROG200 -->
 <g id="edge6" class="edge">
 <title>US&#45;&gt;PROG200</title>
-<path fill="none" stroke="#5f6b78" d="M167.94,-185.1C165.36,-173.53 162.06,-158.75 159.09,-145.48"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="161.4,-144.58 157.48,-138.29 156.62,-145.65 161.4,-144.58"/>
-<text text-anchor="middle" x="179" y="-156" font-family="Sarabun" font-size="10.00">ผิดปกติ**</text>
+<path fill="none" stroke="#5f6b78" d="M131.32,-186.85C129.46,-175.07 127.06,-159.89 124.91,-146.27"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="127.33,-145.86 123.81,-139.33 122.49,-146.62 127.33,-145.86"/>
+<text text-anchor="middle" x="140.5" y="-157" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ผิดปกติ**</text>
 </g>
 <!-- TVCL&#45;&gt;ROUTINE -->
 <g id="edge7" class="edge">
 <title>TVCL&#45;&gt;ROUTINE</title>
-<path fill="none" stroke="#5f6b78" d="M378.24,-185.1C379.47,-170.63 381.13,-151.13 382.43,-135.83"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="384.88,-135.89 383.04,-128.71 380,-135.47 384.88,-135.89"/>
-<text text-anchor="middle" x="400" y="-156" font-family="Sarabun" font-size="10.00">≥ 25 มม.</text>
+<path fill="none" stroke="#5f6b78" d="M302.77,-186.85C303.7,-172.16 304.96,-152.16 305.95,-136.53"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="308.41,-136.39 306.41,-129.25 303.52,-136.08 308.41,-136.39"/>
+<text text-anchor="middle" x="318" y="-157" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">≥ 25 มม.</text>
 </g>
 <!-- TVCL&#45;&gt;PROG200 -->
 <g id="edge8" class="edge">
 <title>TVCL&#45;&gt;PROG200</title>
-<path fill="none" stroke="#5f6b78" d="M342.31,-185.27C323.81,-174.81 300.33,-162.33 278.5,-153 268.25,-148.62 257.38,-144.43 246.48,-140.5"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="247.11,-138.12 239.69,-138.09 245.47,-142.74 247.11,-138.12"/>
-<text text-anchor="middle" x="320" y="-156" font-family="Sarabun" font-size="10.00">&lt; 25 มม.</text>
+<path fill="none" stroke="#5f6b78" d="M273.03,-186.83C257.59,-176.35 237.94,-163.73 219.5,-154 211.6,-149.83 203.2,-145.77 194.75,-141.91"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="195.68,-139.64 188.29,-139 193.67,-144.11 195.68,-139.64"/>
+<text text-anchor="middle" x="251" y="-157" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">&lt; 25 มม.</text>
 </g>
 <!-- MON -->
 <g id="node9" class="node">
 <title>MON</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M750,-131.5C750,-131.5 585,-131.5 585,-131.5 579,-131.5 573,-125.5 573,-119.5 573,-119.5 573,-101.5 573,-101.5 573,-95.5 579,-89.5 585,-89.5 585,-89.5 750,-89.5 750,-89.5 756,-89.5 762,-95.5 762,-101.5 762,-101.5 762,-119.5 762,-119.5 762,-125.5 756,-131.5 750,-131.5"/>
-<text text-anchor="middle" x="667.5" y="-113.9" font-family="Sarabun" font-size="12.00">วัดความยาวปากมดลูกทุก 1&#45;4 สัปดาห์</text>
-<text text-anchor="middle" x="667.5" y="-100.9" font-family="Sarabun" font-size="12.00">ในช่วง 16&#45;23+6 สัปดาห์</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M590.5,-132C590.5,-132 456.5,-132 456.5,-132 450.5,-132 444.5,-126 444.5,-120 444.5,-120 444.5,-102 444.5,-102 444.5,-96 450.5,-90 456.5,-90 456.5,-90 590.5,-90 590.5,-90 596.5,-90 602.5,-96 602.5,-102 602.5,-102 602.5,-120 602.5,-120 602.5,-126 596.5,-132 590.5,-132"/>
+<text text-anchor="middle" x="523.5" y="-114.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">วัดความยาวปากมดลูกทุก 1&#45;4 สัปดาห์</text>
+<text text-anchor="middle" x="523.5" y="-100.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ในช่วง 16&#45;23+6 สัปดาห์</text>
 </g>
 <!-- PROG100&#45;&gt;MON -->
 <g id="edge10" class="edge">
 <title>PROG100&#45;&gt;MON</title>
-<path fill="none" stroke="#5f6b78" d="M667.5,-178.81C667.5,-166.29 667.5,-151.39 667.5,-138.79"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="669.95,-138.67 667.5,-131.67 665.05,-138.67 669.95,-138.67"/>
+<path fill="none" stroke="#5f6b78" d="M523.5,-179.78C523.5,-167.13 523.5,-152.11 523.5,-139.44"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="525.95,-139.28 523.5,-132.28 521.05,-139.28 525.95,-139.28"/>
 </g>
 <!-- CERC -->
 <g id="node10" class="node">
 <title>CERC</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M647.5,-42C647.5,-42 533.5,-42 533.5,-42 527.5,-42 521.5,-36 521.5,-30 521.5,-30 521.5,-12 521.5,-12 521.5,-6 527.5,0 533.5,0 533.5,0 647.5,0 647.5,0 653.5,0 659.5,-6 659.5,-12 659.5,-12 659.5,-30 659.5,-30 659.5,-36 653.5,-42 647.5,-42"/>
-<text text-anchor="middle" x="590.5" y="-24.4" font-family="Sarabun" font-size="12.00">เย็บผูกปากมดลูก</text>
-<text text-anchor="middle" x="590.5" y="-11.4" font-family="Sarabun" font-size="12.00">และให้โปรเจสเตอโรนต่อ</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M503.5,-42C503.5,-42 413.5,-42 413.5,-42 407.5,-42 401.5,-36 401.5,-30 401.5,-30 401.5,-12 401.5,-12 401.5,-6 407.5,0 413.5,0 413.5,0 503.5,0 503.5,0 509.5,0 515.5,-6 515.5,-12 515.5,-12 515.5,-30 515.5,-30 515.5,-36 509.5,-42 503.5,-42"/>
+<text text-anchor="middle" x="458.5" y="-24.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">เย็บผูกปากมดลูก</text>
+<text text-anchor="middle" x="458.5" y="-10.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">และให้โปรเจสเตอโรนต่อ</text>
 </g>
 <!-- MON&#45;&gt;CERC -->
 <g id="edge11" class="edge">
 <title>MON&#45;&gt;CERC</title>
-<path fill="none" stroke="#5f6b78" d="M649.64,-89.21C638.76,-76.84 624.75,-60.92 613.1,-47.68"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="614.73,-45.82 608.26,-42.18 611.05,-49.06 614.73,-45.82"/>
-<text text-anchor="middle" x="648" y="-60" font-family="Sarabun" font-size="10.00">&lt; 25 มม.</text>
+<path fill="none" stroke="#5f6b78" d="M508.42,-89.59C499.32,-77.26 487.62,-61.42 477.84,-48.18"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="479.62,-46.47 473.49,-42.3 475.68,-49.39 479.62,-46.47"/>
+<text text-anchor="middle" x="504" y="-60" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">&lt; 25 มม.</text>
 </g>
 <!-- CONT -->
 <g id="node11" class="node">
 <title>CONT</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M793.5,-39C793.5,-39 693.5,-39 693.5,-39 687.5,-39 681.5,-33 681.5,-27 681.5,-27 681.5,-15 681.5,-15 681.5,-9 687.5,-3 693.5,-3 693.5,-3 793.5,-3 793.5,-3 799.5,-3 805.5,-9 805.5,-15 805.5,-15 805.5,-27 805.5,-27 805.5,-33 799.5,-39 793.5,-39"/>
-<text text-anchor="middle" x="743.5" y="-17.9" font-family="Sarabun" font-size="12.00">ให้โปรเจสเตอโรนต่อ</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M625,-39C625,-39 550,-39 550,-39 544,-39 538,-33 538,-27 538,-27 538,-15 538,-15 538,-9 544,-3 550,-3 550,-3 625,-3 625,-3 631,-3 637,-9 637,-15 637,-15 637,-27 637,-27 637,-33 631,-39 625,-39"/>
+<text text-anchor="middle" x="587.5" y="-17.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ให้โปรเจสเตอโรนต่อ</text>
 </g>
 <!-- MON&#45;&gt;CONT -->
 <g id="edge12" class="edge">
 <title>MON&#45;&gt;CONT</title>
-<path fill="none" stroke="#5f6b78" d="M685.13,-89.21C696.64,-75.95 711.69,-58.62 723.62,-44.88"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="725.79,-46.13 728.53,-39.23 722.09,-42.91 725.79,-46.13"/>
-<text text-anchor="middle" x="730" y="-60" font-family="Sarabun" font-size="10.00">≥ 25 มม.</text>
+<path fill="none" stroke="#5f6b78" d="M538.34,-89.59C548.1,-76.17 560.88,-58.6 570.96,-44.74"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="572.97,-46.15 575.1,-39.05 569,-43.27 572.97,-46.15"/>
+<text text-anchor="middle" x="573" y="-60" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">≥ 25 มม.</text>
 </g>
 </g>
 </svg>

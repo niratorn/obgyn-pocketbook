@@ -1,115 +1,115 @@
 <svg
- viewBox="0.00 0.00 1144.00 573.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 569)">
+ viewBox="0.00 0.00 800.50 586.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 582)">
 <title>pprom</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-569 1140,-569 1140,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-582 796.5,-582 796.5,4 -4,4"/>
 <!-- S -->
 <g id="node1" class="node">
 <title>S</title>
-<path fill="#dfeaf6" stroke="#4f7ab0" d="M736,-565C736,-565 393,-565 393,-565 387,-565 381,-559 381,-553 381,-553 381,-535 381,-535 381,-529 387,-523 393,-523 393,-523 736,-523 736,-523 742,-523 748,-529 748,-535 748,-535 748,-553 748,-553 748,-559 742,-565 736,-565"/>
-<text text-anchor="middle" x="564.5" y="-547.4" font-family="Sarabun" font-size="12.00">การวินิจฉัย: sterile speculum พบน้ำคร่ำจากปากมดลูก/ในช่องคลอด</text>
-<text text-anchor="middle" x="564.5" y="-534.4" font-family="Sarabun" font-size="12.00">หรือ nitrazine / fern test ให้ผลบวก</text>
+<path fill="#dfeaf6" stroke="#4f7ab0" d="M511,-578C511,-578 267,-578 267,-578 261,-578 255,-572 255,-566 255,-566 255,-548 255,-548 255,-542 261,-536 267,-536 267,-536 511,-536 511,-536 517,-536 523,-542 523,-548 523,-548 523,-566 523,-566 523,-572 517,-578 511,-578"/>
+<text text-anchor="middle" x="389" y="-560.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">การวินิจฉัย: sterile speculum พบน้ำคร่ำจากปากมดลูก/ในช่องคลอด</text>
+<text text-anchor="middle" x="389" y="-546.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">หรือ nitrazine / fern test ให้ผลบวก</text>
 </g>
 <!-- A -->
 <g id="node2" class="node">
 <title>A</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M766.5,-492C766.5,-492 362.5,-492 362.5,-492 356.5,-492 350.5,-486 350.5,-480 350.5,-480 350.5,-436 350.5,-436 350.5,-430 356.5,-424 362.5,-424 362.5,-424 766.5,-424 766.5,-424 772.5,-424 778.5,-430 778.5,-436 778.5,-436 778.5,-480 778.5,-480 778.5,-486 772.5,-492 766.5,-492"/>
-<text text-anchor="middle" x="564.5" y="-474.4" font-family="Sarabun" font-size="12.00">• U/S ประเมินอายุครรภ์ น้ำหนัก ปริมาณน้ำคร่ำ ส่วนนำ การเจริญเติบโต ความผิดปกติ</text>
-<text text-anchor="middle" x="564.5" y="-461.4" font-family="Sarabun" font-size="12.00">• เพาะเชื้อจากปัสสาวะ ช่องคลอด และทวารหนัก</text>
-<text text-anchor="middle" x="564.5" y="-448.4" font-family="Sarabun" font-size="12.00">• ตรวจ CBC</text>
-<text text-anchor="middle" x="564.5" y="-435.4" font-family="Sarabun" font-size="12.00">• fetal surveillance เช่น CTG กรณี GA ≥ 28 สัปดาห์</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M538.5,-505C538.5,-505 239.5,-505 239.5,-505 233.5,-505 227.5,-499 227.5,-493 227.5,-493 227.5,-447 227.5,-447 227.5,-441 233.5,-435 239.5,-435 239.5,-435 538.5,-435 538.5,-435 544.5,-435 550.5,-441 550.5,-447 550.5,-447 550.5,-493 550.5,-493 550.5,-499 544.5,-505 538.5,-505"/>
+<text text-anchor="middle" x="389" y="-487.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• U/S ประเมินอายุครรภ์ น้ำหนัก ปริมาณน้ำคร่ำ ส่วนนำ การเจริญเติบโต ความผิดปกติ</text>
+<text text-anchor="middle" x="389" y="-473.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• เพาะเชื้อจากปัสสาวะ ช่องคลอด และทวารหนัก</text>
+<text text-anchor="middle" x="389" y="-459.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ตรวจ CBC</text>
+<text text-anchor="middle" x="389" y="-445.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• fetal surveillance เช่น CTG กรณี GA ≥ 28 สัปดาห์</text>
 </g>
 <!-- S&#45;&gt;A -->
 <g id="edge1" class="edge">
 <title>S&#45;&gt;A</title>
-<path fill="none" stroke="#5f6b78" d="M564.5,-522.67C564.5,-515.68 564.5,-507.59 564.5,-499.56"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="566.95,-499.25 564.5,-492.25 562.05,-499.25 566.95,-499.25"/>
+<path fill="none" stroke="#5f6b78" d="M389,-535.86C389,-528.87 389,-520.75 389,-512.67"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="391.45,-512.29 389,-505.29 386.55,-512.29 391.45,-512.29"/>
 </g>
 <!-- D -->
 <g id="node3" class="node">
 <title>D</title>
-<polygon fill="#fdeecf" stroke="#d9a441" points="564.5,-393 277.5,-338 564.5,-283 851.5,-338 564.5,-393"/>
-<text text-anchor="middle" x="564.5" y="-347.9" font-family="Sarabun" font-size="12.00">chorioamnionitis, placental abruption,</text>
-<text text-anchor="middle" x="564.5" y="-334.9" font-family="Sarabun" font-size="12.00">fetal death, non&#45;reassuring testing,</text>
-<text text-anchor="middle" x="564.5" y="-321.9" font-family="Sarabun" font-size="12.00">advanced labor?</text>
+<polygon fill="#fdeecf" stroke="#d9a441" points="389,-404 212,-348 389,-292 566,-348 389,-404"/>
+<text text-anchor="middle" x="389" y="-358.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">chorioamnionitis, placental abruption,</text>
+<text text-anchor="middle" x="389" y="-344.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">fetal death, non&#45;reassuring testing,</text>
+<text text-anchor="middle" x="389" y="-330.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">advanced labor?</text>
 </g>
 <!-- A&#45;&gt;D -->
 <g id="edge2" class="edge">
 <title>A&#45;&gt;D</title>
-<path fill="none" stroke="#5f6b78" d="M564.5,-423.82C564.5,-416.51 564.5,-408.55 564.5,-400.52"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="566.95,-400.15 564.5,-393.15 562.05,-400.15 566.95,-400.15"/>
+<path fill="none" stroke="#5f6b78" d="M389,-434.93C389,-427.61 389,-419.65 389,-411.63"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="391.45,-411.26 389,-404.26 386.55,-411.26 391.45,-411.26"/>
 </g>
 <!-- DEL -->
 <g id="node4" class="node">
 <title>DEL</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M317,-209.5C317,-209.5 12,-209.5 12,-209.5 6,-209.5 0,-203.5 0,-197.5 0,-197.5 0,-153.5 0,-153.5 0,-147.5 6,-141.5 12,-141.5 12,-141.5 317,-141.5 317,-141.5 323,-141.5 329,-147.5 329,-153.5 329,-153.5 329,-197.5 329,-197.5 329,-203.5 323,-209.5 317,-209.5"/>
-<text text-anchor="middle" x="164.5" y="-191.9" font-family="Sarabun" font-size="12.00">ให้คลอด</text>
-<text text-anchor="middle" x="164.5" y="-178.9" font-family="Sarabun" font-size="12.00">• ยาปฏิชีวนะขณะคลอดป้องกัน GBS</text>
-<text text-anchor="middle" x="164.5" y="-165.9" font-family="Sarabun" font-size="12.00">• ถ้า chorioamnionitis ให้ ATB broad spectrum</text>
-<text text-anchor="middle" x="164.5" y="-152.9" font-family="Sarabun" font-size="12.00">• GA 24&#45;32 สัปดาห์ ให้ MgSO4 for neuroprotection</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M206,-216C206,-216 12,-216 12,-216 6,-216 0,-210 0,-204 0,-204 0,-158 0,-158 0,-152 6,-146 12,-146 12,-146 206,-146 206,-146 212,-146 218,-152 218,-158 218,-158 218,-204 218,-204 218,-210 212,-216 206,-216"/>
+<text text-anchor="middle" x="109" y="-198.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">ให้คลอด</text>
+<text text-anchor="middle" x="109" y="-184.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ยาปฏิชีวนะขณะคลอดป้องกัน GBS</text>
+<text text-anchor="middle" x="109" y="-170.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ถ้า chorioamnionitis ให้ ATB broad spectrum</text>
+<text text-anchor="middle" x="109" y="-156.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• GA 24&#45;32 สัปดาห์ ให้ MgSO4 for neuroprotection</text>
 </g>
 <!-- D&#45;&gt;DEL -->
 <g id="edge3" class="edge">
 <title>D&#45;&gt;DEL</title>
-<path fill="none" stroke="#5f6b78" d="M473.23,-300.38C407.36,-273.95 318.88,-238.44 253.52,-212.22"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="254.28,-209.89 246.87,-209.55 252.46,-214.43 254.28,-209.89"/>
-<text text-anchor="middle" x="391" y="-260" font-family="Sarabun" font-size="10.00">ใช่</text>
+<path fill="none" stroke="#5f6b78" d="M328.24,-311.2C282.37,-284.17 219.58,-247.16 172.95,-219.68"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="174.04,-217.48 166.77,-216.04 171.55,-221.71 174.04,-217.48"/>
+<text text-anchor="middle" x="268.5" y="-269" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ใช่</text>
 </g>
 <!-- G1 -->
 <g id="node5" class="node">
 <title>G1</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M766.5,-242C766.5,-242 362.5,-242 362.5,-242 356.5,-242 350.5,-236 350.5,-230 350.5,-230 350.5,-121 350.5,-121 350.5,-115 356.5,-109 362.5,-109 362.5,-109 766.5,-109 766.5,-109 772.5,-109 778.5,-115 778.5,-121 778.5,-121 778.5,-230 778.5,-230 778.5,-236 772.5,-242 766.5,-242"/>
-<text text-anchor="middle" x="564.5" y="-224.4" font-family="Sarabun" font-size="12.00">GA 24&#45;33+6 สัปดาห์</text>
-<text text-anchor="middle" x="564.5" y="-211.4" font-family="Sarabun" font-size="12.00">• ประเมิน chorioamnionitis, labor, abruption เป็นระยะ</text>
-<text text-anchor="middle" x="564.5" y="-198.4" font-family="Sarabun" font-size="12.00">• ประเมิน fetal well&#45;being และ growth เป็นระยะ</text>
-<text text-anchor="middle" x="564.5" y="-185.4" font-family="Sarabun" font-size="12.00">• ให้ corticosteroids single course</text>
-<text text-anchor="middle" x="564.5" y="-172.4" font-family="Sarabun" font-size="12.00">• ให้ยาปฏิชีวนะยืดอายุครรภ์ (prolong latency)</text>
-<text text-anchor="middle" x="564.5" y="-159.4" font-family="Sarabun" font-size="12.00">• คลอดเมื่อพบ chorioamnionitis / NRFT / abruption / advanced labor</text>
-<text text-anchor="middle" x="564.5" y="-146.4" font-family="Sarabun" font-size="12.00">• คลอดเมื่อ GA 34 (หรือ 37) สัปดาห์</text>
-<text text-anchor="middle" x="564.5" y="-133.4" font-family="Sarabun" font-size="12.00">• คลอดก่อน 37 สัปดาห์ ให้ ATB ป้องกัน GBS</text>
-<text text-anchor="middle" x="564.5" y="-120.4" font-family="Sarabun" font-size="12.00">• GA 24&#45;32 สัปดาห์ ให้ MgSO4 neuroprotection</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M525.5,-251C525.5,-251 252.5,-251 252.5,-251 246.5,-251 240.5,-245 240.5,-239 240.5,-239 240.5,-123 240.5,-123 240.5,-117 246.5,-111 252.5,-111 252.5,-111 525.5,-111 525.5,-111 531.5,-111 537.5,-117 537.5,-123 537.5,-123 537.5,-239 537.5,-239 537.5,-245 531.5,-251 525.5,-251"/>
+<text text-anchor="middle" x="389" y="-233.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">GA 24&#45;33+6 สัปดาห์</text>
+<text text-anchor="middle" x="389" y="-219.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ประเมิน chorioamnionitis, labor, abruption เป็นระยะ</text>
+<text text-anchor="middle" x="389" y="-205.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ประเมิน fetal well&#45;being และ growth เป็นระยะ</text>
+<text text-anchor="middle" x="389" y="-191.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ให้ corticosteroids single course</text>
+<text text-anchor="middle" x="389" y="-177.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ให้ยาปฏิชีวนะยืดอายุครรภ์ (prolong latency)</text>
+<text text-anchor="middle" x="389" y="-163.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• คลอดเมื่อพบ chorioamnionitis / NRFT / abruption / advanced labor</text>
+<text text-anchor="middle" x="389" y="-149.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• คลอดเมื่อ GA 34 (หรือ 37) สัปดาห์</text>
+<text text-anchor="middle" x="389" y="-135.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• คลอดก่อน 37 สัปดาห์ ให้ ATB ป้องกัน GBS</text>
+<text text-anchor="middle" x="389" y="-121.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• GA 24&#45;32 สัปดาห์ ให้ MgSO4 neuroprotection</text>
 </g>
 <!-- D&#45;&gt;G1 -->
 <g id="edge4" class="edge">
 <title>D&#45;&gt;G1</title>
-<path fill="none" stroke="#5f6b78" d="M564.5,-282.66C564.5,-271.99 564.5,-260.64 564.5,-249.48"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="566.95,-249.18 564.5,-242.18 562.05,-249.18 566.95,-249.18"/>
-<text text-anchor="middle" x="605" y="-260" font-family="Sarabun" font-size="10.00">ไม่ใช่ / GA 24&#45;33+6</text>
+<path fill="none" stroke="#5f6b78" d="M389,-291.6C389,-280.82 389,-269.35 389,-258.04"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="391.45,-258.03 389,-251.03 386.55,-258.03 391.45,-258.03"/>
+<text text-anchor="middle" x="416.5" y="-269" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ไม่ใช่ / GA 24&#45;33+6</text>
 </g>
 <!-- G2a -->
 <g id="node6" class="node">
 <title>G2a</title>
-<path fill="#eaf1f8" stroke="#7d9bc0" d="M1124,-235.5C1124,-235.5 813,-235.5 813,-235.5 807,-235.5 801,-229.5 801,-223.5 801,-223.5 801,-127.5 801,-127.5 801,-121.5 807,-115.5 813,-115.5 813,-115.5 1124,-115.5 1124,-115.5 1130,-115.5 1136,-121.5 1136,-127.5 1136,-127.5 1136,-223.5 1136,-223.5 1136,-229.5 1130,-235.5 1124,-235.5"/>
-<text text-anchor="middle" x="968.5" y="-217.9" font-family="Sarabun" font-size="12.00">GA 34&#45;36+6 สัปดาห์ (แบบ expectant)</text>
-<text text-anchor="middle" x="968.5" y="-204.9" font-family="Sarabun" font-size="12.00">• ให้การดูแลแบบ expectant</text>
-<text text-anchor="middle" x="968.5" y="-191.9" font-family="Sarabun" font-size="12.00">• ประเมิน chorioamnionitis, labor, abruption เป็นระยะ</text>
-<text text-anchor="middle" x="968.5" y="-178.9" font-family="Sarabun" font-size="12.00">• ประเมิน fetal well&#45;being และ growth เป็นระยะ</text>
-<text text-anchor="middle" x="968.5" y="-165.9" font-family="Sarabun" font-size="12.00">• corticosteroids single course (ถ้าไม่เคยได้)</text>
-<text text-anchor="middle" x="968.5" y="-152.9" font-family="Sarabun" font-size="12.00">• คลอดเมื่อพบ chorioamnionitis / NRFT / abruption</text>
-<text text-anchor="middle" x="968.5" y="-139.9" font-family="Sarabun" font-size="12.00">• คลอดเมื่อ GA 37 สัปดาห์</text>
-<text text-anchor="middle" x="968.5" y="-126.9" font-family="Sarabun" font-size="12.00">• คลอดก่อน 37 สัปดาห์ ให้ ATB ป้องกัน GBS</text>
+<path fill="#eaf1f8" stroke="#7d9bc0" d="M780.5,-244C780.5,-244 571.5,-244 571.5,-244 565.5,-244 559.5,-238 559.5,-232 559.5,-232 559.5,-130 559.5,-130 559.5,-124 565.5,-118 571.5,-118 571.5,-118 780.5,-118 780.5,-118 786.5,-118 792.5,-124 792.5,-130 792.5,-130 792.5,-232 792.5,-232 792.5,-238 786.5,-244 780.5,-244"/>
+<text text-anchor="middle" x="676" y="-226.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">GA 34&#45;36+6 สัปดาห์ (แบบ expectant)</text>
+<text text-anchor="middle" x="676" y="-212.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ให้การดูแลแบบ expectant</text>
+<text text-anchor="middle" x="676" y="-198.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ประเมิน chorioamnionitis, labor, abruption เป็นระยะ</text>
+<text text-anchor="middle" x="676" y="-184.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ประเมิน fetal well&#45;being และ growth เป็นระยะ</text>
+<text text-anchor="middle" x="676" y="-170.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• corticosteroids single course (ถ้าไม่เคยได้)</text>
+<text text-anchor="middle" x="676" y="-156.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• คลอดเมื่อพบ chorioamnionitis / NRFT / abruption</text>
+<text text-anchor="middle" x="676" y="-142.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• คลอดเมื่อ GA 37 สัปดาห์</text>
+<text text-anchor="middle" x="676" y="-128.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• คลอดก่อน 37 สัปดาห์ ให้ ATB ป้องกัน GBS</text>
 </g>
 <!-- D&#45;&gt;G2a -->
 <g id="edge5" class="edge">
 <title>D&#45;&gt;G2a</title>
-<path fill="none" stroke="#5f6b78" d="M656.43,-300.48C702.76,-282.07 760.22,-259.25 813.15,-238.22"/>
-<polygon fill="#5f6b78" stroke="#5f6b78" points="814.32,-240.39 819.92,-235.53 812.51,-235.84 814.32,-240.39"/>
-<text text-anchor="middle" x="794" y="-260" font-family="Sarabun" font-size="10.00">ไม่ใช่ / GA 34&#45;36+6</text>
+<path fill="none" stroke="#5f6b78" d="M450.92,-311.4C483.24,-292.82 523.84,-269.48 561.62,-247.76"/>
+<polygon fill="#5f6b78" stroke="#5f6b78" points="563.3,-249.62 568.14,-244.01 560.85,-245.37 563.3,-249.62"/>
+<text text-anchor="middle" x="550.5" y="-269" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">ไม่ใช่ / GA 34&#45;36+6</text>
 </g>
 <!-- G2b -->
 <g id="node7" class="node">
 <title>G2b</title>
-<path fill="#e3f3e0" stroke="#69a35a" d="M1101,-68C1101,-68 836,-68 836,-68 830,-68 824,-62 824,-56 824,-56 824,-12 824,-12 824,-6 830,0 836,0 836,0 1101,0 1101,0 1107,0 1113,-6 1113,-12 1113,-12 1113,-56 1113,-56 1113,-62 1107,-68 1101,-68"/>
-<text text-anchor="middle" x="968.5" y="-50.4" font-family="Sarabun" font-size="12.00">GA 34&#45;36+6 สัปดาห์ (ให้คลอด)</text>
-<text text-anchor="middle" x="968.5" y="-37.4" font-family="Sarabun" font-size="12.00">• ให้คลอด โดยชักนำการคลอด/ผ่าตัด ตามข้อบ่งชี้</text>
-<text text-anchor="middle" x="968.5" y="-24.4" font-family="Sarabun" font-size="12.00">• corticosteroids single course (ถ้าไม่เคยได้)</text>
-<text text-anchor="middle" x="968.5" y="-11.4" font-family="Sarabun" font-size="12.00">• ยาปฏิชีวนะขณะคลอดป้องกัน GBS</text>
+<path fill="#e3f3e0" stroke="#69a35a" d="M763.5,-70C763.5,-70 588.5,-70 588.5,-70 582.5,-70 576.5,-64 576.5,-58 576.5,-58 576.5,-12 576.5,-12 576.5,-6 582.5,0 588.5,0 588.5,0 763.5,0 763.5,0 769.5,0 775.5,-6 775.5,-12 775.5,-12 775.5,-58 775.5,-58 775.5,-64 769.5,-70 763.5,-70"/>
+<text text-anchor="middle" x="676" y="-52.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">GA 34&#45;36+6 สัปดาห์ (ให้คลอด)</text>
+<text text-anchor="middle" x="676" y="-38.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ให้คลอด โดยชักนำการคลอด/ผ่าตัด ตามข้อบ่งชี้</text>
+<text text-anchor="middle" x="676" y="-24.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• corticosteroids single course (ถ้าไม่เคยได้)</text>
+<text text-anchor="middle" x="676" y="-10.6" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="13.00">• ยาปฏิชีวนะขณะคลอดป้องกัน GBS</text>
 </g>
 <!-- G2a&#45;&gt;G2b -->
 <g id="edge6" class="edge">
 <title>G2a&#45;&gt;G2b</title>
-<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M968.5,-115.34C968.5,-99.15 968.5,-82.18 968.5,-68.03"/>
-<text text-anchor="middle" x="974.5" y="-86" font-family="Sarabun" font-size="10.00">หรือ</text>
+<path fill="none" stroke="#5f6b78" stroke-dasharray="5,2" d="M676,-117.68C676,-101.41 676,-84.47 676,-70.27"/>
+<text text-anchor="middle" x="682" y="-88" font-family="Sarabun, 'TH Sarabun New', Tahoma, sans-serif" font-size="10.00">หรือ</text>
 </g>
 </g>
 </svg>
