@@ -96,6 +96,11 @@ body.editing #main:focus{outline:none}
 @keyframes pbfbCurPress{0%,17%{transform:translate(0,0)}21%{transform:translate(1px,1.7px)}26%,67%{transform:translate(0,0)}71%{transform:translate(1px,1.7px)}76%,100%{transform:translate(0,0)}}
 @keyframes pbfbRip{0%,16%{transform:scale(.2);opacity:0}21%{opacity:.55}34%{transform:scale(1.85);opacity:0}100%{transform:scale(.2);opacity:0}}
 @media (prefers-reduced-motion:reduce){.pbfb-hi,.pbfb-cur,.pbfb-curTip,.pbfb-rip1,.pbfb-rip2{animation:none}.pbfb-rip{opacity:0}}
+</style><style id="fbNoSelect">
+@media (hover:none) and (pointer:coarse){
+body:not(.editing) #main{-webkit-touch-callout:none!important;-webkit-user-select:none;-moz-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}
+body:not(.editing) #main input,body:not(.editing) #main textarea,body:not(.editing) #main [contenteditable]{-webkit-user-select:text;user-select:text}
+}
 </style></head>
 <body class="">
 <div id="edBar">
